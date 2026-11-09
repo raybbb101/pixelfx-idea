@@ -1,11 +1,12 @@
 import { Particles, Lights, P, Rng, PAL, hex, mix, flare, sparkle, clamp, smooth, ease, rand, TAU, WHITE } from "../../core/index.js";
 import { rows, bayer, clip } from "../weather/_lib.js";
+import { cardStyle, drawCard, drawBadge } from "./_gacha.js";
 
 // A ten-pull as a star rain: a night sky fades in, ten shooting stars fall one after another and land in a
 // 5 x 2 grid of results, each with the light of its rarity; rarer stars fall slower with longer trails and land
 // harder (gold turns rays, the candy star flashes the whole screen in rainbow). They hold, twinkling, then each
 // bursts into sparkles and the sky fades away. The pull is the `stars` option: one letter a star, W B P G C.
-const D = 7.6, FADE_IN = 0.6, FIRST = 0.75, GAP = 0.22;
+const D = 10.4, FADE_IN = 0.6, FIRST = 0.75, GAP = 0.22;
 
 export const meta = {
   name: "Gacha star rain",
@@ -43,11 +44,12 @@ function plan(stars) {
     return s;
   });
 }
-// the results hold at least a second after the last star lands, then burst away and the sky fades out
+// the stars rest a moment after the last one lands, then turn into cards one by one; the cards hold, then
+// pop away into sparkles and the sky fades out
 function timing(S) {
-  const hold = Math.min(6.2, Math.max(5.0, Math.max(...S.map((s) => s.land)) + 1.1));
-  S.forEach((s) => (s.out = hold + s.i * 0.06));
-  return { hold, fade: hold + 0.85 };
+  const hold = Math.min(6.0, Math.max(4.6, Math.max(...S.map((s) => s.land)) + 0.8)), cards = Math.max(8.6, hold + 2.9);
+  S.forEach((s) => ((s.turn = hold + s.i * 0.09), (s.out = cards + s.i * 0.05)));
+  return { hold, fade: cards + 0.85 };
 }
 
 // a four-point star: long arms on the axes, short on the diagonals, a white-hot core
@@ -72,6 +74,8 @@ export function create(o) {
   const ps = new Particles({ rng: R, sparks: [WHITE, hex("#fff2b0"), hex("#ffc060"), hex("#c06030")] }), lights = new Lights();
   const landed = new Set(), popped = new Set();
   const top = Math.max(...S.map((s) => s.rank)), { hold: HOLD_END, fade: FADE_OUT } = timing(S);
+  S.forEach((s) => (s.st = cardStyle(s.ch, K)));
+  const turned = new Set();
   let t = 0;
   // the head of star s at time t, falling in from the upper right, speeding up
   const head = (s, t) => {
@@ -101,7 +105,15 @@ export function create(o) {
             ps.spawn(j % 3 ? P.SPARK : P.STAR, s.x, s.y, Math.cos(a) * sp, Math.sin(a) * sp, R.range(0.15, 0.3 + 0.08 * s.rank), col(R.int(2, 3)), 1);
           }
         }
-        if (!popped.has(s.i) && t >= s.out + 0.25) {
+        if (!turned.has(s.i) && t >= s.turn) {
+          turned.add(s.i);
+          lights.add(s.x, s.y, 30 + s.rank * 8, s.ramp[2], 0.6, 0.25);
+          for (let j = 0; j < 10 + s.rank * 4; j++) {
+            const a = R.range(0, TAU), sp = R.range(40, 100);
+            ps.spawn(j % 2 ? P.STAR : P.SPARK, s.x, s.y, Math.cos(a) * sp, Math.sin(a) * sp, R.range(0.2, 0.4), s.ch === "C" ? R.pick(K) : s.ramp[R.int(2, 3)], 1);
+          }
+        }
+        if (!popped.has(s.i) && t >= s.out + 0.35) {
           popped.add(s.i);
           lights.add(s.x, s.y, 20 + s.rank * 6, s.ramp[2], 0.5, 0.2);
           for (let j = 0; j < 8 + s.rank * 3; j++) {
@@ -154,10 +166,10 @@ export function create(o) {
           p.glowLine(hx, hy, tx, ty, 4 + s.rank, s.ch === "C" ? K[6] : s.ramp[2], 0.35);
           starIcon(p, hx, hy, Math.max(2, L * 0.6), s.ramp, 1, s.ch === "C" ? K : null, t);
           p.glow(hx, hy, 10 + s.rank * 4, s.ramp[2], 0.5);
-        } else if (t >= s.land && t < s.out + 0.25) {
+        } else if (t >= s.land && t < s.turn + 0.06) {
           // landed: a flare and a ring, then it sits twinkling in its slot; rays turn behind the rare ones
           const q = (t - s.land) / 0.5, pop = t < s.land + 0.25 ? 1 + 0.6 * Math.sin(Math.PI * ((t - s.land) / 0.25)) : 1;
-          const tw = 1 + 0.15 * Math.sin(t * 5 + s.i), grow = t > s.out ? 1 + 0.8 * ((t - s.out) / 0.25) : 1, Ls = L * pop * tw * grow;
+          const tw = 1 + 0.15 * Math.sin(t * 5 + s.i), grow = t > s.turn - 0.15 ? 1 + 1.2 * clamp((t - s.turn + 0.15) / 0.15) : 1, Ls = L * pop * tw * grow;
           if (q < 1) {
             if (q < 0.4) flare(p, s.x, s.y, (14 + 8 * s.rank) * (1 - q / 0.4) + 3, 1 - q / 0.4, s.ramp);
             p.ring(s.x, s.y, 4 + (14 + 8 * s.rank) * ease.outCubic(q), Math.max(1, 2 * (1 - q)), s.ch === "C" ? K[Math.floor(q * 14) % 7] : s.ramp[2], 1 - q);
@@ -173,6 +185,24 @@ export function create(o) {
           starIcon(p, s.x, s.y, Math.round(Ls), s.ramp, 1, s.ch === "C" ? K : null, t);
           if (s.rank >= 2 && Math.sin(t * 3 + s.i * 2) > 0.85) sparkle(p, s.x + 7, s.y - 6, 2, WHITE, s.ramp[2], 0.7);
         }
+      }
+      // the cards: each pops out of its star in a white flash that cools into its face, rare ones with rays
+      // turning behind them and a shine sweeping across, and the UR's candy frame shimmering
+      for (const s of S) {
+        if (t < s.turn || t >= s.out + 0.35) continue;
+        const k = clamp((t - s.turn) / 0.3), sc = ease.outBack(k, 1.8) * (1 - ease.inBack(clamp((t - s.out) / 0.35))), white = 1 - clamp((t - s.turn) / 0.25);
+        if (sc <= 0.02) continue;
+        const gc = s.ch === "C" ? K[Math.floor(t * 8) % K.length] : s.st.glow;
+        p.glow(s.x, s.y, (20 + 6 * s.rank) * sc, gc, (0.1 + 0.05 * s.rank) * sc);
+        if (s.rank >= 3) {
+          for (let r = 0; r < 10; r++) {
+            const a = (r / 10) * TAU + t * (s.ch === "C" ? 1.2 : 0.7), l = (r % 2 ? 24 : 32) * sc;
+            p.line(s.x + Math.cos(a) * 14 * sc, s.y + Math.sin(a) * 18 * sc, s.x + Math.cos(a) * l, s.y + Math.sin(a) * l * 1.1, s.ch === "C" ? K[r % K.length] : s.ramp[2], (u) => 0.8 * (1 - u) * sc);
+          }
+        }
+        const ph = t - s.turn - 0.6 - s.i * 0.05, cyc = ((ph % 1.7) + 1.7) % 1.7, sw = s.rank >= 3 && ph > 0 && cyc < 0.4 ? -14 + 60 * (cyc / 0.4) : null;
+        drawCard(p, s.x, s.y, sc, -1, false, s.st, t * 6, sw, white);
+        if (sc > 0.95 && white <= 0) drawBadge(p, s.x, s.y, sc, s.st);
       }
       // the candy star's landing whites out the screen for a frame
       const c = S.find((s) => s.ch === "C");

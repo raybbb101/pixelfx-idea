@@ -131,29 +131,43 @@ A gacha pull that lands an Ultra Rare card in the **candy** palette. 4.4 s, 30 f
    behind it, candy confetti rains, and a shine sweeps across the card twice.
 6. **Out (3.75–4.4 s):** it shrinks away into a sparkle.
 
-- `effects/ui/gacha-ur.js`: copy to `src/fx/ui/` in a pixelfx checkout (it uses that folder's `_lib.js`).
+- `effects/ui/gacha-ur.js` + `effects/ui/_gacha.js` (the shared cards): copy both to `src/fx/ui/` in a pixelfx
+  checkout (it also uses that folder's `_lib.js`).
 - `renders/gacha-ur/`: sprite sheet (133 frames) + JSON, contact sheet, GIF. Pivot `[104, 118]` (just below the card's centre).
 
 Options: `palette` (the rainbow, default `candy`; try `neon` or your own 7 colours), `text` (default `UR`), `seed`.
 
 ## Gacha Star Rain (`ui/gacha-star-rain`): ten-pull scenes
 
-| 9 white + 1 blue | 9 blue + 1 purple |
+| 9 N + 1 R | 9 R + 1 SR |
 |---|---|
 | ![1](renders/star-rain-1-white-blue/anim.gif) | ![2](renders/star-rain-2-blue-purple/anim.gif) |
-| **9 purple + 1 gold** | **4 white, 1 blue, 1 purple, 3 gold, 1 candy** |
+| **9 SR + 1 SSR** | **4 N, 1 R, 1 SR, 3 SSR, 1 UR** |
 | ![3](renders/star-rain-3-purple-gold/anim.gif) | ![4](renders/star-rain-4-candy/anim.gif) |
 
-A full-screen (320 x 180) ten-pull. A night sky fades in with ten empty result slots (a 5 x 2 grid). Ten
-shooting stars fall one after another from the upper right and land in their slots, each in the light of
-its rarity. Rarer stars wait a beat before they come, fall slower with longer, wider trails, and land
-harder. Gold stars turn rays of light. The candy star has a rainbow trail, whites out the screen when it
-lands, throws rainbow rings, and cycles through the candy colours. When the best star (purple or better)
-lands, the whole sky glows in its colour. The results hold for at least a second after the last star lands,
-then each star bursts into sparkles and the sky fades out. One-shot, 7.6 s, ends empty.
+A full-screen (320 x 180) ten-pull, 10.4 s, one-shot, ends empty.
+
+1. **Sky (0–0.6 s):** a night sky fades in with ten empty result slots (a 5 x 2 grid).
+2. **Star rain (from 0.75 s):** ten shooting stars fall one after another from the upper right and land in
+   their slots, each in the light of its rarity. Rarer stars wait a beat before they come, fall slower with
+   longer, wider trails, and land harder. Gold stars turn rays of light. The candy star has a rainbow trail,
+   whites out the screen when it lands and throws rainbow rings. When the best star (purple or better)
+   lands, the whole sky glows in its colour.
+3. **Stars become cards (about 0.8 s after the last star lands):** one by one, each star flares and a card
+   pops out of it in a white flash that cools into its face:
+
+   | Star | Card | Rarity stars |
+   |---|---|---|
+   | White | **N** (silver frame) | 1 |
+   | Blue | **R** (blue frame) | 2 |
+   | Purple | **SR** (purple frame) | 3 |
+   | Gold | **SSR** (gold frame), rays turning behind it, a shine sweeping across | 4 |
+   | Candy | **UR**: the same candy holographic card as Gacha UR, candy rays, a shimmering frame | 5 |
+
+4. **Results (until 8.6 s or later):** the cards hold, then each shrinks away into sparkles and the sky fades out.
 
 The pull is the `stars` option, one letter per slot, left to right, top row first:
-`W` white, `B` blue, `P` purple, `G` gold, `C` candy. The four scenes above are:
+`W` white (N), `B` blue (R), `P` purple (SR), `G` gold (SSR), `C` candy (UR). The four scenes above are:
 
 | Scene | `stars` |
 |---|---|
@@ -162,8 +176,9 @@ The pull is the `stars` option, one letter per slot, left to right, top row firs
 | 3 | `PPPPPPGPPP` |
 | 4 | `WGWBWGPWGC` |
 
-- `effects/ui/gacha-star-rain.js`: copy to `src/fx/ui/` in a pixelfx checkout (it uses `weather/_lib.js`).
-- `renders/star-rain-<scene>/`: sprite sheet (229 frames) + JSON, contact sheet, GIF for each scene.
+- `effects/ui/gacha-star-rain.js` + `effects/ui/_gacha.js` (the shared cards): copy both to `src/fx/ui/`
+  in a pixelfx checkout (it also uses `weather/_lib.js`).
+- `renders/star-rain-<scene>/`: sprite sheet (313 frames) + JSON, contact sheet, GIF for each scene.
 
 ```sh
 node tools/render.mjs ui/gacha-star-rain --opts '{"stars":"WGWBWGPWGC"}' --gif --sheet

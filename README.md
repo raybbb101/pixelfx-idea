@@ -204,7 +204,7 @@ For hojicha, try a brown `palette`; for a black iron pot, a grey `clay`.
 
 ![Dragon Hatch](renders/dragon-hatch/anim.gif)
 
-A fire dragon egg hatching. One-shot, 11.2 s, 30 fps, 288 x 196 px, ends empty.
+A fire dragon egg hatching. One-shot, 11.3 s, 30 fps, 288 x 196 px, ends empty.
 
 The baby dragon is an original chibi design: it sits upright with a big round head, huge glossy amber eyes
 with two shines and a lash, two curved golden horns, a crest of little spikes down its head and back, a cream
@@ -213,15 +213,22 @@ chunky haunches with pale claws, speckled red scales and a spiky tail curling ro
 is a separate shaded shape, posed by keyframes and drawn fresh every frame with a 1 px outline, so it moves
 smoothly, and its arms reach for targets by themselves, so its hands can hold the rim while its body moves.
 
+**Natural motion:** the keyframes are only targets. Every part is driven by a spring that chases them, so it
+speeds up, overshoots a little and settles; the head is sprung in world space, so it lags behind the body and
+catches up; the tail and wing are the loosest and trail behind. On top of that it breathes, its head bobs a
+beat behind the breath, its tail and wing drift, and it blinks. Each hand slapping onto the rim jolts the body,
+and the landing is an impulse that squashes it, nods its head and flicks its tail and wing.
+
 1. **The egg (0–2.3 s):** a dark scaled egg on a nest of breathing embers, lava seams pulsing in its shell.
    It rocks in four bursts, each harder than the last, throwing sparks.
 2. **Cracks (2.35 s, 2.75 s):** white-hot cracks race round it, light bursting through the seams.
 3. **Burst (3.2 s):** the top bursts off in a flare, sparks, smoke and chips, tumbles and lies on the nest.
 4. **Newborn (3.25–4.8 s):** its head rises out with its eyes shut; it opens them, looks left and right, blinks.
-5. **Climb (4.85–6.2 s):** both clawed hands reach up and **grip the broken rim**; it hauls itself up, elbows
-   bending, knocking crumbs off, gets a foot over and stands on the edge.
-6. **Fall (6.35–6.75 s):** it wobbles, topples off, tumbles through the air with its eyes squeezed shut and
-   wings out, and lands on its bottom with a squash and a puff of dust.
+5. **Climb (5.0–6.2 s):** one clawed hand reaches up and **grips the broken rim**, then the other; it heaves,
+   slips back a little, then hauls itself up with a second big effort, knocking crumbs off, gets a foot over,
+   stands on the edge and spreads its wing.
+6. **Fall (6.3–6.85 s):** it lets go, leans back to catch its balance, tips forward and topples off, tumbles
+   with its eyes squeezed shut and wing out, and lands on its bottom with a squash, a bounce and a puff of dust.
 7. **Dizzy, then blinks (6.9–8.0 s):** droopy-eyed, it shakes its head, sits up, and blinks twice.
 8. **Fire (8.05–9.15 s):** it leans back and breathes in, chest glowing, sparks drawn into its mouth, then
    opens its jaw (tongue and little fangs) and **puffs a little jet of fire**; then a cough of smoke.

@@ -7413,6 +7413,72 @@
     "h": 196
    },
    "duration": 33
+  },
+  {
+   "filename": "dragon-hatch 337",
+   "frame": {
+    "x": 288,
+    "y": 4116,
+    "w": 288,
+    "h": 196
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 288,
+    "h": 196
+   },
+   "sourceSize": {
+    "w": 288,
+    "h": 196
+   },
+   "duration": 33
+  },
+  {
+   "filename": "dragon-hatch 338",
+   "frame": {
+    "x": 576,
+    "y": 4116,
+    "w": 288,
+    "h": 196
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 288,
+    "h": 196
+   },
+   "sourceSize": {
+    "w": 288,
+    "h": 196
+   },
+   "duration": 33
+  },
+  {
+   "filename": "dragon-hatch 339",
+   "frame": {
+    "x": 864,
+    "y": 4116,
+    "w": 288,
+    "h": 196
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 288,
+    "h": 196
+   },
+   "sourceSize": {
+    "w": 288,
+    "h": 196
+   },
+   "duration": 33
   }
  ],
  "meta": {
@@ -7429,7 +7495,7 @@
    {
     "name": "dragon-hatch",
     "from": 0,
-    "to": 336,
+    "to": 339,
     "direction": "forward"
    }
   ],
@@ -7438,7 +7504,7 @@
    "name": "Dragon hatch",
    "fps": 30,
    "loop": false,
-   "frames": 337,
+   "frames": 340,
    "frameSize": [
     288,
     196

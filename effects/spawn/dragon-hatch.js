@@ -10,7 +10,7 @@ import { Doll, drawDragon } from "./_dragon-rig.js";
 // shaded parts posed by keyframes every frame, so it moves smoothly.
 const ROCKS = [[0.5, 0.25, 0.35], [1.1, 0.35, 0.5], [1.55, 0.45, 0.6], [1.95, 0.5, 0.95]]; // [time, length, strength]
 const CRACK1 = 2.35, CRACK2 = 2.75, POP = 3.2;
-const GRIP = 5.1, OUT = 6.05, TOPPLE = 6.35, LAND = 6.75, INHALE = 8.05, BREATH = 8.55, BREATH_END = 9.15, COUGH = 9.28, JOY = 9.45, FLY = 10.1, D = 11.2;
+const GRIP = 5.0, OUT = 6.1, TOPPLE = 6.45, LAND = 6.85, INHALE = 8.1, BREATH = 8.62, BREATH_END = 9.2, COUGH = 9.33, JOY = 9.5, FLY = 10.15, D = 11.3;
 const EH = 40, ERX = 16, RIM = -22;
 const GRIP_N = [14, -23], GRIP_F = [-11, -23.5];
 
@@ -31,52 +31,68 @@ export const meta = {
   },
 };
 
-// the dragon's pose through the hatching: [time, the values that change]; everything eases between keys
+// where the dragon is headed through the hatching: [time, the values that change]. These are targets: springs
+// in create() chase them, so every part speeds up, overshoots a touch and settles, and the head lags the body.
 const KEYS = [
   [3.25, { x: -2, y: 34, tilt: 0.25, head: 0.45, eye: 0, look: 0, jaw: 0, puff: 0, squash: 1, wing: 0, tail: 0, lift: 0, gN: 0, gF: 0 }],
-  [3.65, { y: 13, head: 0.2 }],
-  [3.95, { head: 0, eye: 0 }],
-  [4.15, { eye: 1 }],
-  [4.3, { look: -1, head: -0.12 }],
-  [4.55, { look: 1, head: 0.1 }],
-  [4.68, { look: 0, eye: 1, head: 0 }],
-  [4.72, { eye: 0.05 }],
-  [4.8, { eye: 1 }],
-  [4.85, { gN: 0, gF: 0, tilt: 0.1 }],
-  [GRIP, { gN: 1, gF: 1, y: 10, tilt: 0.2 }],
-  [5.6, { y: -6, tilt: 0.3, head: 0.15 }],
-  [5.85, { y: -15, tilt: 0.38, lift: 1 }],
-  [OUT, { y: -23, x: 2, tilt: 0.15, lift: 0, gN: 0.5, gF: 0.5, head: 0 }],
-  [6.2, { gN: 0, gF: 0, x: 3, tilt: 0.05, wing: 0.55 }],
-  [TOPPLE, { x: 5, y: -23.5, tilt: 0.5, eye: 1, wing: 0.75 }],
-  [6.55, { x: 22, y: -30, tilt: 0.95, eye: 0.05, wing: 1 }],
-  [LAND, { x: 42, y: 0, tilt: 0, squash: 0.72, wing: 0.35 }],
-  [6.9, { squash: 1.08 }],
-  [7.02, { squash: 1, eye: 0.45, head: 0.2, wing: 0.5 }],
-  [7.5, { eye: 0.45, head: 0 }],
-  [7.58, { eye: 1, look: 0 }],
-  [7.7, { eye: 1 }],
-  [7.74, { eye: 0.05 }],
+  [3.7, { y: 14, head: 0.28 }],
+  [3.95, { head: 0.05, tilt: 0.1 }],
+  [4.12, { eye: 0 }],
+  [4.2, { eye: 1 }],
+  // the eyes look first, the head follows
+  [4.35, { look: -1 }],
+  [4.45, { head: -0.15 }],
+  [4.62, { look: 1 }],
+  [4.72, { head: 0.12 }],
+  [4.85, { look: 0, head: 0 }],
+  [4.9, { eye: 1 }],
+  [4.93, { eye: 0.05 }],
+  [4.99, { eye: 1 }],
+  // one hand grabs the rim, then the other
+  [GRIP, { gF: 0, gN: 0, tilt: 0.1 }],
+  [5.12, { gF: 1, tilt: 0.16 }],
+  [5.16, { gN: 0 }],
+  [5.3, { gN: 1, y: 13, tilt: 0.2 }],
+  // a first heave, a slip back, then a big second heave and a foot over
+  [5.45, { y: 2, tilt: 0.32, head: 0.22 }],
+  [5.53, { y: 5 }],
+  [5.62, { y: 4, head: 0.1 }],
+  [5.8, { y: -12, tilt: 0.38, lift: 1 }],
+  [5.95, { y: -20, tilt: 0.3, lift: 1 }],
+  [OUT, { y: -23, x: 2, tilt: 0.1, lift: 0, gN: 0.4, gF: 0.4, head: 0, wing: 0.55 }],
+  // it lets go, leans back to catch its balance, then tips forward and off
+  [6.22, { gN: 0, gF: 0, x: 3 }],
+  [6.32, { tilt: -0.12, head: -0.1 }],
+  [TOPPLE, { x: 5, y: -23.5, tilt: 0.3, eye: 1, wing: 0.75 }],
+  [6.55, { eye: 0.05 }],
+  [6.65, { tilt: 1, wing: 1, head: 0.2 }],
+  [LAND, { x: 42, y: 0, tilt: 0, wing: 0.35, head: 0 }],
+  [7.0, { eye: 0.45, head: 0.15, wing: 0.5 }],
+  [7.55, { eye: 0.45, head: 0 }],
+  [7.65, { eye: 1, look: 0 }],
   [7.8, { eye: 1 }],
-  [7.92, { eye: 1 }],
-  [7.96, { eye: 0.05 }],
-  [8.02, { eye: 1 }],
+  [7.83, { eye: 0.05 }],
+  [7.89, { eye: 1 }],
+  [8.0, { eye: 1 }],
+  [8.03, { eye: 0.05 }],
+  [8.09, { eye: 1 }],
+  // a big breath in, rearing back; then the fire, pushed back a little by it
   [INHALE, { tilt: 0, head: 0, puff: 0 }],
-  [8.5, { tilt: -0.16, head: -0.35, puff: 1 }],
-  [BREATH, { tilt: 0.08, head: 0.12, puff: 0, jaw: 1 }],
-  [9.1, { jaw: 1 }],
-  [9.2, { jaw: 0, head: 0.1 }],
-  [9.3, { jaw: 0.55, head: 0.25 }],
-  [9.4, { jaw: 0, head: 0, eye: -1 }],
+  [8.58, { tilt: -0.22, head: -0.38, puff: 1, x: 41 }],
+  [BREATH, { tilt: 0.12, head: 0.14, puff: 0, jaw: 1 }],
+  [9.15, { jaw: 1, x: 40 }],
+  [9.25, { jaw: 0, head: 0.08 }],
+  [COUGH, { jaw: 0.55, head: 0.3 }],
+  [9.45, { jaw: 0, head: 0, eye: -1, x: 42 }],
   [FLY, { eye: -1, y: 0 }],
-  [10.3, { eye: 1, y: -8, x: 44, tilt: 0.15, wing: 1 }],
+  [10.35, { eye: 1, y: -8, x: 44, tilt: 0.15, wing: 1 }],
   [D - 0.15, { x: 240, y: -210 }],
 ];
 const PARAMS = Object.keys(KEYS[0][1]);
+// the targets at t: straight lines between keys (the springs do the easing), eyes and blinks as they are
 function pose(t) {
   const out = {};
   for (const k of PARAMS) {
-    // the last key at or before t with this value, and the next one after it
     let a = null, b = null;
     for (const [kt, v] of KEYS) {
       if (!(k in v)) continue;
@@ -85,27 +101,18 @@ function pose(t) {
     }
     if (!a) out[k] = b[1];
     else if (!b) out[k] = a[1];
-    else {
-      const u = (t - a[0]) / (b[0] - a[0]), e = k === "eye" ? u : u * u * (3 - 2 * u);
-      out[k] = a[1] + (b[1] - a[1]) * e;
-    }
+    else out[k] = a[1] + (b[1] - a[1]) * ((t - a[0]) / (b[0] - a[0]));
   }
-  // the fall: a real arc, not an ease
+  // the fall: a real arc
   if (t > TOPPLE && t < LAND) {
     const u = (t - TOPPLE) / (LAND - TOPPLE);
     out.x = 5 + 37 * u;
     out.y = -23.5 + 23.5 * u * u - 12 * Math.sin(Math.PI * u) * (1 - u);
   }
-  // shaking its dizzy head, wagging and flapping when it's happy, flapping hard as it flies
-  if (t > 7.02 && t < 7.55) out.head += Math.sin((t - 7.02) * 30) * 0.22 * (1 - (t - 7.02) / 0.53);
-  if (t > JOY && t < FLY) {
-    out.wing = 0.5 + 0.5 * Math.sin(t * 26);
-    out.tail = Math.sin(t * 14) * 0.5;
-    out.y = -Math.abs(Math.sin((t - JOY) * Math.PI * 2.4)) * 4;
-  }
-  if (t >= FLY) out.wing = 0.5 + 0.5 * Math.sin(t * 40);
   return out;
 }
+// each sprung value: [stiffness, damping]. Lower damping overshoots more; the head and tail are loosest
+const SPRING = { x: [150, 17], y: [170, 16], tilt: [170, 14], headW: [105, 9], wing: [80, 8], tail: [45, 4.5], squash: [320, 10], gN: [170, 16], gF: [170, 16], look: [320, 26], puff: [90, 11], jaw: [420, 32], lift: [220, 19] };
 
 // the egg's half width at height v (0 at the base, -EH at the top): rounder below, a narrower top
 const halfW = (v) => {
@@ -144,12 +151,46 @@ export function create(o) {
     return inScale ? SH[Math.max(1, Math.min(4, Math.round(2.4 + lit * 1.6)))] : SH[1];
   };
   // the dragon's pose with its hands reaching for the rim, and where its mouth is in the world
+  const sp = {}, vel = {};
+  // move every sprung value towards its target; falls and flight follow their paths exactly
+  const step = (h) => {
+    const g = pose(t), tg = { ...g, headW: g.tilt + g.head };
+    const free = (t > TOPPLE && t < LAND) || t >= FLY;
+    for (const k in SPRING) {
+      if (!(k in sp)) (sp[k] = tg[k]), (vel[k] = 0);
+      if (free && (k === "x" || k === "y")) {
+        vel[k] = (tg[k] - sp[k]) / Math.max(h, 1e-4);
+        sp[k] = tg[k];
+        continue;
+      }
+      const [K, C] = SPRING[k];
+      vel[k] += ((tg[k] - sp[k]) * K - vel[k] * C) * h;
+      sp[k] += vel[k] * h;
+    }
+  };
+  const kick = (k, v) => (vel[k] = (vel[k] ?? 0) + v);
   const dragon = () => {
-    if (t < 3.25) return null;
-    const q = pose(t), X = q.x, Y = q.y, toRel = (g) => [g[0] - X, g[1] - Y];
-    const rest = null;
-    q.handN = q.gN > 0.01 ? lerp2(restN(q), toRel(GRIP_N), q.gN) : rest;
-    q.handF = q.gF > 0.01 ? lerp2(restF(q), toRel(GRIP_F), q.gF) : rest;
+    if (t < 3.25 || !("x" in sp)) return null;
+    const g = pose(t), q = { ...g };
+    for (const k in SPRING) if (k !== "headW") q[k] = sp[k];
+    q.head = sp.headW - sp.tilt;
+    // alive even when still: breathing, the head bobbing a beat behind it, the tail and wing drifting
+    const out = t > OUT, br = 0.5 + 0.5 * Math.sin(t * 2.8);
+    if (out && !(t > INHALE && t < BREATH_END)) q.puff += 0.25 * br;
+    q.head += 0.03 * Math.sin(t * 2.8 - 0.7);
+    q.tail += 0.2 * Math.sin(t * 2.1);
+    if (out) q.wing += 0.05 * Math.sin(t * 2.8 + 1);
+    // a dizzy head shake, a happy wag and hop, a hard flutter as it flies
+    if (t > 7.0 && t < 7.6) q.head += Math.sin((t - 7.0) * 26) * 0.2 * (1 - (t - 7.0) / 0.6);
+    if (t > JOY && t < FLY) {
+      q.wing = 0.5 + 0.5 * Math.sin(t * 24);
+      q.tail += Math.sin(t * 13) * 0.45;
+      q.y -= Math.abs(Math.sin((t - JOY) * Math.PI * 2.2)) * 4;
+    }
+    if (t >= FLY) q.wing = 0.5 + 0.5 * Math.sin(t * 40);
+    const X = q.x, Y = q.y, toRel = (p) => [p[0] - X, p[1] - Y];
+    q.handN = q.gN > 0.01 ? lerp2(restN(q), toRel(GRIP_N), Math.min(1, q.gN)) : null;
+    q.handF = q.gF > 0.01 ? lerp2(restF(q), toRel(GRIP_F), Math.min(1, q.gF)) : null;
     return q;
   };
   const lerp2 = (a, b, k) => [a[0] + (b[0] - a[0]) * k, a[1] + (b[1] - a[1]) * k];
@@ -158,8 +199,19 @@ export function create(o) {
 
   return {
     update(dt) {
-      t += dt;
+      // the springs, in small steps so they behave the same at any frame rate
+      if (t + dt >= 3.25) {
+        const n = Math.max(1, Math.ceil(dt * 240)), h = dt / n;
+        for (let i = 0; i < n; i++) {
+          t += h;
+          if (t >= 3.25) step(h);
+        }
+      } else t += dt;
       const f = Math.min(1, dt * 120);
+      // a hand slapping onto the rim jolts the body; the landing squashes it and nods its head
+      if (once("gripF", 5.12)) kick("y", -25);
+      if (once("gripN", 5.3)) kick("y", -25);
+      if (once("thud", LAND)) (kick("squash", -9), kick("headW", 5), kick("tail", 6), kick("wing", 3));
       cur = dragon();
       if (t < D - 1.6 && R.chance(0.08 * f)) ps.spawn(P.EMBER, R.range(-22, 22), -R.range(0, 3), R.range(-6, 6), -R.range(18, 40), R.range(0.6, 1.1), 0, 1);
       for (const [t0] of ROCKS) if (once("rock" + t0, t0)) for (let i = 0; i < 4; i++) ps.spawn(P.SPARK, R.range(-11, 11), -R.range(5, 30), R.range(-60, 60), -R.range(40, 100), R.range(0.15, 0.3));

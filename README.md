@@ -204,23 +204,31 @@ For hojicha, try a brown `palette`; for a black iron pot, a grey `clay`.
 
 ![Dragon Hatch](renders/dragon-hatch/anim.gif)
 
-A fire dragon egg hatching. One-shot, 8.4 s, 30 fps, 232 x 150 px, ends empty.
+A fire dragon egg hatching. One-shot, 11.2 s, 30 fps, 240 x 156 px, ends empty.
+
+The baby dragon is a **rig**: its head, snout, jaw, eye and eyelid, horns, neck, body and striped belly plates,
+two arms with clawed hands, legs, a flame-tipped tail and wings are separate shaded parts, posed by keyframes
+and drawn fresh every frame with a 1 px outline, so it moves smoothly. Its arms reach for targets by themselves,
+so its hands can hold onto the rim while its body moves.
 
 1. **The egg (0–2.3 s):** a dark scaled egg on a nest of breathing embers, lava seams pulsing in its shell.
-   It rocks in four bursts, each harder than the last (0.5, 1.1, 1.55, 1.95 s), throwing sparks.
-2. **Cracks (2.35 s, 2.75 s):** white-hot cracks race round it, left then right, light bursting through the seams.
-3. **Burst (3.2 s):** the top bursts off in a flare, sparks, smoke and shell chips; it tumbles, bounces and
-   lies on the nest. The broken rim glows.
-4. **Peek (3.4 s):** a baby fire dragon pops its head up, blinks, and looks behind it.
-5. **Climb and hop (4.15–5.0 s):** it scrambles up onto the rim, then hops down to the ground with a puff of dust.
-6. **Fire (5.3–6.4 s):** it rears back and breathes in, sparks drawn into its mouth, then puffs a little jet
-   of fire, then coughs a puff of smoke.
-7. **Off it goes (6.85–8.4 s):** a happy hop with sparkles, then it flaps its tiny wings and flutters away up
-   and to the right, trailing embers, while the nest cools.
+   It rocks in four bursts, each harder than the last, throwing sparks.
+2. **Cracks (2.35 s, 2.75 s):** white-hot cracks race round it, light bursting through the seams.
+3. **Burst (3.2 s):** the top bursts off in a flare, sparks, smoke and chips, tumbles and lies on the nest.
+4. **Newborn (3.25–4.8 s):** its head rises out with its eyes shut; it opens them, looks left and right, blinks.
+5. **Climb (4.85–6.2 s):** both clawed hands reach up and **grip the broken rim**; it hauls itself up, elbows
+   bending, knocking crumbs off, gets a foot over and stands on the edge.
+6. **Fall (6.35–6.75 s):** it wobbles, topples off, tumbles through the air with its eyes squeezed shut and
+   wings out, and lands on its bottom with a squash and a puff of dust.
+7. **Dizzy, then blinks (6.9–8.0 s):** droopy-eyed, it shakes its head, sits up, and blinks twice.
+8. **Fire (8.05–9.15 s):** it leans back and breathes in, chest glowing, sparks drawn into its mouth, then
+   opens its jaw and **puffs a little jet of fire**; then a cough of smoke.
+9. **Off it goes (9.45–11.2 s):** a happy face, sparkles, wings flapping and tail wagging, then it flutters
+   away up and to the right while the nest cools.
 
-- `effects/spawn/dragon-hatch.js` + `effects/spawn/_dragon.js` (the dragon's pixel sprites: sitting,
-  blinking, mouth open, wings down and up): copy both to `src/fx/spawn/` in a pixelfx checkout
-  (it uses `weather/_lib.js`).
-- `renders/dragon-hatch/`: sprite sheet (253 frames) + JSON, contact sheet, GIF. Pivot `[96, 126]` (the egg's base).
+- `effects/spawn/dragon-hatch.js` + `effects/spawn/_dragon-rig.js` (the dragon rig: `drawDragon(doll, pose)`):
+  copy both to `src/fx/spawn/` in a pixelfx checkout (it uses `weather/_lib.js`).
+- `renders/dragon-hatch/`: sprite sheet (337 frames) + JSON, contact sheet, GIF. Pivot `[96, 132]` (the egg's base).
 
 Options: `palette` (the fire, dark to white-hot), `shell` (the egg, dark to light), `seed`.
+The dragon's colours are the `RAMPS` in `_dragon-rig.js`.

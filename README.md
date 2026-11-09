@@ -241,3 +241,32 @@ and the landing is an impulse that squashes it, nods its head and flicks its tai
 
 Options: `palette` (the fire, dark to white-hot), `shell` (the egg, dark to light), `seed`.
 The dragon's colours are the `RAMPS` in `_dragon-rig.js`.
+
+## Signal Kraken (`critters/signal-kraken`): enemy
+
+![Signal Kraken](renders/signal-kraken/anim.gif)
+
+An enemy chimera: the top half is a traffic light (red, yellow, green, no eyes), the bottom half an octopus.
+Its whole attack on the hero, one-shot, 6.9 s, 30 fps, 330 x 168 px, ends empty.
+
+1. **Run (0–1.15 s):** it scuttles in fast from the right on eight rippling tentacles, bobbing and kicking
+   up dust, and skids to a stop.
+2. **Warning (1.25 s):** the yellow lamp blinks twice as it leans in.
+3. **Freeze, "STOP" (1.62–2.75 s):** the red lamp blazes and sweeps a red beam over the hero, who flashes
+   and freezes, drained grey-red and shivering, a red stop sign over their head.
+4. **Grab (2.75 s):** two tentacles lash out and coil round the frozen hero, then lift them up to the
+   green lamp (3.15 s).
+5. **Swallow (3.45–4.25 s):** the green lamp stretches open into a fanged mouth with a glowing green rim;
+   the hero is pulled in, shrinking, and it snaps shut.
+6. **Digest (4.25–4.75 s):** a lump climbs the housing, bulging it, flickering each lamp it passes.
+7. **"GO" (4.75 s):** the green lamp glows bright, it burps a puff of smoke, and it scuttles away (5.45 s).
+
+The hero is the library's stock character; from the freeze on, the effect hides it (`actorAlpha`) and draws a
+copy it can recolour, lift and shrink, so in a game, hide your own character sprite at 1.62 s and let the
+effect carry it. The hero stands at the origin; the monster stops 80 px to its right.
+
+- `effects/critters/signal-kraken.js`: copy to `src/fx/critters/` in a pixelfx checkout (it uses `weather/_lib.js`).
+- `renders/signal-kraken/`: sprite sheet (208 frames, hero included) + JSON, contact sheet, GIF.
+  Pivot `[64, 150]` (the hero's feet).
+
+Options: `flesh` (the octopus, dark to light), `housing` (the traffic light box), `seed`.

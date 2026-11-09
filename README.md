@@ -135,3 +135,36 @@ A gacha pull that lands an Ultra Rare card in the **candy** palette. 4.4 s, 30 f
 - `renders/gacha-ur/`: sprite sheet (133 frames) + JSON, contact sheet, GIF. Pivot `[104, 118]` (just below the card's centre).
 
 Options: `palette` (the rainbow, default `candy`; try `neon` or your own 7 colours), `text` (default `UR`), `seed`.
+
+## Gacha Star Rain (`ui/gacha-star-rain`): ten-pull scenes
+
+| 9 white + 1 blue | 9 blue + 1 purple |
+|---|---|
+| ![1](renders/star-rain-1-white-blue/anim.gif) | ![2](renders/star-rain-2-blue-purple/anim.gif) |
+| **9 purple + 1 gold** | **4 white, 1 blue, 1 purple, 3 gold, 1 candy** |
+| ![3](renders/star-rain-3-purple-gold/anim.gif) | ![4](renders/star-rain-4-candy/anim.gif) |
+
+A full-screen (320 x 180) ten-pull. A night sky fades in with ten empty result slots (a 5 x 2 grid). Ten
+shooting stars fall one after another from the upper right and land in their slots, each in the light of
+its rarity. Rarer stars wait a beat before they come, fall slower with longer, wider trails, and land
+harder. Gold stars turn rays of light. The candy star has a rainbow trail, whites out the screen when it
+lands, throws rainbow rings, and cycles through the candy colours. When the best star (purple or better)
+lands, the whole sky glows in its colour. The results hold for at least a second after the last star lands,
+then each star bursts into sparkles and the sky fades out. One-shot, 7.6 s, ends empty.
+
+The pull is the `stars` option, one letter per slot, left to right, top row first:
+`W` white, `B` blue, `P` purple, `G` gold, `C` candy. The four scenes above are:
+
+| Scene | `stars` |
+|---|---|
+| 1 | `WWWWWWBWWW` |
+| 2 | `BBBBBBBPBB` |
+| 3 | `PPPPPPGPPP` |
+| 4 | `WGWBWGPWGC` |
+
+- `effects/ui/gacha-star-rain.js`: copy to `src/fx/ui/` in a pixelfx checkout (it uses `weather/_lib.js`).
+- `renders/star-rain-<scene>/`: sprite sheet (229 frames) + JSON, contact sheet, GIF for each scene.
+
+```sh
+node tools/render.mjs ui/gacha-star-rain --opts '{"stars":"WGWBWGPWGC"}' --gif --sheet
+```

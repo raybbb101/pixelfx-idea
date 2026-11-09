@@ -199,3 +199,28 @@ surface, and steam curls up. A bamboo chasen and a plate of pink sakura wagashi 
 
 Options: `palette` (the matcha, deep to froth), `clay` (the teapot), `sleeve` (the kimono), `seed`.
 For hojicha, try a brown `palette`; for a black iron pot, a grey `clay`.
+
+## Dragon Hatch (`spawn/dragon-hatch`)
+
+![Dragon Hatch](renders/dragon-hatch/anim.gif)
+
+A fire dragon egg hatching. One-shot, 8.4 s, 30 fps, 232 x 150 px, ends empty.
+
+1. **The egg (0–2.3 s):** a dark scaled egg on a nest of breathing embers, lava seams pulsing in its shell.
+   It rocks in four bursts, each harder than the last (0.5, 1.1, 1.55, 1.95 s), throwing sparks.
+2. **Cracks (2.35 s, 2.75 s):** white-hot cracks race round it, left then right, light bursting through the seams.
+3. **Burst (3.2 s):** the top bursts off in a flare, sparks, smoke and shell chips; it tumbles, bounces and
+   lies on the nest. The broken rim glows.
+4. **Peek (3.4 s):** a baby fire dragon pops its head up, blinks, and looks behind it.
+5. **Climb and hop (4.15–5.0 s):** it scrambles up onto the rim, then hops down to the ground with a puff of dust.
+6. **Fire (5.3–6.4 s):** it rears back and breathes in, sparks drawn into its mouth, then puffs a little jet
+   of fire, then coughs a puff of smoke.
+7. **Off it goes (6.85–8.4 s):** a happy hop with sparkles, then it flaps its tiny wings and flutters away up
+   and to the right, trailing embers, while the nest cools.
+
+- `effects/spawn/dragon-hatch.js` + `effects/spawn/_dragon.js` (the dragon's pixel sprites: sitting,
+  blinking, mouth open, wings down and up): copy both to `src/fx/spawn/` in a pixelfx checkout
+  (it uses `weather/_lib.js`).
+- `renders/dragon-hatch/`: sprite sheet (253 frames) + JSON, contact sheet, GIF. Pivot `[96, 126]` (the egg's base).
+
+Options: `palette` (the fire, dark to white-hot), `shell` (the egg, dark to light), `seed`.

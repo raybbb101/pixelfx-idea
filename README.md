@@ -93,3 +93,30 @@ One-shot, 30 fps, 272 x 236 px, pivot `[136, 206]` (the floor where the seed lan
 - `renders/blight-seed/`: sprite sheet (277 frames) + JSON, contact sheet, GIF.
 
 Options: `palette` (the poison magic), `leaf`, `blight` (withered leaves), `bark`, `rot` (rotten bark), `seed`.
+
+## Blood Moon (`weather/blood-moon` + `weather/blood-moon-loop`)
+
+| Silver moon | Yellow moon |
+|---|---|
+| ![Silver](renders/blood-moon-silver/anim.gif) | ![Yellow](renders/blood-moon-yellow/anim.gif) |
+
+A full-screen scene (320 x 180) for the werewolf's power-up: a night sky over a pine ridge, a wolf howling
+on a crag. Two effects that join seamlessly (the turn's last frame is pixel-identical to the loop's first):
+
+1. **`weather/blood-moon`** (6 s, one-shot): calm night (0–1.3 s); the moon trembles (1.3–1.9 s); a red tide
+   sweeps across its face behind a burning copper edge (1.9–3.6 s); at **3.6 s** it pulses: a white-hot rim,
+   shock rings racing across the sky, the sky bleeding red; red mist rises along the ridge, the wolf's eye
+   ignites, and the moon starts to beat like a heart. It ends on the crimson moon and holds there (no fade out).
+2. **`weather/blood-moon-loop`** (12 s, loop): the crimson moon beating twice every 2 s with ripples off its
+   rim, red mist and embers along the ridge. Play it straight after the turn.
+
+Pick the moon with the `moon` option: `"silver"` (default), `"yellow"`, or your own ramp of 5 colours.
+
+- `effects/weather/`: `_blood-moon.js` (the shared scene) plus the two effects. Copy all three to
+  `src/fx/weather/` in a pixelfx checkout.
+- `renders/blood-moon-<silver|yellow>/` and `renders/blood-moon-loop-<silver|yellow>/`: sprite sheets + JSON,
+  contact sheets and GIFs. Pivot `[160, 180]` (bottom centre).
+
+```sh
+node tools/render.mjs weather/blood-moon --opts '{"moon":"yellow"}' --gif --sheet
+```

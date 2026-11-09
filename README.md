@@ -20,3 +20,20 @@ Options: `palette` (crystal ramp, dark to bright), `spectrum` (the 7 rainbow col
 node tools/render.mjs arcane/prism-nova --gif
 node tools/render.mjs arcane/prism-nova --sheet --opts '{"spectrum":["#ff2a6a","#ff6ad0","#c06aff","#7a6aff","#4aa0ff","#4affe0","#ffffff"]}'
 ```
+
+## Inferno Rise (`transitions/inferno-rise`)
+
+![Inferno Rise](renders/inferno-rise/anim.gif)
+
+A screen transition. A roaring wall of flame climbs the screen from the bottom, leaving black char.
+The char smoulders with glowing cracks, then crumbles away from the top down in falling ash and
+the picture returns. One-shot, 3.4 s, 30 fps, 320 x 180 (full screen).
+
+The screen is fully covered from about 1.1 s to 1.7 s, so swap your scene in that window.
+
+- `effects/transitions/inferno-rise.js`: copy to `src/fx/transitions/` in a pixelfx checkout
+  (it uses that folder's `_lib.js`).
+- `renders/inferno-rise/inferno-rise.png` + `.json`: sprite sheet, 103 frames, transparent where the
+  picture shows through. Pivot `[0, 0]` (top-left), 30 fps, no loop.
+
+Options: `palette` (fire ramp, dark to bright), `color` (the cover, default near-black), `seed`.

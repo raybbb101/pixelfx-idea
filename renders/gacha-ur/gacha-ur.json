@@ -1,0 +1,2965 @@
+{
+ "frames": [
+  {
+   "filename": "gacha-ur 0",
+   "frame": {
+    "x": 0,
+    "y": 0,
+    "w": 208,
+    "h": 222
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 208,
+    "h": 222
+   },
+   "sourceSize": {
+    "w": 208,
+    "h": 222
+   },
+   "duration": 33
+  },
+  {
+   "filename": "gacha-ur 1",
+   "frame": {
+    "x": 208,
+    "y": 0,
+    "w": 208,
+    "h": 222
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 208,
+    "h": 222
+   },
+   "sourceSize": {
+    "w": 208,
+    "h": 222
+   },
+   "duration": 33
+  },
+  {
+   "filename": "gacha-ur 2",
+   "frame": {
+    "x": 416,
+    "y": 0,
+    "w": 208,
+    "h": 222
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 208,
+    "h": 222
+   },
+   "sourceSize": {
+    "w": 208,
+    "h": 222
+   },
+   "duration": 33
+  },
+  {
+   "filename": "gacha-ur 3",
+   "frame": {
+    "x": 624,
+    "y": 0,
+    "w": 208,
+    "h": 222
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 208,
+    "h": 222
+   },
+   "sourceSize": {
+    "w": 208,
+    "h": 222
+   },
+   "duration": 33
+  },
+  {
+   "filename": "gacha-ur 4",
+   "frame": {
+    "x": 832,
+    "y": 0,
+    "w": 208,
+    "h": 222
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 208,
+    "h": 222
+   },
+   "sourceSize": {
+    "w": 208,
+    "h": 222
+   },
+   "duration": 33
+  },
+  {
+   "filename": "gacha-ur 5",
+   "frame": {
+    "x": 1040,
+    "y": 0,
+    "w": 208,
+    "h": 222
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 208,
+    "h": 222
+   },
+   "sourceSize": {
+    "w": 208,
+    "h": 222
+   },
+   "duration": 33
+  },
+  {
+   "filename": "gacha-ur 6",
+   "frame": {
+    "x": 1248,
+    "y": 0,
+    "w": 208,
+    "h": 222
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 208,
+    "h": 222
+   },
+   "sourceSize": {
+    "w": 208,
+    "h": 222
+   },
+   "duration": 33
+  },
+  {
+   "filename": "gacha-ur 7",
+   "frame": {
+    "x": 1456,
+    "y": 0,
+    "w": 208,
+    "h": 222
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 208,
+    "h": 222
+   },
+   "sourceSize": {
+    "w": 208,
+    "h": 222
+   },
+   "duration": 33
+  },
+  {
+   "filename": "gacha-ur 8",
+   "frame": {
+    "x": 1664,
+    "y": 0,
+    "w": 208,
+    "h": 222
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 208,
+    "h": 222
+   },
+   "sourceSize": {
+    "w": 208,
+    "h": 222
+   },
+   "duration": 33
+  },
+  {
+   "filename": "gacha-ur 9",
+   "frame": {
+    "x": 1872,
+    "y": 0,
+    "w": 208,
+    "h": 222
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 208,
+    "h": 222
+   },
+   "sourceSize": {
+    "w": 208,
+    "h": 222
+   },
+   "duration": 33
+  },
+  {
+   "filename": "gacha-ur 10",
+   "frame": {
+    "x": 2080,
+    "y": 0,
+    "w": 208,
+    "h": 222
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 208,
+    "h": 222
+   },
+   "sourceSize": {
+    "w": 208,
+    "h": 222
+   },
+   "duration": 33
+  },
+  {
+   "filename": "gacha-ur 11",
+   "frame": {
+    "x": 2288,
+    "y": 0,
+    "w": 208,
+    "h": 222
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 208,
+    "h": 222
+   },
+   "sourceSize": {
+    "w": 208,
+    "h": 222
+   },
+   "duration": 33
+  },
+  {
+   "filename": "gacha-ur 12",
+   "frame": {
+    "x": 0,
+    "y": 222,
+    "w": 208,
+    "h": 222
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 208,
+    "h": 222
+   },
+   "sourceSize": {
+    "w": 208,
+    "h": 222
+   },
+   "duration": 33
+  },
+  {
+   "filename": "gacha-ur 13",
+   "frame": {
+    "x": 208,
+    "y": 222,
+    "w": 208,
+    "h": 222
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 208,
+    "h": 222
+   },
+   "sourceSize": {
+    "w": 208,
+    "h": 222
+   },
+   "duration": 33
+  },
+  {
+   "filename": "gacha-ur 14",
+   "frame": {
+    "x": 416,
+    "y": 222,
+    "w": 208,
+    "h": 222
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 208,
+    "h": 222
+   },
+   "sourceSize": {
+    "w": 208,
+    "h": 222
+   },
+   "duration": 33
+  },
+  {
+   "filename": "gacha-ur 15",
+   "frame": {
+    "x": 624,
+    "y": 222,
+    "w": 208,
+    "h": 222
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 208,
+    "h": 222
+   },
+   "sourceSize": {
+    "w": 208,
+    "h": 222
+   },
+   "duration": 33
+  },
+  {
+   "filename": "gacha-ur 16",
+   "frame": {
+    "x": 832,
+    "y": 222,
+    "w": 208,
+    "h": 222
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 208,
+    "h": 222
+   },
+   "sourceSize": {
+    "w": 208,
+    "h": 222
+   },
+   "duration": 33
+  },
+  {
+   "filename": "gacha-ur 17",
+   "frame": {
+    "x": 1040,
+    "y": 222,
+    "w": 208,
+    "h": 222
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 208,
+    "h": 222
+   },
+   "sourceSize": {
+    "w": 208,
+    "h": 222
+   },
+   "duration": 33
+  },
+  {
+   "filename": "gacha-ur 18",
+   "frame": {
+    "x": 1248,
+    "y": 222,
+    "w": 208,
+    "h": 222
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 208,
+    "h": 222
+   },
+   "sourceSize": {
+    "w": 208,
+    "h": 222
+   },
+   "duration": 33
+  },
+  {
+   "filename": "gacha-ur 19",
+   "frame": {
+    "x": 1456,
+    "y": 222,
+    "w": 208,
+    "h": 222
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 208,
+    "h": 222
+   },
+   "sourceSize": {
+    "w": 208,
+    "h": 222
+   },
+   "duration": 33
+  },
+  {
+   "filename": "gacha-ur 20",
+   "frame": {
+    "x": 1664,
+    "y": 222,
+    "w": 208,
+    "h": 222
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 208,
+    "h": 222
+   },
+   "sourceSize": {
+    "w": 208,
+    "h": 222
+   },
+   "duration": 33
+  },
+  {
+   "filename": "gacha-ur 21",
+   "frame": {
+    "x": 1872,
+    "y": 222,
+    "w": 208,
+    "h": 222
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 208,
+    "h": 222
+   },
+   "sourceSize": {
+    "w": 208,
+    "h": 222
+   },
+   "duration": 33
+  },
+  {
+   "filename": "gacha-ur 22",
+   "frame": {
+    "x": 2080,
+    "y": 222,
+    "w": 208,
+    "h": 222
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 208,
+    "h": 222
+   },
+   "sourceSize": {
+    "w": 208,
+    "h": 222
+   },
+   "duration": 33
+  },
+  {
+   "filename": "gacha-ur 23",
+   "frame": {
+    "x": 2288,
+    "y": 222,
+    "w": 208,
+    "h": 222
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 208,
+    "h": 222
+   },
+   "sourceSize": {
+    "w": 208,
+    "h": 222
+   },
+   "duration": 33
+  },
+  {
+   "filename": "gacha-ur 24",
+   "frame": {
+    "x": 0,
+    "y": 444,
+    "w": 208,
+    "h": 222
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 208,
+    "h": 222
+   },
+   "sourceSize": {
+    "w": 208,
+    "h": 222
+   },
+   "duration": 33
+  },
+  {
+   "filename": "gacha-ur 25",
+   "frame": {
+    "x": 208,
+    "y": 444,
+    "w": 208,
+    "h": 222
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 208,
+    "h": 222
+   },
+   "sourceSize": {
+    "w": 208,
+    "h": 222
+   },
+   "duration": 33
+  },
+  {
+   "filename": "gacha-ur 26",
+   "frame": {
+    "x": 416,
+    "y": 444,
+    "w": 208,
+    "h": 222
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 208,
+    "h": 222
+   },
+   "sourceSize": {
+    "w": 208,
+    "h": 222
+   },
+   "duration": 33
+  },
+  {
+   "filename": "gacha-ur 27",
+   "frame": {
+    "x": 624,
+    "y": 444,
+    "w": 208,
+    "h": 222
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 208,
+    "h": 222
+   },
+   "sourceSize": {
+    "w": 208,
+    "h": 222
+   },
+   "duration": 33
+  },
+  {
+   "filename": "gacha-ur 28",
+   "frame": {
+    "x": 832,
+    "y": 444,
+    "w": 208,
+    "h": 222
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 208,
+    "h": 222
+   },
+   "sourceSize": {
+    "w": 208,
+    "h": 222
+   },
+   "duration": 33
+  },
+  {
+   "filename": "gacha-ur 29",
+   "frame": {
+    "x": 1040,
+    "y": 444,
+    "w": 208,
+    "h": 222
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 208,
+    "h": 222
+   },
+   "sourceSize": {
+    "w": 208,
+    "h": 222
+   },
+   "duration": 33
+  },
+  {
+   "filename": "gacha-ur 30",
+   "frame": {
+    "x": 1248,
+    "y": 444,
+    "w": 208,
+    "h": 222
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 208,
+    "h": 222
+   },
+   "sourceSize": {
+    "w": 208,
+    "h": 222
+   },
+   "duration": 33
+  },
+  {
+   "filename": "gacha-ur 31",
+   "frame": {
+    "x": 1456,
+    "y": 444,
+    "w": 208,
+    "h": 222
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 208,
+    "h": 222
+   },
+   "sourceSize": {
+    "w": 208,
+    "h": 222
+   },
+   "duration": 33
+  },
+  {
+   "filename": "gacha-ur 32",
+   "frame": {
+    "x": 1664,
+    "y": 444,
+    "w": 208,
+    "h": 222
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 208,
+    "h": 222
+   },
+   "sourceSize": {
+    "w": 208,
+    "h": 222
+   },
+   "duration": 33
+  },
+  {
+   "filename": "gacha-ur 33",
+   "frame": {
+    "x": 1872,
+    "y": 444,
+    "w": 208,
+    "h": 222
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 208,
+    "h": 222
+   },
+   "sourceSize": {
+    "w": 208,
+    "h": 222
+   },
+   "duration": 33
+  },
+  {
+   "filename": "gacha-ur 34",
+   "frame": {
+    "x": 2080,
+    "y": 444,
+    "w": 208,
+    "h": 222
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 208,
+    "h": 222
+   },
+   "sourceSize": {
+    "w": 208,
+    "h": 222
+   },
+   "duration": 33
+  },
+  {
+   "filename": "gacha-ur 35",
+   "frame": {
+    "x": 2288,
+    "y": 444,
+    "w": 208,
+    "h": 222
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 208,
+    "h": 222
+   },
+   "sourceSize": {
+    "w": 208,
+    "h": 222
+   },
+   "duration": 33
+  },
+  {
+   "filename": "gacha-ur 36",
+   "frame": {
+    "x": 0,
+    "y": 666,
+    "w": 208,
+    "h": 222
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 208,
+    "h": 222
+   },
+   "sourceSize": {
+    "w": 208,
+    "h": 222
+   },
+   "duration": 33
+  },
+  {
+   "filename": "gacha-ur 37",
+   "frame": {
+    "x": 208,
+    "y": 666,
+    "w": 208,
+    "h": 222
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 208,
+    "h": 222
+   },
+   "sourceSize": {
+    "w": 208,
+    "h": 222
+   },
+   "duration": 33
+  },
+  {
+   "filename": "gacha-ur 38",
+   "frame": {
+    "x": 416,
+    "y": 666,
+    "w": 208,
+    "h": 222
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 208,
+    "h": 222
+   },
+   "sourceSize": {
+    "w": 208,
+    "h": 222
+   },
+   "duration": 33
+  },
+  {
+   "filename": "gacha-ur 39",
+   "frame": {
+    "x": 624,
+    "y": 666,
+    "w": 208,
+    "h": 222
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 208,
+    "h": 222
+   },
+   "sourceSize": {
+    "w": 208,
+    "h": 222
+   },
+   "duration": 33
+  },
+  {
+   "filename": "gacha-ur 40",
+   "frame": {
+    "x": 832,
+    "y": 666,
+    "w": 208,
+    "h": 222
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 208,
+    "h": 222
+   },
+   "sourceSize": {
+    "w": 208,
+    "h": 222
+   },
+   "duration": 33
+  },
+  {
+   "filename": "gacha-ur 41",
+   "frame": {
+    "x": 1040,
+    "y": 666,
+    "w": 208,
+    "h": 222
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 208,
+    "h": 222
+   },
+   "sourceSize": {
+    "w": 208,
+    "h": 222
+   },
+   "duration": 33
+  },
+  {
+   "filename": "gacha-ur 42",
+   "frame": {
+    "x": 1248,
+    "y": 666,
+    "w": 208,
+    "h": 222
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 208,
+    "h": 222
+   },
+   "sourceSize": {
+    "w": 208,
+    "h": 222
+   },
+   "duration": 33
+  },
+  {
+   "filename": "gacha-ur 43",
+   "frame": {
+    "x": 1456,
+    "y": 666,
+    "w": 208,
+    "h": 222
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 208,
+    "h": 222
+   },
+   "sourceSize": {
+    "w": 208,
+    "h": 222
+   },
+   "duration": 33
+  },
+  {
+   "filename": "gacha-ur 44",
+   "frame": {
+    "x": 1664,
+    "y": 666,
+    "w": 208,
+    "h": 222
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 208,
+    "h": 222
+   },
+   "sourceSize": {
+    "w": 208,
+    "h": 222
+   },
+   "duration": 33
+  },
+  {
+   "filename": "gacha-ur 45",
+   "frame": {
+    "x": 1872,
+    "y": 666,
+    "w": 208,
+    "h": 222
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 208,
+    "h": 222
+   },
+   "sourceSize": {
+    "w": 208,
+    "h": 222
+   },
+   "duration": 33
+  },
+  {
+   "filename": "gacha-ur 46",
+   "frame": {
+    "x": 2080,
+    "y": 666,
+    "w": 208,
+    "h": 222
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 208,
+    "h": 222
+   },
+   "sourceSize": {
+    "w": 208,
+    "h": 222
+   },
+   "duration": 33
+  },
+  {
+   "filename": "gacha-ur 47",
+   "frame": {
+    "x": 2288,
+    "y": 666,
+    "w": 208,
+    "h": 222
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 208,
+    "h": 222
+   },
+   "sourceSize": {
+    "w": 208,
+    "h": 222
+   },
+   "duration": 33
+  },
+  {
+   "filename": "gacha-ur 48",
+   "frame": {
+    "x": 0,
+    "y": 888,
+    "w": 208,
+    "h": 222
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 208,
+    "h": 222
+   },
+   "sourceSize": {
+    "w": 208,
+    "h": 222
+   },
+   "duration": 33
+  },
+  {
+   "filename": "gacha-ur 49",
+   "frame": {
+    "x": 208,
+    "y": 888,
+    "w": 208,
+    "h": 222
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 208,
+    "h": 222
+   },
+   "sourceSize": {
+    "w": 208,
+    "h": 222
+   },
+   "duration": 33
+  },
+  {
+   "filename": "gacha-ur 50",
+   "frame": {
+    "x": 416,
+    "y": 888,
+    "w": 208,
+    "h": 222
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 208,
+    "h": 222
+   },
+   "sourceSize": {
+    "w": 208,
+    "h": 222
+   },
+   "duration": 33
+  },
+  {
+   "filename": "gacha-ur 51",
+   "frame": {
+    "x": 624,
+    "y": 888,
+    "w": 208,
+    "h": 222
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 208,
+    "h": 222
+   },
+   "sourceSize": {
+    "w": 208,
+    "h": 222
+   },
+   "duration": 33
+  },
+  {
+   "filename": "gacha-ur 52",
+   "frame": {
+    "x": 832,
+    "y": 888,
+    "w": 208,
+    "h": 222
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 208,
+    "h": 222
+   },
+   "sourceSize": {
+    "w": 208,
+    "h": 222
+   },
+   "duration": 33
+  },
+  {
+   "filename": "gacha-ur 53",
+   "frame": {
+    "x": 1040,
+    "y": 888,
+    "w": 208,
+    "h": 222
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 208,
+    "h": 222
+   },
+   "sourceSize": {
+    "w": 208,
+    "h": 222
+   },
+   "duration": 33
+  },
+  {
+   "filename": "gacha-ur 54",
+   "frame": {
+    "x": 1248,
+    "y": 888,
+    "w": 208,
+    "h": 222
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 208,
+    "h": 222
+   },
+   "sourceSize": {
+    "w": 208,
+    "h": 222
+   },
+   "duration": 33
+  },
+  {
+   "filename": "gacha-ur 55",
+   "frame": {
+    "x": 1456,
+    "y": 888,
+    "w": 208,
+    "h": 222
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 208,
+    "h": 222
+   },
+   "sourceSize": {
+    "w": 208,
+    "h": 222
+   },
+   "duration": 33
+  },
+  {
+   "filename": "gacha-ur 56",
+   "frame": {
+    "x": 1664,
+    "y": 888,
+    "w": 208,
+    "h": 222
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 208,
+    "h": 222
+   },
+   "sourceSize": {
+    "w": 208,
+    "h": 222
+   },
+   "duration": 33
+  },
+  {
+   "filename": "gacha-ur 57",
+   "frame": {
+    "x": 1872,
+    "y": 888,
+    "w": 208,
+    "h": 222
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 208,
+    "h": 222
+   },
+   "sourceSize": {
+    "w": 208,
+    "h": 222
+   },
+   "duration": 33
+  },
+  {
+   "filename": "gacha-ur 58",
+   "frame": {
+    "x": 2080,
+    "y": 888,
+    "w": 208,
+    "h": 222
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 208,
+    "h": 222
+   },
+   "sourceSize": {
+    "w": 208,
+    "h": 222
+   },
+   "duration": 33
+  },
+  {
+   "filename": "gacha-ur 59",
+   "frame": {
+    "x": 2288,
+    "y": 888,
+    "w": 208,
+    "h": 222
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 208,
+    "h": 222
+   },
+   "sourceSize": {
+    "w": 208,
+    "h": 222
+   },
+   "duration": 33
+  },
+  {
+   "filename": "gacha-ur 60",
+   "frame": {
+    "x": 0,
+    "y": 1110,
+    "w": 208,
+    "h": 222
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 208,
+    "h": 222
+   },
+   "sourceSize": {
+    "w": 208,
+    "h": 222
+   },
+   "duration": 33
+  },
+  {
+   "filename": "gacha-ur 61",
+   "frame": {
+    "x": 208,
+    "y": 1110,
+    "w": 208,
+    "h": 222
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 208,
+    "h": 222
+   },
+   "sourceSize": {
+    "w": 208,
+    "h": 222
+   },
+   "duration": 33
+  },
+  {
+   "filename": "gacha-ur 62",
+   "frame": {
+    "x": 416,
+    "y": 1110,
+    "w": 208,
+    "h": 222
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 208,
+    "h": 222
+   },
+   "sourceSize": {
+    "w": 208,
+    "h": 222
+   },
+   "duration": 33
+  },
+  {
+   "filename": "gacha-ur 63",
+   "frame": {
+    "x": 624,
+    "y": 1110,
+    "w": 208,
+    "h": 222
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 208,
+    "h": 222
+   },
+   "sourceSize": {
+    "w": 208,
+    "h": 222
+   },
+   "duration": 33
+  },
+  {
+   "filename": "gacha-ur 64",
+   "frame": {
+    "x": 832,
+    "y": 1110,
+    "w": 208,
+    "h": 222
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 208,
+    "h": 222
+   },
+   "sourceSize": {
+    "w": 208,
+    "h": 222
+   },
+   "duration": 33
+  },
+  {
+   "filename": "gacha-ur 65",
+   "frame": {
+    "x": 1040,
+    "y": 1110,
+    "w": 208,
+    "h": 222
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 208,
+    "h": 222
+   },
+   "sourceSize": {
+    "w": 208,
+    "h": 222
+   },
+   "duration": 33
+  },
+  {
+   "filename": "gacha-ur 66",
+   "frame": {
+    "x": 1248,
+    "y": 1110,
+    "w": 208,
+    "h": 222
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 208,
+    "h": 222
+   },
+   "sourceSize": {
+    "w": 208,
+    "h": 222
+   },
+   "duration": 33
+  },
+  {
+   "filename": "gacha-ur 67",
+   "frame": {
+    "x": 1456,
+    "y": 1110,
+    "w": 208,
+    "h": 222
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 208,
+    "h": 222
+   },
+   "sourceSize": {
+    "w": 208,
+    "h": 222
+   },
+   "duration": 33
+  },
+  {
+   "filename": "gacha-ur 68",
+   "frame": {
+    "x": 1664,
+    "y": 1110,
+    "w": 208,
+    "h": 222
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 208,
+    "h": 222
+   },
+   "sourceSize": {
+    "w": 208,
+    "h": 222
+   },
+   "duration": 33
+  },
+  {
+   "filename": "gacha-ur 69",
+   "frame": {
+    "x": 1872,
+    "y": 1110,
+    "w": 208,
+    "h": 222
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 208,
+    "h": 222
+   },
+   "sourceSize": {
+    "w": 208,
+    "h": 222
+   },
+   "duration": 33
+  },
+  {
+   "filename": "gacha-ur 70",
+   "frame": {
+    "x": 2080,
+    "y": 1110,
+    "w": 208,
+    "h": 222
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 208,
+    "h": 222
+   },
+   "sourceSize": {
+    "w": 208,
+    "h": 222
+   },
+   "duration": 33
+  },
+  {
+   "filename": "gacha-ur 71",
+   "frame": {
+    "x": 2288,
+    "y": 1110,
+    "w": 208,
+    "h": 222
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 208,
+    "h": 222
+   },
+   "sourceSize": {
+    "w": 208,
+    "h": 222
+   },
+   "duration": 33
+  },
+  {
+   "filename": "gacha-ur 72",
+   "frame": {
+    "x": 0,
+    "y": 1332,
+    "w": 208,
+    "h": 222
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 208,
+    "h": 222
+   },
+   "sourceSize": {
+    "w": 208,
+    "h": 222
+   },
+   "duration": 33
+  },
+  {
+   "filename": "gacha-ur 73",
+   "frame": {
+    "x": 208,
+    "y": 1332,
+    "w": 208,
+    "h": 222
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 208,
+    "h": 222
+   },
+   "sourceSize": {
+    "w": 208,
+    "h": 222
+   },
+   "duration": 33
+  },
+  {
+   "filename": "gacha-ur 74",
+   "frame": {
+    "x": 416,
+    "y": 1332,
+    "w": 208,
+    "h": 222
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 208,
+    "h": 222
+   },
+   "sourceSize": {
+    "w": 208,
+    "h": 222
+   },
+   "duration": 33
+  },
+  {
+   "filename": "gacha-ur 75",
+   "frame": {
+    "x": 624,
+    "y": 1332,
+    "w": 208,
+    "h": 222
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 208,
+    "h": 222
+   },
+   "sourceSize": {
+    "w": 208,
+    "h": 222
+   },
+   "duration": 33
+  },
+  {
+   "filename": "gacha-ur 76",
+   "frame": {
+    "x": 832,
+    "y": 1332,
+    "w": 208,
+    "h": 222
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 208,
+    "h": 222
+   },
+   "sourceSize": {
+    "w": 208,
+    "h": 222
+   },
+   "duration": 33
+  },
+  {
+   "filename": "gacha-ur 77",
+   "frame": {
+    "x": 1040,
+    "y": 1332,
+    "w": 208,
+    "h": 222
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 208,
+    "h": 222
+   },
+   "sourceSize": {
+    "w": 208,
+    "h": 222
+   },
+   "duration": 33
+  },
+  {
+   "filename": "gacha-ur 78",
+   "frame": {
+    "x": 1248,
+    "y": 1332,
+    "w": 208,
+    "h": 222
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 208,
+    "h": 222
+   },
+   "sourceSize": {
+    "w": 208,
+    "h": 222
+   },
+   "duration": 33
+  },
+  {
+   "filename": "gacha-ur 79",
+   "frame": {
+    "x": 1456,
+    "y": 1332,
+    "w": 208,
+    "h": 222
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 208,
+    "h": 222
+   },
+   "sourceSize": {
+    "w": 208,
+    "h": 222
+   },
+   "duration": 33
+  },
+  {
+   "filename": "gacha-ur 80",
+   "frame": {
+    "x": 1664,
+    "y": 1332,
+    "w": 208,
+    "h": 222
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 208,
+    "h": 222
+   },
+   "sourceSize": {
+    "w": 208,
+    "h": 222
+   },
+   "duration": 33
+  },
+  {
+   "filename": "gacha-ur 81",
+   "frame": {
+    "x": 1872,
+    "y": 1332,
+    "w": 208,
+    "h": 222
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 208,
+    "h": 222
+   },
+   "sourceSize": {
+    "w": 208,
+    "h": 222
+   },
+   "duration": 33
+  },
+  {
+   "filename": "gacha-ur 82",
+   "frame": {
+    "x": 2080,
+    "y": 1332,
+    "w": 208,
+    "h": 222
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 208,
+    "h": 222
+   },
+   "sourceSize": {
+    "w": 208,
+    "h": 222
+   },
+   "duration": 33
+  },
+  {
+   "filename": "gacha-ur 83",
+   "frame": {
+    "x": 2288,
+    "y": 1332,
+    "w": 208,
+    "h": 222
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 208,
+    "h": 222
+   },
+   "sourceSize": {
+    "w": 208,
+    "h": 222
+   },
+   "duration": 33
+  },
+  {
+   "filename": "gacha-ur 84",
+   "frame": {
+    "x": 0,
+    "y": 1554,
+    "w": 208,
+    "h": 222
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 208,
+    "h": 222
+   },
+   "sourceSize": {
+    "w": 208,
+    "h": 222
+   },
+   "duration": 33
+  },
+  {
+   "filename": "gacha-ur 85",
+   "frame": {
+    "x": 208,
+    "y": 1554,
+    "w": 208,
+    "h": 222
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 208,
+    "h": 222
+   },
+   "sourceSize": {
+    "w": 208,
+    "h": 222
+   },
+   "duration": 33
+  },
+  {
+   "filename": "gacha-ur 86",
+   "frame": {
+    "x": 416,
+    "y": 1554,
+    "w": 208,
+    "h": 222
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 208,
+    "h": 222
+   },
+   "sourceSize": {
+    "w": 208,
+    "h": 222
+   },
+   "duration": 33
+  },
+  {
+   "filename": "gacha-ur 87",
+   "frame": {
+    "x": 624,
+    "y": 1554,
+    "w": 208,
+    "h": 222
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 208,
+    "h": 222
+   },
+   "sourceSize": {
+    "w": 208,
+    "h": 222
+   },
+   "duration": 33
+  },
+  {
+   "filename": "gacha-ur 88",
+   "frame": {
+    "x": 832,
+    "y": 1554,
+    "w": 208,
+    "h": 222
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 208,
+    "h": 222
+   },
+   "sourceSize": {
+    "w": 208,
+    "h": 222
+   },
+   "duration": 33
+  },
+  {
+   "filename": "gacha-ur 89",
+   "frame": {
+    "x": 1040,
+    "y": 1554,
+    "w": 208,
+    "h": 222
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 208,
+    "h": 222
+   },
+   "sourceSize": {
+    "w": 208,
+    "h": 222
+   },
+   "duration": 33
+  },
+  {
+   "filename": "gacha-ur 90",
+   "frame": {
+    "x": 1248,
+    "y": 1554,
+    "w": 208,
+    "h": 222
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 208,
+    "h": 222
+   },
+   "sourceSize": {
+    "w": 208,
+    "h": 222
+   },
+   "duration": 33
+  },
+  {
+   "filename": "gacha-ur 91",
+   "frame": {
+    "x": 1456,
+    "y": 1554,
+    "w": 208,
+    "h": 222
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 208,
+    "h": 222
+   },
+   "sourceSize": {
+    "w": 208,
+    "h": 222
+   },
+   "duration": 33
+  },
+  {
+   "filename": "gacha-ur 92",
+   "frame": {
+    "x": 1664,
+    "y": 1554,
+    "w": 208,
+    "h": 222
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 208,
+    "h": 222
+   },
+   "sourceSize": {
+    "w": 208,
+    "h": 222
+   },
+   "duration": 33
+  },
+  {
+   "filename": "gacha-ur 93",
+   "frame": {
+    "x": 1872,
+    "y": 1554,
+    "w": 208,
+    "h": 222
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 208,
+    "h": 222
+   },
+   "sourceSize": {
+    "w": 208,
+    "h": 222
+   },
+   "duration": 33
+  },
+  {
+   "filename": "gacha-ur 94",
+   "frame": {
+    "x": 2080,
+    "y": 1554,
+    "w": 208,
+    "h": 222
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 208,
+    "h": 222
+   },
+   "sourceSize": {
+    "w": 208,
+    "h": 222
+   },
+   "duration": 33
+  },
+  {
+   "filename": "gacha-ur 95",
+   "frame": {
+    "x": 2288,
+    "y": 1554,
+    "w": 208,
+    "h": 222
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 208,
+    "h": 222
+   },
+   "sourceSize": {
+    "w": 208,
+    "h": 222
+   },
+   "duration": 33
+  },
+  {
+   "filename": "gacha-ur 96",
+   "frame": {
+    "x": 0,
+    "y": 1776,
+    "w": 208,
+    "h": 222
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 208,
+    "h": 222
+   },
+   "sourceSize": {
+    "w": 208,
+    "h": 222
+   },
+   "duration": 33
+  },
+  {
+   "filename": "gacha-ur 97",
+   "frame": {
+    "x": 208,
+    "y": 1776,
+    "w": 208,
+    "h": 222
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 208,
+    "h": 222
+   },
+   "sourceSize": {
+    "w": 208,
+    "h": 222
+   },
+   "duration": 33
+  },
+  {
+   "filename": "gacha-ur 98",
+   "frame": {
+    "x": 416,
+    "y": 1776,
+    "w": 208,
+    "h": 222
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 208,
+    "h": 222
+   },
+   "sourceSize": {
+    "w": 208,
+    "h": 222
+   },
+   "duration": 33
+  },
+  {
+   "filename": "gacha-ur 99",
+   "frame": {
+    "x": 624,
+    "y": 1776,
+    "w": 208,
+    "h": 222
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 208,
+    "h": 222
+   },
+   "sourceSize": {
+    "w": 208,
+    "h": 222
+   },
+   "duration": 33
+  },
+  {
+   "filename": "gacha-ur 100",
+   "frame": {
+    "x": 832,
+    "y": 1776,
+    "w": 208,
+    "h": 222
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 208,
+    "h": 222
+   },
+   "sourceSize": {
+    "w": 208,
+    "h": 222
+   },
+   "duration": 33
+  },
+  {
+   "filename": "gacha-ur 101",
+   "frame": {
+    "x": 1040,
+    "y": 1776,
+    "w": 208,
+    "h": 222
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 208,
+    "h": 222
+   },
+   "sourceSize": {
+    "w": 208,
+    "h": 222
+   },
+   "duration": 33
+  },
+  {
+   "filename": "gacha-ur 102",
+   "frame": {
+    "x": 1248,
+    "y": 1776,
+    "w": 208,
+    "h": 222
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 208,
+    "h": 222
+   },
+   "sourceSize": {
+    "w": 208,
+    "h": 222
+   },
+   "duration": 33
+  },
+  {
+   "filename": "gacha-ur 103",
+   "frame": {
+    "x": 1456,
+    "y": 1776,
+    "w": 208,
+    "h": 222
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 208,
+    "h": 222
+   },
+   "sourceSize": {
+    "w": 208,
+    "h": 222
+   },
+   "duration": 33
+  },
+  {
+   "filename": "gacha-ur 104",
+   "frame": {
+    "x": 1664,
+    "y": 1776,
+    "w": 208,
+    "h": 222
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 208,
+    "h": 222
+   },
+   "sourceSize": {
+    "w": 208,
+    "h": 222
+   },
+   "duration": 33
+  },
+  {
+   "filename": "gacha-ur 105",
+   "frame": {
+    "x": 1872,
+    "y": 1776,
+    "w": 208,
+    "h": 222
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 208,
+    "h": 222
+   },
+   "sourceSize": {
+    "w": 208,
+    "h": 222
+   },
+   "duration": 33
+  },
+  {
+   "filename": "gacha-ur 106",
+   "frame": {
+    "x": 2080,
+    "y": 1776,
+    "w": 208,
+    "h": 222
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 208,
+    "h": 222
+   },
+   "sourceSize": {
+    "w": 208,
+    "h": 222
+   },
+   "duration": 33
+  },
+  {
+   "filename": "gacha-ur 107",
+   "frame": {
+    "x": 2288,
+    "y": 1776,
+    "w": 208,
+    "h": 222
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 208,
+    "h": 222
+   },
+   "sourceSize": {
+    "w": 208,
+    "h": 222
+   },
+   "duration": 33
+  },
+  {
+   "filename": "gacha-ur 108",
+   "frame": {
+    "x": 0,
+    "y": 1998,
+    "w": 208,
+    "h": 222
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 208,
+    "h": 222
+   },
+   "sourceSize": {
+    "w": 208,
+    "h": 222
+   },
+   "duration": 33
+  },
+  {
+   "filename": "gacha-ur 109",
+   "frame": {
+    "x": 208,
+    "y": 1998,
+    "w": 208,
+    "h": 222
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 208,
+    "h": 222
+   },
+   "sourceSize": {
+    "w": 208,
+    "h": 222
+   },
+   "duration": 33
+  },
+  {
+   "filename": "gacha-ur 110",
+   "frame": {
+    "x": 416,
+    "y": 1998,
+    "w": 208,
+    "h": 222
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 208,
+    "h": 222
+   },
+   "sourceSize": {
+    "w": 208,
+    "h": 222
+   },
+   "duration": 33
+  },
+  {
+   "filename": "gacha-ur 111",
+   "frame": {
+    "x": 624,
+    "y": 1998,
+    "w": 208,
+    "h": 222
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 208,
+    "h": 222
+   },
+   "sourceSize": {
+    "w": 208,
+    "h": 222
+   },
+   "duration": 33
+  },
+  {
+   "filename": "gacha-ur 112",
+   "frame": {
+    "x": 832,
+    "y": 1998,
+    "w": 208,
+    "h": 222
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 208,
+    "h": 222
+   },
+   "sourceSize": {
+    "w": 208,
+    "h": 222
+   },
+   "duration": 33
+  },
+  {
+   "filename": "gacha-ur 113",
+   "frame": {
+    "x": 1040,
+    "y": 1998,
+    "w": 208,
+    "h": 222
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 208,
+    "h": 222
+   },
+   "sourceSize": {
+    "w": 208,
+    "h": 222
+   },
+   "duration": 33
+  },
+  {
+   "filename": "gacha-ur 114",
+   "frame": {
+    "x": 1248,
+    "y": 1998,
+    "w": 208,
+    "h": 222
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 208,
+    "h": 222
+   },
+   "sourceSize": {
+    "w": 208,
+    "h": 222
+   },
+   "duration": 33
+  },
+  {
+   "filename": "gacha-ur 115",
+   "frame": {
+    "x": 1456,
+    "y": 1998,
+    "w": 208,
+    "h": 222
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 208,
+    "h": 222
+   },
+   "sourceSize": {
+    "w": 208,
+    "h": 222
+   },
+   "duration": 33
+  },
+  {
+   "filename": "gacha-ur 116",
+   "frame": {
+    "x": 1664,
+    "y": 1998,
+    "w": 208,
+    "h": 222
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 208,
+    "h": 222
+   },
+   "sourceSize": {
+    "w": 208,
+    "h": 222
+   },
+   "duration": 33
+  },
+  {
+   "filename": "gacha-ur 117",
+   "frame": {
+    "x": 1872,
+    "y": 1998,
+    "w": 208,
+    "h": 222
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 208,
+    "h": 222
+   },
+   "sourceSize": {
+    "w": 208,
+    "h": 222
+   },
+   "duration": 33
+  },
+  {
+   "filename": "gacha-ur 118",
+   "frame": {
+    "x": 2080,
+    "y": 1998,
+    "w": 208,
+    "h": 222
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 208,
+    "h": 222
+   },
+   "sourceSize": {
+    "w": 208,
+    "h": 222
+   },
+   "duration": 33
+  },
+  {
+   "filename": "gacha-ur 119",
+   "frame": {
+    "x": 2288,
+    "y": 1998,
+    "w": 208,
+    "h": 222
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 208,
+    "h": 222
+   },
+   "sourceSize": {
+    "w": 208,
+    "h": 222
+   },
+   "duration": 33
+  },
+  {
+   "filename": "gacha-ur 120",
+   "frame": {
+    "x": 0,
+    "y": 2220,
+    "w": 208,
+    "h": 222
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 208,
+    "h": 222
+   },
+   "sourceSize": {
+    "w": 208,
+    "h": 222
+   },
+   "duration": 33
+  },
+  {
+   "filename": "gacha-ur 121",
+   "frame": {
+    "x": 208,
+    "y": 2220,
+    "w": 208,
+    "h": 222
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 208,
+    "h": 222
+   },
+   "sourceSize": {
+    "w": 208,
+    "h": 222
+   },
+   "duration": 33
+  },
+  {
+   "filename": "gacha-ur 122",
+   "frame": {
+    "x": 416,
+    "y": 2220,
+    "w": 208,
+    "h": 222
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 208,
+    "h": 222
+   },
+   "sourceSize": {
+    "w": 208,
+    "h": 222
+   },
+   "duration": 33
+  },
+  {
+   "filename": "gacha-ur 123",
+   "frame": {
+    "x": 624,
+    "y": 2220,
+    "w": 208,
+    "h": 222
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 208,
+    "h": 222
+   },
+   "sourceSize": {
+    "w": 208,
+    "h": 222
+   },
+   "duration": 33
+  },
+  {
+   "filename": "gacha-ur 124",
+   "frame": {
+    "x": 832,
+    "y": 2220,
+    "w": 208,
+    "h": 222
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 208,
+    "h": 222
+   },
+   "sourceSize": {
+    "w": 208,
+    "h": 222
+   },
+   "duration": 33
+  },
+  {
+   "filename": "gacha-ur 125",
+   "frame": {
+    "x": 1040,
+    "y": 2220,
+    "w": 208,
+    "h": 222
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 208,
+    "h": 222
+   },
+   "sourceSize": {
+    "w": 208,
+    "h": 222
+   },
+   "duration": 33
+  },
+  {
+   "filename": "gacha-ur 126",
+   "frame": {
+    "x": 1248,
+    "y": 2220,
+    "w": 208,
+    "h": 222
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 208,
+    "h": 222
+   },
+   "sourceSize": {
+    "w": 208,
+    "h": 222
+   },
+   "duration": 33
+  },
+  {
+   "filename": "gacha-ur 127",
+   "frame": {
+    "x": 1456,
+    "y": 2220,
+    "w": 208,
+    "h": 222
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 208,
+    "h": 222
+   },
+   "sourceSize": {
+    "w": 208,
+    "h": 222
+   },
+   "duration": 33
+  },
+  {
+   "filename": "gacha-ur 128",
+   "frame": {
+    "x": 1664,
+    "y": 2220,
+    "w": 208,
+    "h": 222
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 208,
+    "h": 222
+   },
+   "sourceSize": {
+    "w": 208,
+    "h": 222
+   },
+   "duration": 33
+  },
+  {
+   "filename": "gacha-ur 129",
+   "frame": {
+    "x": 1872,
+    "y": 2220,
+    "w": 208,
+    "h": 222
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 208,
+    "h": 222
+   },
+   "sourceSize": {
+    "w": 208,
+    "h": 222
+   },
+   "duration": 33
+  },
+  {
+   "filename": "gacha-ur 130",
+   "frame": {
+    "x": 2080,
+    "y": 2220,
+    "w": 208,
+    "h": 222
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 208,
+    "h": 222
+   },
+   "sourceSize": {
+    "w": 208,
+    "h": 222
+   },
+   "duration": 33
+  },
+  {
+   "filename": "gacha-ur 131",
+   "frame": {
+    "x": 2288,
+    "y": 2220,
+    "w": 208,
+    "h": 222
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 208,
+    "h": 222
+   },
+   "sourceSize": {
+    "w": 208,
+    "h": 222
+   },
+   "duration": 33
+  },
+  {
+   "filename": "gacha-ur 132",
+   "frame": {
+    "x": 0,
+    "y": 2442,
+    "w": 208,
+    "h": 222
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 208,
+    "h": 222
+   },
+   "sourceSize": {
+    "w": 208,
+    "h": 222
+   },
+   "duration": 33
+  }
+ ],
+ "meta": {
+  "app": "https://github.com/patch-gg/pixelfx",
+  "version": "1",
+  "image": "gacha-ur.png",
+  "format": "RGBA8888",
+  "size": {
+   "w": 2496,
+   "h": 2664
+  },
+  "scale": "1",
+  "frameTags": [
+   {
+    "name": "gacha-ur",
+    "from": 0,
+    "to": 132,
+    "direction": "forward"
+   }
+  ],
+  "pixelfx": {
+   "id": "ui/gacha-ur",
+   "name": "Gacha UR",
+   "fps": 30,
+   "loop": false,
+   "frames": 133,
+   "frameSize": [
+    208,
+    222
+   ],
+   "pivot": [
+    104,
+    118
+   ],
+   "columns": 12
+  }
+ }
+}

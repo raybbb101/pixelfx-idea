@@ -114,3 +114,24 @@ Pick the moon with the `moon` option: `"silver"` (default), `"yellow"`, or your 
   character's animation timing.
 - `renders/blood-moon-skill-<silver|yellow>/`: the whole act, character included, as a transparent sprite
   sheet (104 frames of 164 x 146, pivot `[82, 128]` = the feet) + JSON, and a GIF.
+
+## Gacha UR (`ui/gacha-ur`)
+
+![Gacha UR](renders/gacha-ur/anim.gif)
+
+A gacha pull that lands an Ultra Rare card in the **candy** palette. 4.4 s, 30 fps, 208 x 222 px.
+
+1. **Summon (0–0.45 s):** candy-coloured streaks rush into a glowing point.
+2. **The card (0.45–0.75 s):** a mystery card pops out of a white flash, its back marked with a `?`.
+3. **Rarity climb (0.75–1.9 s):** it shakes harder and harder as its aura climbs **white** (1.05 s),
+   **gold** (1.4 s), then cracks into a cycling **candy rainbow**, sparks pulled in faster at each step.
+4. **Burst and flip (1.9–2.2 s):** a white flash, a candy flare and rings, and the card flips over and pops.
+5. **Reveal (2.2–3.75 s):** the UR card: a holographic candy-striped frame, a rainbow candy star, a `UR`
+   badge and five candy rarity stars. **UR** drops in above it with a bounce, candy beams of light turn
+   behind it, candy confetti rains, and a shine sweeps across the card twice.
+6. **Out (3.75–4.4 s):** it shrinks away into a sparkle.
+
+- `effects/ui/gacha-ur.js`: copy to `src/fx/ui/` in a pixelfx checkout (it uses that folder's `_lib.js`).
+- `renders/gacha-ur/`: sprite sheet (133 frames) + JSON, contact sheet, GIF. Pivot `[104, 118]` (just below the card's centre).
+
+Options: `palette` (the rainbow, default `candy`; try `neon` or your own 7 colours), `text` (default `UR`), `seed`.

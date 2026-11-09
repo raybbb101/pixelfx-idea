@@ -1,0 +1,2679 @@
+{
+ "frames": [
+  {
+   "filename": "halo-water 0",
+   "frame": {
+    "x": 0,
+    "y": 0,
+    "w": 128,
+    "h": 124
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 128,
+    "h": 124
+   },
+   "sourceSize": {
+    "w": 128,
+    "h": 124
+   },
+   "duration": 33
+  },
+  {
+   "filename": "halo-water 1",
+   "frame": {
+    "x": 128,
+    "y": 0,
+    "w": 128,
+    "h": 124
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 128,
+    "h": 124
+   },
+   "sourceSize": {
+    "w": 128,
+    "h": 124
+   },
+   "duration": 33
+  },
+  {
+   "filename": "halo-water 2",
+   "frame": {
+    "x": 256,
+    "y": 0,
+    "w": 128,
+    "h": 124
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 128,
+    "h": 124
+   },
+   "sourceSize": {
+    "w": 128,
+    "h": 124
+   },
+   "duration": 33
+  },
+  {
+   "filename": "halo-water 3",
+   "frame": {
+    "x": 384,
+    "y": 0,
+    "w": 128,
+    "h": 124
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 128,
+    "h": 124
+   },
+   "sourceSize": {
+    "w": 128,
+    "h": 124
+   },
+   "duration": 33
+  },
+  {
+   "filename": "halo-water 4",
+   "frame": {
+    "x": 512,
+    "y": 0,
+    "w": 128,
+    "h": 124
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 128,
+    "h": 124
+   },
+   "sourceSize": {
+    "w": 128,
+    "h": 124
+   },
+   "duration": 33
+  },
+  {
+   "filename": "halo-water 5",
+   "frame": {
+    "x": 640,
+    "y": 0,
+    "w": 128,
+    "h": 124
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 128,
+    "h": 124
+   },
+   "sourceSize": {
+    "w": 128,
+    "h": 124
+   },
+   "duration": 33
+  },
+  {
+   "filename": "halo-water 6",
+   "frame": {
+    "x": 768,
+    "y": 0,
+    "w": 128,
+    "h": 124
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 128,
+    "h": 124
+   },
+   "sourceSize": {
+    "w": 128,
+    "h": 124
+   },
+   "duration": 33
+  },
+  {
+   "filename": "halo-water 7",
+   "frame": {
+    "x": 896,
+    "y": 0,
+    "w": 128,
+    "h": 124
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 128,
+    "h": 124
+   },
+   "sourceSize": {
+    "w": 128,
+    "h": 124
+   },
+   "duration": 33
+  },
+  {
+   "filename": "halo-water 8",
+   "frame": {
+    "x": 1024,
+    "y": 0,
+    "w": 128,
+    "h": 124
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 128,
+    "h": 124
+   },
+   "sourceSize": {
+    "w": 128,
+    "h": 124
+   },
+   "duration": 33
+  },
+  {
+   "filename": "halo-water 9",
+   "frame": {
+    "x": 1152,
+    "y": 0,
+    "w": 128,
+    "h": 124
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 128,
+    "h": 124
+   },
+   "sourceSize": {
+    "w": 128,
+    "h": 124
+   },
+   "duration": 33
+  },
+  {
+   "filename": "halo-water 10",
+   "frame": {
+    "x": 1280,
+    "y": 0,
+    "w": 128,
+    "h": 124
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 128,
+    "h": 124
+   },
+   "sourceSize": {
+    "w": 128,
+    "h": 124
+   },
+   "duration": 33
+  },
+  {
+   "filename": "halo-water 11",
+   "frame": {
+    "x": 0,
+    "y": 124,
+    "w": 128,
+    "h": 124
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 128,
+    "h": 124
+   },
+   "sourceSize": {
+    "w": 128,
+    "h": 124
+   },
+   "duration": 33
+  },
+  {
+   "filename": "halo-water 12",
+   "frame": {
+    "x": 128,
+    "y": 124,
+    "w": 128,
+    "h": 124
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 128,
+    "h": 124
+   },
+   "sourceSize": {
+    "w": 128,
+    "h": 124
+   },
+   "duration": 33
+  },
+  {
+   "filename": "halo-water 13",
+   "frame": {
+    "x": 256,
+    "y": 124,
+    "w": 128,
+    "h": 124
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 128,
+    "h": 124
+   },
+   "sourceSize": {
+    "w": 128,
+    "h": 124
+   },
+   "duration": 33
+  },
+  {
+   "filename": "halo-water 14",
+   "frame": {
+    "x": 384,
+    "y": 124,
+    "w": 128,
+    "h": 124
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 128,
+    "h": 124
+   },
+   "sourceSize": {
+    "w": 128,
+    "h": 124
+   },
+   "duration": 33
+  },
+  {
+   "filename": "halo-water 15",
+   "frame": {
+    "x": 512,
+    "y": 124,
+    "w": 128,
+    "h": 124
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 128,
+    "h": 124
+   },
+   "sourceSize": {
+    "w": 128,
+    "h": 124
+   },
+   "duration": 33
+  },
+  {
+   "filename": "halo-water 16",
+   "frame": {
+    "x": 640,
+    "y": 124,
+    "w": 128,
+    "h": 124
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 128,
+    "h": 124
+   },
+   "sourceSize": {
+    "w": 128,
+    "h": 124
+   },
+   "duration": 33
+  },
+  {
+   "filename": "halo-water 17",
+   "frame": {
+    "x": 768,
+    "y": 124,
+    "w": 128,
+    "h": 124
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 128,
+    "h": 124
+   },
+   "sourceSize": {
+    "w": 128,
+    "h": 124
+   },
+   "duration": 33
+  },
+  {
+   "filename": "halo-water 18",
+   "frame": {
+    "x": 896,
+    "y": 124,
+    "w": 128,
+    "h": 124
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 128,
+    "h": 124
+   },
+   "sourceSize": {
+    "w": 128,
+    "h": 124
+   },
+   "duration": 33
+  },
+  {
+   "filename": "halo-water 19",
+   "frame": {
+    "x": 1024,
+    "y": 124,
+    "w": 128,
+    "h": 124
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 128,
+    "h": 124
+   },
+   "sourceSize": {
+    "w": 128,
+    "h": 124
+   },
+   "duration": 33
+  },
+  {
+   "filename": "halo-water 20",
+   "frame": {
+    "x": 1152,
+    "y": 124,
+    "w": 128,
+    "h": 124
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 128,
+    "h": 124
+   },
+   "sourceSize": {
+    "w": 128,
+    "h": 124
+   },
+   "duration": 33
+  },
+  {
+   "filename": "halo-water 21",
+   "frame": {
+    "x": 1280,
+    "y": 124,
+    "w": 128,
+    "h": 124
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 128,
+    "h": 124
+   },
+   "sourceSize": {
+    "w": 128,
+    "h": 124
+   },
+   "duration": 33
+  },
+  {
+   "filename": "halo-water 22",
+   "frame": {
+    "x": 0,
+    "y": 248,
+    "w": 128,
+    "h": 124
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 128,
+    "h": 124
+   },
+   "sourceSize": {
+    "w": 128,
+    "h": 124
+   },
+   "duration": 33
+  },
+  {
+   "filename": "halo-water 23",
+   "frame": {
+    "x": 128,
+    "y": 248,
+    "w": 128,
+    "h": 124
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 128,
+    "h": 124
+   },
+   "sourceSize": {
+    "w": 128,
+    "h": 124
+   },
+   "duration": 33
+  },
+  {
+   "filename": "halo-water 24",
+   "frame": {
+    "x": 256,
+    "y": 248,
+    "w": 128,
+    "h": 124
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 128,
+    "h": 124
+   },
+   "sourceSize": {
+    "w": 128,
+    "h": 124
+   },
+   "duration": 33
+  },
+  {
+   "filename": "halo-water 25",
+   "frame": {
+    "x": 384,
+    "y": 248,
+    "w": 128,
+    "h": 124
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 128,
+    "h": 124
+   },
+   "sourceSize": {
+    "w": 128,
+    "h": 124
+   },
+   "duration": 33
+  },
+  {
+   "filename": "halo-water 26",
+   "frame": {
+    "x": 512,
+    "y": 248,
+    "w": 128,
+    "h": 124
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 128,
+    "h": 124
+   },
+   "sourceSize": {
+    "w": 128,
+    "h": 124
+   },
+   "duration": 33
+  },
+  {
+   "filename": "halo-water 27",
+   "frame": {
+    "x": 640,
+    "y": 248,
+    "w": 128,
+    "h": 124
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 128,
+    "h": 124
+   },
+   "sourceSize": {
+    "w": 128,
+    "h": 124
+   },
+   "duration": 33
+  },
+  {
+   "filename": "halo-water 28",
+   "frame": {
+    "x": 768,
+    "y": 248,
+    "w": 128,
+    "h": 124
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 128,
+    "h": 124
+   },
+   "sourceSize": {
+    "w": 128,
+    "h": 124
+   },
+   "duration": 33
+  },
+  {
+   "filename": "halo-water 29",
+   "frame": {
+    "x": 896,
+    "y": 248,
+    "w": 128,
+    "h": 124
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 128,
+    "h": 124
+   },
+   "sourceSize": {
+    "w": 128,
+    "h": 124
+   },
+   "duration": 33
+  },
+  {
+   "filename": "halo-water 30",
+   "frame": {
+    "x": 1024,
+    "y": 248,
+    "w": 128,
+    "h": 124
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 128,
+    "h": 124
+   },
+   "sourceSize": {
+    "w": 128,
+    "h": 124
+   },
+   "duration": 33
+  },
+  {
+   "filename": "halo-water 31",
+   "frame": {
+    "x": 1152,
+    "y": 248,
+    "w": 128,
+    "h": 124
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 128,
+    "h": 124
+   },
+   "sourceSize": {
+    "w": 128,
+    "h": 124
+   },
+   "duration": 33
+  },
+  {
+   "filename": "halo-water 32",
+   "frame": {
+    "x": 1280,
+    "y": 248,
+    "w": 128,
+    "h": 124
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 128,
+    "h": 124
+   },
+   "sourceSize": {
+    "w": 128,
+    "h": 124
+   },
+   "duration": 33
+  },
+  {
+   "filename": "halo-water 33",
+   "frame": {
+    "x": 0,
+    "y": 372,
+    "w": 128,
+    "h": 124
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 128,
+    "h": 124
+   },
+   "sourceSize": {
+    "w": 128,
+    "h": 124
+   },
+   "duration": 33
+  },
+  {
+   "filename": "halo-water 34",
+   "frame": {
+    "x": 128,
+    "y": 372,
+    "w": 128,
+    "h": 124
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 128,
+    "h": 124
+   },
+   "sourceSize": {
+    "w": 128,
+    "h": 124
+   },
+   "duration": 33
+  },
+  {
+   "filename": "halo-water 35",
+   "frame": {
+    "x": 256,
+    "y": 372,
+    "w": 128,
+    "h": 124
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 128,
+    "h": 124
+   },
+   "sourceSize": {
+    "w": 128,
+    "h": 124
+   },
+   "duration": 33
+  },
+  {
+   "filename": "halo-water 36",
+   "frame": {
+    "x": 384,
+    "y": 372,
+    "w": 128,
+    "h": 124
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 128,
+    "h": 124
+   },
+   "sourceSize": {
+    "w": 128,
+    "h": 124
+   },
+   "duration": 33
+  },
+  {
+   "filename": "halo-water 37",
+   "frame": {
+    "x": 512,
+    "y": 372,
+    "w": 128,
+    "h": 124
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 128,
+    "h": 124
+   },
+   "sourceSize": {
+    "w": 128,
+    "h": 124
+   },
+   "duration": 33
+  },
+  {
+   "filename": "halo-water 38",
+   "frame": {
+    "x": 640,
+    "y": 372,
+    "w": 128,
+    "h": 124
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 128,
+    "h": 124
+   },
+   "sourceSize": {
+    "w": 128,
+    "h": 124
+   },
+   "duration": 33
+  },
+  {
+   "filename": "halo-water 39",
+   "frame": {
+    "x": 768,
+    "y": 372,
+    "w": 128,
+    "h": 124
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 128,
+    "h": 124
+   },
+   "sourceSize": {
+    "w": 128,
+    "h": 124
+   },
+   "duration": 33
+  },
+  {
+   "filename": "halo-water 40",
+   "frame": {
+    "x": 896,
+    "y": 372,
+    "w": 128,
+    "h": 124
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 128,
+    "h": 124
+   },
+   "sourceSize": {
+    "w": 128,
+    "h": 124
+   },
+   "duration": 33
+  },
+  {
+   "filename": "halo-water 41",
+   "frame": {
+    "x": 1024,
+    "y": 372,
+    "w": 128,
+    "h": 124
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 128,
+    "h": 124
+   },
+   "sourceSize": {
+    "w": 128,
+    "h": 124
+   },
+   "duration": 33
+  },
+  {
+   "filename": "halo-water 42",
+   "frame": {
+    "x": 1152,
+    "y": 372,
+    "w": 128,
+    "h": 124
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 128,
+    "h": 124
+   },
+   "sourceSize": {
+    "w": 128,
+    "h": 124
+   },
+   "duration": 33
+  },
+  {
+   "filename": "halo-water 43",
+   "frame": {
+    "x": 1280,
+    "y": 372,
+    "w": 128,
+    "h": 124
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 128,
+    "h": 124
+   },
+   "sourceSize": {
+    "w": 128,
+    "h": 124
+   },
+   "duration": 33
+  },
+  {
+   "filename": "halo-water 44",
+   "frame": {
+    "x": 0,
+    "y": 496,
+    "w": 128,
+    "h": 124
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 128,
+    "h": 124
+   },
+   "sourceSize": {
+    "w": 128,
+    "h": 124
+   },
+   "duration": 33
+  },
+  {
+   "filename": "halo-water 45",
+   "frame": {
+    "x": 128,
+    "y": 496,
+    "w": 128,
+    "h": 124
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 128,
+    "h": 124
+   },
+   "sourceSize": {
+    "w": 128,
+    "h": 124
+   },
+   "duration": 33
+  },
+  {
+   "filename": "halo-water 46",
+   "frame": {
+    "x": 256,
+    "y": 496,
+    "w": 128,
+    "h": 124
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 128,
+    "h": 124
+   },
+   "sourceSize": {
+    "w": 128,
+    "h": 124
+   },
+   "duration": 33
+  },
+  {
+   "filename": "halo-water 47",
+   "frame": {
+    "x": 384,
+    "y": 496,
+    "w": 128,
+    "h": 124
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 128,
+    "h": 124
+   },
+   "sourceSize": {
+    "w": 128,
+    "h": 124
+   },
+   "duration": 33
+  },
+  {
+   "filename": "halo-water 48",
+   "frame": {
+    "x": 512,
+    "y": 496,
+    "w": 128,
+    "h": 124
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 128,
+    "h": 124
+   },
+   "sourceSize": {
+    "w": 128,
+    "h": 124
+   },
+   "duration": 33
+  },
+  {
+   "filename": "halo-water 49",
+   "frame": {
+    "x": 640,
+    "y": 496,
+    "w": 128,
+    "h": 124
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 128,
+    "h": 124
+   },
+   "sourceSize": {
+    "w": 128,
+    "h": 124
+   },
+   "duration": 33
+  },
+  {
+   "filename": "halo-water 50",
+   "frame": {
+    "x": 768,
+    "y": 496,
+    "w": 128,
+    "h": 124
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 128,
+    "h": 124
+   },
+   "sourceSize": {
+    "w": 128,
+    "h": 124
+   },
+   "duration": 33
+  },
+  {
+   "filename": "halo-water 51",
+   "frame": {
+    "x": 896,
+    "y": 496,
+    "w": 128,
+    "h": 124
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 128,
+    "h": 124
+   },
+   "sourceSize": {
+    "w": 128,
+    "h": 124
+   },
+   "duration": 33
+  },
+  {
+   "filename": "halo-water 52",
+   "frame": {
+    "x": 1024,
+    "y": 496,
+    "w": 128,
+    "h": 124
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 128,
+    "h": 124
+   },
+   "sourceSize": {
+    "w": 128,
+    "h": 124
+   },
+   "duration": 33
+  },
+  {
+   "filename": "halo-water 53",
+   "frame": {
+    "x": 1152,
+    "y": 496,
+    "w": 128,
+    "h": 124
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 128,
+    "h": 124
+   },
+   "sourceSize": {
+    "w": 128,
+    "h": 124
+   },
+   "duration": 33
+  },
+  {
+   "filename": "halo-water 54",
+   "frame": {
+    "x": 1280,
+    "y": 496,
+    "w": 128,
+    "h": 124
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 128,
+    "h": 124
+   },
+   "sourceSize": {
+    "w": 128,
+    "h": 124
+   },
+   "duration": 33
+  },
+  {
+   "filename": "halo-water 55",
+   "frame": {
+    "x": 0,
+    "y": 620,
+    "w": 128,
+    "h": 124
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 128,
+    "h": 124
+   },
+   "sourceSize": {
+    "w": 128,
+    "h": 124
+   },
+   "duration": 33
+  },
+  {
+   "filename": "halo-water 56",
+   "frame": {
+    "x": 128,
+    "y": 620,
+    "w": 128,
+    "h": 124
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 128,
+    "h": 124
+   },
+   "sourceSize": {
+    "w": 128,
+    "h": 124
+   },
+   "duration": 33
+  },
+  {
+   "filename": "halo-water 57",
+   "frame": {
+    "x": 256,
+    "y": 620,
+    "w": 128,
+    "h": 124
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 128,
+    "h": 124
+   },
+   "sourceSize": {
+    "w": 128,
+    "h": 124
+   },
+   "duration": 33
+  },
+  {
+   "filename": "halo-water 58",
+   "frame": {
+    "x": 384,
+    "y": 620,
+    "w": 128,
+    "h": 124
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 128,
+    "h": 124
+   },
+   "sourceSize": {
+    "w": 128,
+    "h": 124
+   },
+   "duration": 33
+  },
+  {
+   "filename": "halo-water 59",
+   "frame": {
+    "x": 512,
+    "y": 620,
+    "w": 128,
+    "h": 124
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 128,
+    "h": 124
+   },
+   "sourceSize": {
+    "w": 128,
+    "h": 124
+   },
+   "duration": 33
+  },
+  {
+   "filename": "halo-water 60",
+   "frame": {
+    "x": 640,
+    "y": 620,
+    "w": 128,
+    "h": 124
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 128,
+    "h": 124
+   },
+   "sourceSize": {
+    "w": 128,
+    "h": 124
+   },
+   "duration": 33
+  },
+  {
+   "filename": "halo-water 61",
+   "frame": {
+    "x": 768,
+    "y": 620,
+    "w": 128,
+    "h": 124
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 128,
+    "h": 124
+   },
+   "sourceSize": {
+    "w": 128,
+    "h": 124
+   },
+   "duration": 33
+  },
+  {
+   "filename": "halo-water 62",
+   "frame": {
+    "x": 896,
+    "y": 620,
+    "w": 128,
+    "h": 124
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 128,
+    "h": 124
+   },
+   "sourceSize": {
+    "w": 128,
+    "h": 124
+   },
+   "duration": 33
+  },
+  {
+   "filename": "halo-water 63",
+   "frame": {
+    "x": 1024,
+    "y": 620,
+    "w": 128,
+    "h": 124
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 128,
+    "h": 124
+   },
+   "sourceSize": {
+    "w": 128,
+    "h": 124
+   },
+   "duration": 33
+  },
+  {
+   "filename": "halo-water 64",
+   "frame": {
+    "x": 1152,
+    "y": 620,
+    "w": 128,
+    "h": 124
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 128,
+    "h": 124
+   },
+   "sourceSize": {
+    "w": 128,
+    "h": 124
+   },
+   "duration": 33
+  },
+  {
+   "filename": "halo-water 65",
+   "frame": {
+    "x": 1280,
+    "y": 620,
+    "w": 128,
+    "h": 124
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 128,
+    "h": 124
+   },
+   "sourceSize": {
+    "w": 128,
+    "h": 124
+   },
+   "duration": 33
+  },
+  {
+   "filename": "halo-water 66",
+   "frame": {
+    "x": 0,
+    "y": 744,
+    "w": 128,
+    "h": 124
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 128,
+    "h": 124
+   },
+   "sourceSize": {
+    "w": 128,
+    "h": 124
+   },
+   "duration": 33
+  },
+  {
+   "filename": "halo-water 67",
+   "frame": {
+    "x": 128,
+    "y": 744,
+    "w": 128,
+    "h": 124
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 128,
+    "h": 124
+   },
+   "sourceSize": {
+    "w": 128,
+    "h": 124
+   },
+   "duration": 33
+  },
+  {
+   "filename": "halo-water 68",
+   "frame": {
+    "x": 256,
+    "y": 744,
+    "w": 128,
+    "h": 124
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 128,
+    "h": 124
+   },
+   "sourceSize": {
+    "w": 128,
+    "h": 124
+   },
+   "duration": 33
+  },
+  {
+   "filename": "halo-water 69",
+   "frame": {
+    "x": 384,
+    "y": 744,
+    "w": 128,
+    "h": 124
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 128,
+    "h": 124
+   },
+   "sourceSize": {
+    "w": 128,
+    "h": 124
+   },
+   "duration": 33
+  },
+  {
+   "filename": "halo-water 70",
+   "frame": {
+    "x": 512,
+    "y": 744,
+    "w": 128,
+    "h": 124
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 128,
+    "h": 124
+   },
+   "sourceSize": {
+    "w": 128,
+    "h": 124
+   },
+   "duration": 33
+  },
+  {
+   "filename": "halo-water 71",
+   "frame": {
+    "x": 640,
+    "y": 744,
+    "w": 128,
+    "h": 124
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 128,
+    "h": 124
+   },
+   "sourceSize": {
+    "w": 128,
+    "h": 124
+   },
+   "duration": 33
+  },
+  {
+   "filename": "halo-water 72",
+   "frame": {
+    "x": 768,
+    "y": 744,
+    "w": 128,
+    "h": 124
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 128,
+    "h": 124
+   },
+   "sourceSize": {
+    "w": 128,
+    "h": 124
+   },
+   "duration": 33
+  },
+  {
+   "filename": "halo-water 73",
+   "frame": {
+    "x": 896,
+    "y": 744,
+    "w": 128,
+    "h": 124
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 128,
+    "h": 124
+   },
+   "sourceSize": {
+    "w": 128,
+    "h": 124
+   },
+   "duration": 33
+  },
+  {
+   "filename": "halo-water 74",
+   "frame": {
+    "x": 1024,
+    "y": 744,
+    "w": 128,
+    "h": 124
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 128,
+    "h": 124
+   },
+   "sourceSize": {
+    "w": 128,
+    "h": 124
+   },
+   "duration": 33
+  },
+  {
+   "filename": "halo-water 75",
+   "frame": {
+    "x": 1152,
+    "y": 744,
+    "w": 128,
+    "h": 124
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 128,
+    "h": 124
+   },
+   "sourceSize": {
+    "w": 128,
+    "h": 124
+   },
+   "duration": 33
+  },
+  {
+   "filename": "halo-water 76",
+   "frame": {
+    "x": 1280,
+    "y": 744,
+    "w": 128,
+    "h": 124
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 128,
+    "h": 124
+   },
+   "sourceSize": {
+    "w": 128,
+    "h": 124
+   },
+   "duration": 33
+  },
+  {
+   "filename": "halo-water 77",
+   "frame": {
+    "x": 0,
+    "y": 868,
+    "w": 128,
+    "h": 124
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 128,
+    "h": 124
+   },
+   "sourceSize": {
+    "w": 128,
+    "h": 124
+   },
+   "duration": 33
+  },
+  {
+   "filename": "halo-water 78",
+   "frame": {
+    "x": 128,
+    "y": 868,
+    "w": 128,
+    "h": 124
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 128,
+    "h": 124
+   },
+   "sourceSize": {
+    "w": 128,
+    "h": 124
+   },
+   "duration": 33
+  },
+  {
+   "filename": "halo-water 79",
+   "frame": {
+    "x": 256,
+    "y": 868,
+    "w": 128,
+    "h": 124
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 128,
+    "h": 124
+   },
+   "sourceSize": {
+    "w": 128,
+    "h": 124
+   },
+   "duration": 33
+  },
+  {
+   "filename": "halo-water 80",
+   "frame": {
+    "x": 384,
+    "y": 868,
+    "w": 128,
+    "h": 124
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 128,
+    "h": 124
+   },
+   "sourceSize": {
+    "w": 128,
+    "h": 124
+   },
+   "duration": 33
+  },
+  {
+   "filename": "halo-water 81",
+   "frame": {
+    "x": 512,
+    "y": 868,
+    "w": 128,
+    "h": 124
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 128,
+    "h": 124
+   },
+   "sourceSize": {
+    "w": 128,
+    "h": 124
+   },
+   "duration": 33
+  },
+  {
+   "filename": "halo-water 82",
+   "frame": {
+    "x": 640,
+    "y": 868,
+    "w": 128,
+    "h": 124
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 128,
+    "h": 124
+   },
+   "sourceSize": {
+    "w": 128,
+    "h": 124
+   },
+   "duration": 33
+  },
+  {
+   "filename": "halo-water 83",
+   "frame": {
+    "x": 768,
+    "y": 868,
+    "w": 128,
+    "h": 124
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 128,
+    "h": 124
+   },
+   "sourceSize": {
+    "w": 128,
+    "h": 124
+   },
+   "duration": 33
+  },
+  {
+   "filename": "halo-water 84",
+   "frame": {
+    "x": 896,
+    "y": 868,
+    "w": 128,
+    "h": 124
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 128,
+    "h": 124
+   },
+   "sourceSize": {
+    "w": 128,
+    "h": 124
+   },
+   "duration": 33
+  },
+  {
+   "filename": "halo-water 85",
+   "frame": {
+    "x": 1024,
+    "y": 868,
+    "w": 128,
+    "h": 124
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 128,
+    "h": 124
+   },
+   "sourceSize": {
+    "w": 128,
+    "h": 124
+   },
+   "duration": 33
+  },
+  {
+   "filename": "halo-water 86",
+   "frame": {
+    "x": 1152,
+    "y": 868,
+    "w": 128,
+    "h": 124
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 128,
+    "h": 124
+   },
+   "sourceSize": {
+    "w": 128,
+    "h": 124
+   },
+   "duration": 33
+  },
+  {
+   "filename": "halo-water 87",
+   "frame": {
+    "x": 1280,
+    "y": 868,
+    "w": 128,
+    "h": 124
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 128,
+    "h": 124
+   },
+   "sourceSize": {
+    "w": 128,
+    "h": 124
+   },
+   "duration": 33
+  },
+  {
+   "filename": "halo-water 88",
+   "frame": {
+    "x": 0,
+    "y": 992,
+    "w": 128,
+    "h": 124
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 128,
+    "h": 124
+   },
+   "sourceSize": {
+    "w": 128,
+    "h": 124
+   },
+   "duration": 33
+  },
+  {
+   "filename": "halo-water 89",
+   "frame": {
+    "x": 128,
+    "y": 992,
+    "w": 128,
+    "h": 124
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 128,
+    "h": 124
+   },
+   "sourceSize": {
+    "w": 128,
+    "h": 124
+   },
+   "duration": 33
+  },
+  {
+   "filename": "halo-water 90",
+   "frame": {
+    "x": 256,
+    "y": 992,
+    "w": 128,
+    "h": 124
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 128,
+    "h": 124
+   },
+   "sourceSize": {
+    "w": 128,
+    "h": 124
+   },
+   "duration": 33
+  },
+  {
+   "filename": "halo-water 91",
+   "frame": {
+    "x": 384,
+    "y": 992,
+    "w": 128,
+    "h": 124
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 128,
+    "h": 124
+   },
+   "sourceSize": {
+    "w": 128,
+    "h": 124
+   },
+   "duration": 33
+  },
+  {
+   "filename": "halo-water 92",
+   "frame": {
+    "x": 512,
+    "y": 992,
+    "w": 128,
+    "h": 124
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 128,
+    "h": 124
+   },
+   "sourceSize": {
+    "w": 128,
+    "h": 124
+   },
+   "duration": 33
+  },
+  {
+   "filename": "halo-water 93",
+   "frame": {
+    "x": 640,
+    "y": 992,
+    "w": 128,
+    "h": 124
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 128,
+    "h": 124
+   },
+   "sourceSize": {
+    "w": 128,
+    "h": 124
+   },
+   "duration": 33
+  },
+  {
+   "filename": "halo-water 94",
+   "frame": {
+    "x": 768,
+    "y": 992,
+    "w": 128,
+    "h": 124
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 128,
+    "h": 124
+   },
+   "sourceSize": {
+    "w": 128,
+    "h": 124
+   },
+   "duration": 33
+  },
+  {
+   "filename": "halo-water 95",
+   "frame": {
+    "x": 896,
+    "y": 992,
+    "w": 128,
+    "h": 124
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 128,
+    "h": 124
+   },
+   "sourceSize": {
+    "w": 128,
+    "h": 124
+   },
+   "duration": 33
+  },
+  {
+   "filename": "halo-water 96",
+   "frame": {
+    "x": 1024,
+    "y": 992,
+    "w": 128,
+    "h": 124
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 128,
+    "h": 124
+   },
+   "sourceSize": {
+    "w": 128,
+    "h": 124
+   },
+   "duration": 33
+  },
+  {
+   "filename": "halo-water 97",
+   "frame": {
+    "x": 1152,
+    "y": 992,
+    "w": 128,
+    "h": 124
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 128,
+    "h": 124
+   },
+   "sourceSize": {
+    "w": 128,
+    "h": 124
+   },
+   "duration": 33
+  },
+  {
+   "filename": "halo-water 98",
+   "frame": {
+    "x": 1280,
+    "y": 992,
+    "w": 128,
+    "h": 124
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 128,
+    "h": 124
+   },
+   "sourceSize": {
+    "w": 128,
+    "h": 124
+   },
+   "duration": 33
+  },
+  {
+   "filename": "halo-water 99",
+   "frame": {
+    "x": 0,
+    "y": 1116,
+    "w": 128,
+    "h": 124
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 128,
+    "h": 124
+   },
+   "sourceSize": {
+    "w": 128,
+    "h": 124
+   },
+   "duration": 33
+  },
+  {
+   "filename": "halo-water 100",
+   "frame": {
+    "x": 128,
+    "y": 1116,
+    "w": 128,
+    "h": 124
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 128,
+    "h": 124
+   },
+   "sourceSize": {
+    "w": 128,
+    "h": 124
+   },
+   "duration": 33
+  },
+  {
+   "filename": "halo-water 101",
+   "frame": {
+    "x": 256,
+    "y": 1116,
+    "w": 128,
+    "h": 124
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 128,
+    "h": 124
+   },
+   "sourceSize": {
+    "w": 128,
+    "h": 124
+   },
+   "duration": 33
+  },
+  {
+   "filename": "halo-water 102",
+   "frame": {
+    "x": 384,
+    "y": 1116,
+    "w": 128,
+    "h": 124
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 128,
+    "h": 124
+   },
+   "sourceSize": {
+    "w": 128,
+    "h": 124
+   },
+   "duration": 33
+  },
+  {
+   "filename": "halo-water 103",
+   "frame": {
+    "x": 512,
+    "y": 1116,
+    "w": 128,
+    "h": 124
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 128,
+    "h": 124
+   },
+   "sourceSize": {
+    "w": 128,
+    "h": 124
+   },
+   "duration": 33
+  },
+  {
+   "filename": "halo-water 104",
+   "frame": {
+    "x": 640,
+    "y": 1116,
+    "w": 128,
+    "h": 124
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 128,
+    "h": 124
+   },
+   "sourceSize": {
+    "w": 128,
+    "h": 124
+   },
+   "duration": 33
+  },
+  {
+   "filename": "halo-water 105",
+   "frame": {
+    "x": 768,
+    "y": 1116,
+    "w": 128,
+    "h": 124
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 128,
+    "h": 124
+   },
+   "sourceSize": {
+    "w": 128,
+    "h": 124
+   },
+   "duration": 33
+  },
+  {
+   "filename": "halo-water 106",
+   "frame": {
+    "x": 896,
+    "y": 1116,
+    "w": 128,
+    "h": 124
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 128,
+    "h": 124
+   },
+   "sourceSize": {
+    "w": 128,
+    "h": 124
+   },
+   "duration": 33
+  },
+  {
+   "filename": "halo-water 107",
+   "frame": {
+    "x": 1024,
+    "y": 1116,
+    "w": 128,
+    "h": 124
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 128,
+    "h": 124
+   },
+   "sourceSize": {
+    "w": 128,
+    "h": 124
+   },
+   "duration": 33
+  },
+  {
+   "filename": "halo-water 108",
+   "frame": {
+    "x": 1152,
+    "y": 1116,
+    "w": 128,
+    "h": 124
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 128,
+    "h": 124
+   },
+   "sourceSize": {
+    "w": 128,
+    "h": 124
+   },
+   "duration": 33
+  },
+  {
+   "filename": "halo-water 109",
+   "frame": {
+    "x": 1280,
+    "y": 1116,
+    "w": 128,
+    "h": 124
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 128,
+    "h": 124
+   },
+   "sourceSize": {
+    "w": 128,
+    "h": 124
+   },
+   "duration": 33
+  },
+  {
+   "filename": "halo-water 110",
+   "frame": {
+    "x": 0,
+    "y": 1240,
+    "w": 128,
+    "h": 124
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 128,
+    "h": 124
+   },
+   "sourceSize": {
+    "w": 128,
+    "h": 124
+   },
+   "duration": 33
+  },
+  {
+   "filename": "halo-water 111",
+   "frame": {
+    "x": 128,
+    "y": 1240,
+    "w": 128,
+    "h": 124
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 128,
+    "h": 124
+   },
+   "sourceSize": {
+    "w": 128,
+    "h": 124
+   },
+   "duration": 33
+  },
+  {
+   "filename": "halo-water 112",
+   "frame": {
+    "x": 256,
+    "y": 1240,
+    "w": 128,
+    "h": 124
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 128,
+    "h": 124
+   },
+   "sourceSize": {
+    "w": 128,
+    "h": 124
+   },
+   "duration": 33
+  },
+  {
+   "filename": "halo-water 113",
+   "frame": {
+    "x": 384,
+    "y": 1240,
+    "w": 128,
+    "h": 124
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 128,
+    "h": 124
+   },
+   "sourceSize": {
+    "w": 128,
+    "h": 124
+   },
+   "duration": 33
+  },
+  {
+   "filename": "halo-water 114",
+   "frame": {
+    "x": 512,
+    "y": 1240,
+    "w": 128,
+    "h": 124
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 128,
+    "h": 124
+   },
+   "sourceSize": {
+    "w": 128,
+    "h": 124
+   },
+   "duration": 33
+  },
+  {
+   "filename": "halo-water 115",
+   "frame": {
+    "x": 640,
+    "y": 1240,
+    "w": 128,
+    "h": 124
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 128,
+    "h": 124
+   },
+   "sourceSize": {
+    "w": 128,
+    "h": 124
+   },
+   "duration": 33
+  },
+  {
+   "filename": "halo-water 116",
+   "frame": {
+    "x": 768,
+    "y": 1240,
+    "w": 128,
+    "h": 124
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 128,
+    "h": 124
+   },
+   "sourceSize": {
+    "w": 128,
+    "h": 124
+   },
+   "duration": 33
+  },
+  {
+   "filename": "halo-water 117",
+   "frame": {
+    "x": 896,
+    "y": 1240,
+    "w": 128,
+    "h": 124
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 128,
+    "h": 124
+   },
+   "sourceSize": {
+    "w": 128,
+    "h": 124
+   },
+   "duration": 33
+  },
+  {
+   "filename": "halo-water 118",
+   "frame": {
+    "x": 1024,
+    "y": 1240,
+    "w": 128,
+    "h": 124
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 128,
+    "h": 124
+   },
+   "sourceSize": {
+    "w": 128,
+    "h": 124
+   },
+   "duration": 33
+  },
+  {
+   "filename": "halo-water 119",
+   "frame": {
+    "x": 1152,
+    "y": 1240,
+    "w": 128,
+    "h": 124
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 128,
+    "h": 124
+   },
+   "sourceSize": {
+    "w": 128,
+    "h": 124
+   },
+   "duration": 33
+  }
+ ],
+ "meta": {
+  "app": "https://github.com/patch-gg/pixelfx",
+  "version": "1",
+  "image": "halo-water.png",
+  "format": "RGBA8888",
+  "size": {
+   "w": 1408,
+   "h": 1364
+  },
+  "scale": "1",
+  "frameTags": [
+   {
+    "name": "halo-water",
+    "from": 0,
+    "to": 119,
+    "direction": "forward"
+   }
+  ],
+  "pixelfx": {
+   "id": "arcane/halo-water",
+   "name": "Halo: water",
+   "fps": 30,
+   "loop": true,
+   "frames": 120,
+   "frameSize": [
+    128,
+    124
+   ],
+   "pivot": [
+    64,
+    106
+   ],
+   "columns": 11
+  }
+ }
+}

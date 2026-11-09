@@ -1,0 +1,2679 @@
+{
+ "frames": [
+  {
+   "filename": "halo-moon 0",
+   "frame": {
+    "x": 0,
+    "y": 0,
+    "w": 128,
+    "h": 124
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 128,
+    "h": 124
+   },
+   "sourceSize": {
+    "w": 128,
+    "h": 124
+   },
+   "duration": 33
+  },
+  {
+   "filename": "halo-moon 1",
+   "frame": {
+    "x": 128,
+    "y": 0,
+    "w": 128,
+    "h": 124
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 128,
+    "h": 124
+   },
+   "sourceSize": {
+    "w": 128,
+    "h": 124
+   },
+   "duration": 33
+  },
+  {
+   "filename": "halo-moon 2",
+   "frame": {
+    "x": 256,
+    "y": 0,
+    "w": 128,
+    "h": 124
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 128,
+    "h": 124
+   },
+   "sourceSize": {
+    "w": 128,
+    "h": 124
+   },
+   "duration": 33
+  },
+  {
+   "filename": "halo-moon 3",
+   "frame": {
+    "x": 384,
+    "y": 0,
+    "w": 128,
+    "h": 124
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 128,
+    "h": 124
+   },
+   "sourceSize": {
+    "w": 128,
+    "h": 124
+   },
+   "duration": 33
+  },
+  {
+   "filename": "halo-moon 4",
+   "frame": {
+    "x": 512,
+    "y": 0,
+    "w": 128,
+    "h": 124
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 128,
+    "h": 124
+   },
+   "sourceSize": {
+    "w": 128,
+    "h": 124
+   },
+   "duration": 33
+  },
+  {
+   "filename": "halo-moon 5",
+   "frame": {
+    "x": 640,
+    "y": 0,
+    "w": 128,
+    "h": 124
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 128,
+    "h": 124
+   },
+   "sourceSize": {
+    "w": 128,
+    "h": 124
+   },
+   "duration": 33
+  },
+  {
+   "filename": "halo-moon 6",
+   "frame": {
+    "x": 768,
+    "y": 0,
+    "w": 128,
+    "h": 124
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 128,
+    "h": 124
+   },
+   "sourceSize": {
+    "w": 128,
+    "h": 124
+   },
+   "duration": 33
+  },
+  {
+   "filename": "halo-moon 7",
+   "frame": {
+    "x": 896,
+    "y": 0,
+    "w": 128,
+    "h": 124
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 128,
+    "h": 124
+   },
+   "sourceSize": {
+    "w": 128,
+    "h": 124
+   },
+   "duration": 33
+  },
+  {
+   "filename": "halo-moon 8",
+   "frame": {
+    "x": 1024,
+    "y": 0,
+    "w": 128,
+    "h": 124
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 128,
+    "h": 124
+   },
+   "sourceSize": {
+    "w": 128,
+    "h": 124
+   },
+   "duration": 33
+  },
+  {
+   "filename": "halo-moon 9",
+   "frame": {
+    "x": 1152,
+    "y": 0,
+    "w": 128,
+    "h": 124
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 128,
+    "h": 124
+   },
+   "sourceSize": {
+    "w": 128,
+    "h": 124
+   },
+   "duration": 33
+  },
+  {
+   "filename": "halo-moon 10",
+   "frame": {
+    "x": 1280,
+    "y": 0,
+    "w": 128,
+    "h": 124
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 128,
+    "h": 124
+   },
+   "sourceSize": {
+    "w": 128,
+    "h": 124
+   },
+   "duration": 33
+  },
+  {
+   "filename": "halo-moon 11",
+   "frame": {
+    "x": 0,
+    "y": 124,
+    "w": 128,
+    "h": 124
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 128,
+    "h": 124
+   },
+   "sourceSize": {
+    "w": 128,
+    "h": 124
+   },
+   "duration": 33
+  },
+  {
+   "filename": "halo-moon 12",
+   "frame": {
+    "x": 128,
+    "y": 124,
+    "w": 128,
+    "h": 124
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 128,
+    "h": 124
+   },
+   "sourceSize": {
+    "w": 128,
+    "h": 124
+   },
+   "duration": 33
+  },
+  {
+   "filename": "halo-moon 13",
+   "frame": {
+    "x": 256,
+    "y": 124,
+    "w": 128,
+    "h": 124
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 128,
+    "h": 124
+   },
+   "sourceSize": {
+    "w": 128,
+    "h": 124
+   },
+   "duration": 33
+  },
+  {
+   "filename": "halo-moon 14",
+   "frame": {
+    "x": 384,
+    "y": 124,
+    "w": 128,
+    "h": 124
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 128,
+    "h": 124
+   },
+   "sourceSize": {
+    "w": 128,
+    "h": 124
+   },
+   "duration": 33
+  },
+  {
+   "filename": "halo-moon 15",
+   "frame": {
+    "x": 512,
+    "y": 124,
+    "w": 128,
+    "h": 124
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 128,
+    "h": 124
+   },
+   "sourceSize": {
+    "w": 128,
+    "h": 124
+   },
+   "duration": 33
+  },
+  {
+   "filename": "halo-moon 16",
+   "frame": {
+    "x": 640,
+    "y": 124,
+    "w": 128,
+    "h": 124
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 128,
+    "h": 124
+   },
+   "sourceSize": {
+    "w": 128,
+    "h": 124
+   },
+   "duration": 33
+  },
+  {
+   "filename": "halo-moon 17",
+   "frame": {
+    "x": 768,
+    "y": 124,
+    "w": 128,
+    "h": 124
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 128,
+    "h": 124
+   },
+   "sourceSize": {
+    "w": 128,
+    "h": 124
+   },
+   "duration": 33
+  },
+  {
+   "filename": "halo-moon 18",
+   "frame": {
+    "x": 896,
+    "y": 124,
+    "w": 128,
+    "h": 124
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 128,
+    "h": 124
+   },
+   "sourceSize": {
+    "w": 128,
+    "h": 124
+   },
+   "duration": 33
+  },
+  {
+   "filename": "halo-moon 19",
+   "frame": {
+    "x": 1024,
+    "y": 124,
+    "w": 128,
+    "h": 124
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 128,
+    "h": 124
+   },
+   "sourceSize": {
+    "w": 128,
+    "h": 124
+   },
+   "duration": 33
+  },
+  {
+   "filename": "halo-moon 20",
+   "frame": {
+    "x": 1152,
+    "y": 124,
+    "w": 128,
+    "h": 124
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 128,
+    "h": 124
+   },
+   "sourceSize": {
+    "w": 128,
+    "h": 124
+   },
+   "duration": 33
+  },
+  {
+   "filename": "halo-moon 21",
+   "frame": {
+    "x": 1280,
+    "y": 124,
+    "w": 128,
+    "h": 124
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 128,
+    "h": 124
+   },
+   "sourceSize": {
+    "w": 128,
+    "h": 124
+   },
+   "duration": 33
+  },
+  {
+   "filename": "halo-moon 22",
+   "frame": {
+    "x": 0,
+    "y": 248,
+    "w": 128,
+    "h": 124
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 128,
+    "h": 124
+   },
+   "sourceSize": {
+    "w": 128,
+    "h": 124
+   },
+   "duration": 33
+  },
+  {
+   "filename": "halo-moon 23",
+   "frame": {
+    "x": 128,
+    "y": 248,
+    "w": 128,
+    "h": 124
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 128,
+    "h": 124
+   },
+   "sourceSize": {
+    "w": 128,
+    "h": 124
+   },
+   "duration": 33
+  },
+  {
+   "filename": "halo-moon 24",
+   "frame": {
+    "x": 256,
+    "y": 248,
+    "w": 128,
+    "h": 124
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 128,
+    "h": 124
+   },
+   "sourceSize": {
+    "w": 128,
+    "h": 124
+   },
+   "duration": 33
+  },
+  {
+   "filename": "halo-moon 25",
+   "frame": {
+    "x": 384,
+    "y": 248,
+    "w": 128,
+    "h": 124
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 128,
+    "h": 124
+   },
+   "sourceSize": {
+    "w": 128,
+    "h": 124
+   },
+   "duration": 33
+  },
+  {
+   "filename": "halo-moon 26",
+   "frame": {
+    "x": 512,
+    "y": 248,
+    "w": 128,
+    "h": 124
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 128,
+    "h": 124
+   },
+   "sourceSize": {
+    "w": 128,
+    "h": 124
+   },
+   "duration": 33
+  },
+  {
+   "filename": "halo-moon 27",
+   "frame": {
+    "x": 640,
+    "y": 248,
+    "w": 128,
+    "h": 124
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 128,
+    "h": 124
+   },
+   "sourceSize": {
+    "w": 128,
+    "h": 124
+   },
+   "duration": 33
+  },
+  {
+   "filename": "halo-moon 28",
+   "frame": {
+    "x": 768,
+    "y": 248,
+    "w": 128,
+    "h": 124
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 128,
+    "h": 124
+   },
+   "sourceSize": {
+    "w": 128,
+    "h": 124
+   },
+   "duration": 33
+  },
+  {
+   "filename": "halo-moon 29",
+   "frame": {
+    "x": 896,
+    "y": 248,
+    "w": 128,
+    "h": 124
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 128,
+    "h": 124
+   },
+   "sourceSize": {
+    "w": 128,
+    "h": 124
+   },
+   "duration": 33
+  },
+  {
+   "filename": "halo-moon 30",
+   "frame": {
+    "x": 1024,
+    "y": 248,
+    "w": 128,
+    "h": 124
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 128,
+    "h": 124
+   },
+   "sourceSize": {
+    "w": 128,
+    "h": 124
+   },
+   "duration": 33
+  },
+  {
+   "filename": "halo-moon 31",
+   "frame": {
+    "x": 1152,
+    "y": 248,
+    "w": 128,
+    "h": 124
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 128,
+    "h": 124
+   },
+   "sourceSize": {
+    "w": 128,
+    "h": 124
+   },
+   "duration": 33
+  },
+  {
+   "filename": "halo-moon 32",
+   "frame": {
+    "x": 1280,
+    "y": 248,
+    "w": 128,
+    "h": 124
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 128,
+    "h": 124
+   },
+   "sourceSize": {
+    "w": 128,
+    "h": 124
+   },
+   "duration": 33
+  },
+  {
+   "filename": "halo-moon 33",
+   "frame": {
+    "x": 0,
+    "y": 372,
+    "w": 128,
+    "h": 124
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 128,
+    "h": 124
+   },
+   "sourceSize": {
+    "w": 128,
+    "h": 124
+   },
+   "duration": 33
+  },
+  {
+   "filename": "halo-moon 34",
+   "frame": {
+    "x": 128,
+    "y": 372,
+    "w": 128,
+    "h": 124
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 128,
+    "h": 124
+   },
+   "sourceSize": {
+    "w": 128,
+    "h": 124
+   },
+   "duration": 33
+  },
+  {
+   "filename": "halo-moon 35",
+   "frame": {
+    "x": 256,
+    "y": 372,
+    "w": 128,
+    "h": 124
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 128,
+    "h": 124
+   },
+   "sourceSize": {
+    "w": 128,
+    "h": 124
+   },
+   "duration": 33
+  },
+  {
+   "filename": "halo-moon 36",
+   "frame": {
+    "x": 384,
+    "y": 372,
+    "w": 128,
+    "h": 124
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 128,
+    "h": 124
+   },
+   "sourceSize": {
+    "w": 128,
+    "h": 124
+   },
+   "duration": 33
+  },
+  {
+   "filename": "halo-moon 37",
+   "frame": {
+    "x": 512,
+    "y": 372,
+    "w": 128,
+    "h": 124
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 128,
+    "h": 124
+   },
+   "sourceSize": {
+    "w": 128,
+    "h": 124
+   },
+   "duration": 33
+  },
+  {
+   "filename": "halo-moon 38",
+   "frame": {
+    "x": 640,
+    "y": 372,
+    "w": 128,
+    "h": 124
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 128,
+    "h": 124
+   },
+   "sourceSize": {
+    "w": 128,
+    "h": 124
+   },
+   "duration": 33
+  },
+  {
+   "filename": "halo-moon 39",
+   "frame": {
+    "x": 768,
+    "y": 372,
+    "w": 128,
+    "h": 124
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 128,
+    "h": 124
+   },
+   "sourceSize": {
+    "w": 128,
+    "h": 124
+   },
+   "duration": 33
+  },
+  {
+   "filename": "halo-moon 40",
+   "frame": {
+    "x": 896,
+    "y": 372,
+    "w": 128,
+    "h": 124
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 128,
+    "h": 124
+   },
+   "sourceSize": {
+    "w": 128,
+    "h": 124
+   },
+   "duration": 33
+  },
+  {
+   "filename": "halo-moon 41",
+   "frame": {
+    "x": 1024,
+    "y": 372,
+    "w": 128,
+    "h": 124
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 128,
+    "h": 124
+   },
+   "sourceSize": {
+    "w": 128,
+    "h": 124
+   },
+   "duration": 33
+  },
+  {
+   "filename": "halo-moon 42",
+   "frame": {
+    "x": 1152,
+    "y": 372,
+    "w": 128,
+    "h": 124
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 128,
+    "h": 124
+   },
+   "sourceSize": {
+    "w": 128,
+    "h": 124
+   },
+   "duration": 33
+  },
+  {
+   "filename": "halo-moon 43",
+   "frame": {
+    "x": 1280,
+    "y": 372,
+    "w": 128,
+    "h": 124
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 128,
+    "h": 124
+   },
+   "sourceSize": {
+    "w": 128,
+    "h": 124
+   },
+   "duration": 33
+  },
+  {
+   "filename": "halo-moon 44",
+   "frame": {
+    "x": 0,
+    "y": 496,
+    "w": 128,
+    "h": 124
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 128,
+    "h": 124
+   },
+   "sourceSize": {
+    "w": 128,
+    "h": 124
+   },
+   "duration": 33
+  },
+  {
+   "filename": "halo-moon 45",
+   "frame": {
+    "x": 128,
+    "y": 496,
+    "w": 128,
+    "h": 124
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 128,
+    "h": 124
+   },
+   "sourceSize": {
+    "w": 128,
+    "h": 124
+   },
+   "duration": 33
+  },
+  {
+   "filename": "halo-moon 46",
+   "frame": {
+    "x": 256,
+    "y": 496,
+    "w": 128,
+    "h": 124
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 128,
+    "h": 124
+   },
+   "sourceSize": {
+    "w": 128,
+    "h": 124
+   },
+   "duration": 33
+  },
+  {
+   "filename": "halo-moon 47",
+   "frame": {
+    "x": 384,
+    "y": 496,
+    "w": 128,
+    "h": 124
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 128,
+    "h": 124
+   },
+   "sourceSize": {
+    "w": 128,
+    "h": 124
+   },
+   "duration": 33
+  },
+  {
+   "filename": "halo-moon 48",
+   "frame": {
+    "x": 512,
+    "y": 496,
+    "w": 128,
+    "h": 124
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 128,
+    "h": 124
+   },
+   "sourceSize": {
+    "w": 128,
+    "h": 124
+   },
+   "duration": 33
+  },
+  {
+   "filename": "halo-moon 49",
+   "frame": {
+    "x": 640,
+    "y": 496,
+    "w": 128,
+    "h": 124
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 128,
+    "h": 124
+   },
+   "sourceSize": {
+    "w": 128,
+    "h": 124
+   },
+   "duration": 33
+  },
+  {
+   "filename": "halo-moon 50",
+   "frame": {
+    "x": 768,
+    "y": 496,
+    "w": 128,
+    "h": 124
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 128,
+    "h": 124
+   },
+   "sourceSize": {
+    "w": 128,
+    "h": 124
+   },
+   "duration": 33
+  },
+  {
+   "filename": "halo-moon 51",
+   "frame": {
+    "x": 896,
+    "y": 496,
+    "w": 128,
+    "h": 124
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 128,
+    "h": 124
+   },
+   "sourceSize": {
+    "w": 128,
+    "h": 124
+   },
+   "duration": 33
+  },
+  {
+   "filename": "halo-moon 52",
+   "frame": {
+    "x": 1024,
+    "y": 496,
+    "w": 128,
+    "h": 124
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 128,
+    "h": 124
+   },
+   "sourceSize": {
+    "w": 128,
+    "h": 124
+   },
+   "duration": 33
+  },
+  {
+   "filename": "halo-moon 53",
+   "frame": {
+    "x": 1152,
+    "y": 496,
+    "w": 128,
+    "h": 124
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 128,
+    "h": 124
+   },
+   "sourceSize": {
+    "w": 128,
+    "h": 124
+   },
+   "duration": 33
+  },
+  {
+   "filename": "halo-moon 54",
+   "frame": {
+    "x": 1280,
+    "y": 496,
+    "w": 128,
+    "h": 124
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 128,
+    "h": 124
+   },
+   "sourceSize": {
+    "w": 128,
+    "h": 124
+   },
+   "duration": 33
+  },
+  {
+   "filename": "halo-moon 55",
+   "frame": {
+    "x": 0,
+    "y": 620,
+    "w": 128,
+    "h": 124
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 128,
+    "h": 124
+   },
+   "sourceSize": {
+    "w": 128,
+    "h": 124
+   },
+   "duration": 33
+  },
+  {
+   "filename": "halo-moon 56",
+   "frame": {
+    "x": 128,
+    "y": 620,
+    "w": 128,
+    "h": 124
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 128,
+    "h": 124
+   },
+   "sourceSize": {
+    "w": 128,
+    "h": 124
+   },
+   "duration": 33
+  },
+  {
+   "filename": "halo-moon 57",
+   "frame": {
+    "x": 256,
+    "y": 620,
+    "w": 128,
+    "h": 124
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 128,
+    "h": 124
+   },
+   "sourceSize": {
+    "w": 128,
+    "h": 124
+   },
+   "duration": 33
+  },
+  {
+   "filename": "halo-moon 58",
+   "frame": {
+    "x": 384,
+    "y": 620,
+    "w": 128,
+    "h": 124
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 128,
+    "h": 124
+   },
+   "sourceSize": {
+    "w": 128,
+    "h": 124
+   },
+   "duration": 33
+  },
+  {
+   "filename": "halo-moon 59",
+   "frame": {
+    "x": 512,
+    "y": 620,
+    "w": 128,
+    "h": 124
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 128,
+    "h": 124
+   },
+   "sourceSize": {
+    "w": 128,
+    "h": 124
+   },
+   "duration": 33
+  },
+  {
+   "filename": "halo-moon 60",
+   "frame": {
+    "x": 640,
+    "y": 620,
+    "w": 128,
+    "h": 124
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 128,
+    "h": 124
+   },
+   "sourceSize": {
+    "w": 128,
+    "h": 124
+   },
+   "duration": 33
+  },
+  {
+   "filename": "halo-moon 61",
+   "frame": {
+    "x": 768,
+    "y": 620,
+    "w": 128,
+    "h": 124
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 128,
+    "h": 124
+   },
+   "sourceSize": {
+    "w": 128,
+    "h": 124
+   },
+   "duration": 33
+  },
+  {
+   "filename": "halo-moon 62",
+   "frame": {
+    "x": 896,
+    "y": 620,
+    "w": 128,
+    "h": 124
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 128,
+    "h": 124
+   },
+   "sourceSize": {
+    "w": 128,
+    "h": 124
+   },
+   "duration": 33
+  },
+  {
+   "filename": "halo-moon 63",
+   "frame": {
+    "x": 1024,
+    "y": 620,
+    "w": 128,
+    "h": 124
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 128,
+    "h": 124
+   },
+   "sourceSize": {
+    "w": 128,
+    "h": 124
+   },
+   "duration": 33
+  },
+  {
+   "filename": "halo-moon 64",
+   "frame": {
+    "x": 1152,
+    "y": 620,
+    "w": 128,
+    "h": 124
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 128,
+    "h": 124
+   },
+   "sourceSize": {
+    "w": 128,
+    "h": 124
+   },
+   "duration": 33
+  },
+  {
+   "filename": "halo-moon 65",
+   "frame": {
+    "x": 1280,
+    "y": 620,
+    "w": 128,
+    "h": 124
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 128,
+    "h": 124
+   },
+   "sourceSize": {
+    "w": 128,
+    "h": 124
+   },
+   "duration": 33
+  },
+  {
+   "filename": "halo-moon 66",
+   "frame": {
+    "x": 0,
+    "y": 744,
+    "w": 128,
+    "h": 124
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 128,
+    "h": 124
+   },
+   "sourceSize": {
+    "w": 128,
+    "h": 124
+   },
+   "duration": 33
+  },
+  {
+   "filename": "halo-moon 67",
+   "frame": {
+    "x": 128,
+    "y": 744,
+    "w": 128,
+    "h": 124
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 128,
+    "h": 124
+   },
+   "sourceSize": {
+    "w": 128,
+    "h": 124
+   },
+   "duration": 33
+  },
+  {
+   "filename": "halo-moon 68",
+   "frame": {
+    "x": 256,
+    "y": 744,
+    "w": 128,
+    "h": 124
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 128,
+    "h": 124
+   },
+   "sourceSize": {
+    "w": 128,
+    "h": 124
+   },
+   "duration": 33
+  },
+  {
+   "filename": "halo-moon 69",
+   "frame": {
+    "x": 384,
+    "y": 744,
+    "w": 128,
+    "h": 124
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 128,
+    "h": 124
+   },
+   "sourceSize": {
+    "w": 128,
+    "h": 124
+   },
+   "duration": 33
+  },
+  {
+   "filename": "halo-moon 70",
+   "frame": {
+    "x": 512,
+    "y": 744,
+    "w": 128,
+    "h": 124
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 128,
+    "h": 124
+   },
+   "sourceSize": {
+    "w": 128,
+    "h": 124
+   },
+   "duration": 33
+  },
+  {
+   "filename": "halo-moon 71",
+   "frame": {
+    "x": 640,
+    "y": 744,
+    "w": 128,
+    "h": 124
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 128,
+    "h": 124
+   },
+   "sourceSize": {
+    "w": 128,
+    "h": 124
+   },
+   "duration": 33
+  },
+  {
+   "filename": "halo-moon 72",
+   "frame": {
+    "x": 768,
+    "y": 744,
+    "w": 128,
+    "h": 124
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 128,
+    "h": 124
+   },
+   "sourceSize": {
+    "w": 128,
+    "h": 124
+   },
+   "duration": 33
+  },
+  {
+   "filename": "halo-moon 73",
+   "frame": {
+    "x": 896,
+    "y": 744,
+    "w": 128,
+    "h": 124
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 128,
+    "h": 124
+   },
+   "sourceSize": {
+    "w": 128,
+    "h": 124
+   },
+   "duration": 33
+  },
+  {
+   "filename": "halo-moon 74",
+   "frame": {
+    "x": 1024,
+    "y": 744,
+    "w": 128,
+    "h": 124
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 128,
+    "h": 124
+   },
+   "sourceSize": {
+    "w": 128,
+    "h": 124
+   },
+   "duration": 33
+  },
+  {
+   "filename": "halo-moon 75",
+   "frame": {
+    "x": 1152,
+    "y": 744,
+    "w": 128,
+    "h": 124
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 128,
+    "h": 124
+   },
+   "sourceSize": {
+    "w": 128,
+    "h": 124
+   },
+   "duration": 33
+  },
+  {
+   "filename": "halo-moon 76",
+   "frame": {
+    "x": 1280,
+    "y": 744,
+    "w": 128,
+    "h": 124
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 128,
+    "h": 124
+   },
+   "sourceSize": {
+    "w": 128,
+    "h": 124
+   },
+   "duration": 33
+  },
+  {
+   "filename": "halo-moon 77",
+   "frame": {
+    "x": 0,
+    "y": 868,
+    "w": 128,
+    "h": 124
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 128,
+    "h": 124
+   },
+   "sourceSize": {
+    "w": 128,
+    "h": 124
+   },
+   "duration": 33
+  },
+  {
+   "filename": "halo-moon 78",
+   "frame": {
+    "x": 128,
+    "y": 868,
+    "w": 128,
+    "h": 124
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 128,
+    "h": 124
+   },
+   "sourceSize": {
+    "w": 128,
+    "h": 124
+   },
+   "duration": 33
+  },
+  {
+   "filename": "halo-moon 79",
+   "frame": {
+    "x": 256,
+    "y": 868,
+    "w": 128,
+    "h": 124
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 128,
+    "h": 124
+   },
+   "sourceSize": {
+    "w": 128,
+    "h": 124
+   },
+   "duration": 33
+  },
+  {
+   "filename": "halo-moon 80",
+   "frame": {
+    "x": 384,
+    "y": 868,
+    "w": 128,
+    "h": 124
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 128,
+    "h": 124
+   },
+   "sourceSize": {
+    "w": 128,
+    "h": 124
+   },
+   "duration": 33
+  },
+  {
+   "filename": "halo-moon 81",
+   "frame": {
+    "x": 512,
+    "y": 868,
+    "w": 128,
+    "h": 124
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 128,
+    "h": 124
+   },
+   "sourceSize": {
+    "w": 128,
+    "h": 124
+   },
+   "duration": 33
+  },
+  {
+   "filename": "halo-moon 82",
+   "frame": {
+    "x": 640,
+    "y": 868,
+    "w": 128,
+    "h": 124
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 128,
+    "h": 124
+   },
+   "sourceSize": {
+    "w": 128,
+    "h": 124
+   },
+   "duration": 33
+  },
+  {
+   "filename": "halo-moon 83",
+   "frame": {
+    "x": 768,
+    "y": 868,
+    "w": 128,
+    "h": 124
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 128,
+    "h": 124
+   },
+   "sourceSize": {
+    "w": 128,
+    "h": 124
+   },
+   "duration": 33
+  },
+  {
+   "filename": "halo-moon 84",
+   "frame": {
+    "x": 896,
+    "y": 868,
+    "w": 128,
+    "h": 124
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 128,
+    "h": 124
+   },
+   "sourceSize": {
+    "w": 128,
+    "h": 124
+   },
+   "duration": 33
+  },
+  {
+   "filename": "halo-moon 85",
+   "frame": {
+    "x": 1024,
+    "y": 868,
+    "w": 128,
+    "h": 124
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 128,
+    "h": 124
+   },
+   "sourceSize": {
+    "w": 128,
+    "h": 124
+   },
+   "duration": 33
+  },
+  {
+   "filename": "halo-moon 86",
+   "frame": {
+    "x": 1152,
+    "y": 868,
+    "w": 128,
+    "h": 124
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 128,
+    "h": 124
+   },
+   "sourceSize": {
+    "w": 128,
+    "h": 124
+   },
+   "duration": 33
+  },
+  {
+   "filename": "halo-moon 87",
+   "frame": {
+    "x": 1280,
+    "y": 868,
+    "w": 128,
+    "h": 124
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 128,
+    "h": 124
+   },
+   "sourceSize": {
+    "w": 128,
+    "h": 124
+   },
+   "duration": 33
+  },
+  {
+   "filename": "halo-moon 88",
+   "frame": {
+    "x": 0,
+    "y": 992,
+    "w": 128,
+    "h": 124
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 128,
+    "h": 124
+   },
+   "sourceSize": {
+    "w": 128,
+    "h": 124
+   },
+   "duration": 33
+  },
+  {
+   "filename": "halo-moon 89",
+   "frame": {
+    "x": 128,
+    "y": 992,
+    "w": 128,
+    "h": 124
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 128,
+    "h": 124
+   },
+   "sourceSize": {
+    "w": 128,
+    "h": 124
+   },
+   "duration": 33
+  },
+  {
+   "filename": "halo-moon 90",
+   "frame": {
+    "x": 256,
+    "y": 992,
+    "w": 128,
+    "h": 124
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 128,
+    "h": 124
+   },
+   "sourceSize": {
+    "w": 128,
+    "h": 124
+   },
+   "duration": 33
+  },
+  {
+   "filename": "halo-moon 91",
+   "frame": {
+    "x": 384,
+    "y": 992,
+    "w": 128,
+    "h": 124
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 128,
+    "h": 124
+   },
+   "sourceSize": {
+    "w": 128,
+    "h": 124
+   },
+   "duration": 33
+  },
+  {
+   "filename": "halo-moon 92",
+   "frame": {
+    "x": 512,
+    "y": 992,
+    "w": 128,
+    "h": 124
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 128,
+    "h": 124
+   },
+   "sourceSize": {
+    "w": 128,
+    "h": 124
+   },
+   "duration": 33
+  },
+  {
+   "filename": "halo-moon 93",
+   "frame": {
+    "x": 640,
+    "y": 992,
+    "w": 128,
+    "h": 124
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 128,
+    "h": 124
+   },
+   "sourceSize": {
+    "w": 128,
+    "h": 124
+   },
+   "duration": 33
+  },
+  {
+   "filename": "halo-moon 94",
+   "frame": {
+    "x": 768,
+    "y": 992,
+    "w": 128,
+    "h": 124
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 128,
+    "h": 124
+   },
+   "sourceSize": {
+    "w": 128,
+    "h": 124
+   },
+   "duration": 33
+  },
+  {
+   "filename": "halo-moon 95",
+   "frame": {
+    "x": 896,
+    "y": 992,
+    "w": 128,
+    "h": 124
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 128,
+    "h": 124
+   },
+   "sourceSize": {
+    "w": 128,
+    "h": 124
+   },
+   "duration": 33
+  },
+  {
+   "filename": "halo-moon 96",
+   "frame": {
+    "x": 1024,
+    "y": 992,
+    "w": 128,
+    "h": 124
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 128,
+    "h": 124
+   },
+   "sourceSize": {
+    "w": 128,
+    "h": 124
+   },
+   "duration": 33
+  },
+  {
+   "filename": "halo-moon 97",
+   "frame": {
+    "x": 1152,
+    "y": 992,
+    "w": 128,
+    "h": 124
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 128,
+    "h": 124
+   },
+   "sourceSize": {
+    "w": 128,
+    "h": 124
+   },
+   "duration": 33
+  },
+  {
+   "filename": "halo-moon 98",
+   "frame": {
+    "x": 1280,
+    "y": 992,
+    "w": 128,
+    "h": 124
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 128,
+    "h": 124
+   },
+   "sourceSize": {
+    "w": 128,
+    "h": 124
+   },
+   "duration": 33
+  },
+  {
+   "filename": "halo-moon 99",
+   "frame": {
+    "x": 0,
+    "y": 1116,
+    "w": 128,
+    "h": 124
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 128,
+    "h": 124
+   },
+   "sourceSize": {
+    "w": 128,
+    "h": 124
+   },
+   "duration": 33
+  },
+  {
+   "filename": "halo-moon 100",
+   "frame": {
+    "x": 128,
+    "y": 1116,
+    "w": 128,
+    "h": 124
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 128,
+    "h": 124
+   },
+   "sourceSize": {
+    "w": 128,
+    "h": 124
+   },
+   "duration": 33
+  },
+  {
+   "filename": "halo-moon 101",
+   "frame": {
+    "x": 256,
+    "y": 1116,
+    "w": 128,
+    "h": 124
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 128,
+    "h": 124
+   },
+   "sourceSize": {
+    "w": 128,
+    "h": 124
+   },
+   "duration": 33
+  },
+  {
+   "filename": "halo-moon 102",
+   "frame": {
+    "x": 384,
+    "y": 1116,
+    "w": 128,
+    "h": 124
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 128,
+    "h": 124
+   },
+   "sourceSize": {
+    "w": 128,
+    "h": 124
+   },
+   "duration": 33
+  },
+  {
+   "filename": "halo-moon 103",
+   "frame": {
+    "x": 512,
+    "y": 1116,
+    "w": 128,
+    "h": 124
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 128,
+    "h": 124
+   },
+   "sourceSize": {
+    "w": 128,
+    "h": 124
+   },
+   "duration": 33
+  },
+  {
+   "filename": "halo-moon 104",
+   "frame": {
+    "x": 640,
+    "y": 1116,
+    "w": 128,
+    "h": 124
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 128,
+    "h": 124
+   },
+   "sourceSize": {
+    "w": 128,
+    "h": 124
+   },
+   "duration": 33
+  },
+  {
+   "filename": "halo-moon 105",
+   "frame": {
+    "x": 768,
+    "y": 1116,
+    "w": 128,
+    "h": 124
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 128,
+    "h": 124
+   },
+   "sourceSize": {
+    "w": 128,
+    "h": 124
+   },
+   "duration": 33
+  },
+  {
+   "filename": "halo-moon 106",
+   "frame": {
+    "x": 896,
+    "y": 1116,
+    "w": 128,
+    "h": 124
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 128,
+    "h": 124
+   },
+   "sourceSize": {
+    "w": 128,
+    "h": 124
+   },
+   "duration": 33
+  },
+  {
+   "filename": "halo-moon 107",
+   "frame": {
+    "x": 1024,
+    "y": 1116,
+    "w": 128,
+    "h": 124
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 128,
+    "h": 124
+   },
+   "sourceSize": {
+    "w": 128,
+    "h": 124
+   },
+   "duration": 33
+  },
+  {
+   "filename": "halo-moon 108",
+   "frame": {
+    "x": 1152,
+    "y": 1116,
+    "w": 128,
+    "h": 124
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 128,
+    "h": 124
+   },
+   "sourceSize": {
+    "w": 128,
+    "h": 124
+   },
+   "duration": 33
+  },
+  {
+   "filename": "halo-moon 109",
+   "frame": {
+    "x": 1280,
+    "y": 1116,
+    "w": 128,
+    "h": 124
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 128,
+    "h": 124
+   },
+   "sourceSize": {
+    "w": 128,
+    "h": 124
+   },
+   "duration": 33
+  },
+  {
+   "filename": "halo-moon 110",
+   "frame": {
+    "x": 0,
+    "y": 1240,
+    "w": 128,
+    "h": 124
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 128,
+    "h": 124
+   },
+   "sourceSize": {
+    "w": 128,
+    "h": 124
+   },
+   "duration": 33
+  },
+  {
+   "filename": "halo-moon 111",
+   "frame": {
+    "x": 128,
+    "y": 1240,
+    "w": 128,
+    "h": 124
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 128,
+    "h": 124
+   },
+   "sourceSize": {
+    "w": 128,
+    "h": 124
+   },
+   "duration": 33
+  },
+  {
+   "filename": "halo-moon 112",
+   "frame": {
+    "x": 256,
+    "y": 1240,
+    "w": 128,
+    "h": 124
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 128,
+    "h": 124
+   },
+   "sourceSize": {
+    "w": 128,
+    "h": 124
+   },
+   "duration": 33
+  },
+  {
+   "filename": "halo-moon 113",
+   "frame": {
+    "x": 384,
+    "y": 1240,
+    "w": 128,
+    "h": 124
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 128,
+    "h": 124
+   },
+   "sourceSize": {
+    "w": 128,
+    "h": 124
+   },
+   "duration": 33
+  },
+  {
+   "filename": "halo-moon 114",
+   "frame": {
+    "x": 512,
+    "y": 1240,
+    "w": 128,
+    "h": 124
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 128,
+    "h": 124
+   },
+   "sourceSize": {
+    "w": 128,
+    "h": 124
+   },
+   "duration": 33
+  },
+  {
+   "filename": "halo-moon 115",
+   "frame": {
+    "x": 640,
+    "y": 1240,
+    "w": 128,
+    "h": 124
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 128,
+    "h": 124
+   },
+   "sourceSize": {
+    "w": 128,
+    "h": 124
+   },
+   "duration": 33
+  },
+  {
+   "filename": "halo-moon 116",
+   "frame": {
+    "x": 768,
+    "y": 1240,
+    "w": 128,
+    "h": 124
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 128,
+    "h": 124
+   },
+   "sourceSize": {
+    "w": 128,
+    "h": 124
+   },
+   "duration": 33
+  },
+  {
+   "filename": "halo-moon 117",
+   "frame": {
+    "x": 896,
+    "y": 1240,
+    "w": 128,
+    "h": 124
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 128,
+    "h": 124
+   },
+   "sourceSize": {
+    "w": 128,
+    "h": 124
+   },
+   "duration": 33
+  },
+  {
+   "filename": "halo-moon 118",
+   "frame": {
+    "x": 1024,
+    "y": 1240,
+    "w": 128,
+    "h": 124
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 128,
+    "h": 124
+   },
+   "sourceSize": {
+    "w": 128,
+    "h": 124
+   },
+   "duration": 33
+  },
+  {
+   "filename": "halo-moon 119",
+   "frame": {
+    "x": 1152,
+    "y": 1240,
+    "w": 128,
+    "h": 124
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 128,
+    "h": 124
+   },
+   "sourceSize": {
+    "w": 128,
+    "h": 124
+   },
+   "duration": 33
+  }
+ ],
+ "meta": {
+  "app": "https://github.com/patch-gg/pixelfx",
+  "version": "1",
+  "image": "halo-moon.png",
+  "format": "RGBA8888",
+  "size": {
+   "w": 1408,
+   "h": 1364
+  },
+  "scale": "1",
+  "frameTags": [
+   {
+    "name": "halo-moon",
+    "from": 0,
+    "to": 119,
+    "direction": "forward"
+   }
+  ],
+  "pixelfx": {
+   "id": "arcane/halo-moon",
+   "name": "Halo: moon",
+   "fps": 30,
+   "loop": true,
+   "frames": 120,
+   "frameSize": [
+    128,
+    124
+   ],
+   "pivot": [
+    64,
+    106
+   ],
+   "columns": 11
+  }
+ }
+}

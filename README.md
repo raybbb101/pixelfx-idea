@@ -270,3 +270,33 @@ effect carry it. The hero stands at the origin; the monster stops 80 px to its r
   Pivot `[64, 150]` (the hero's feet).
 
 Options: `flesh` (the octopus, dark to light), `housing` (the traffic light box), `seed`.
+
+## Back halos (`arcane/halo-moon`, `halo-water`, `halo-sun`, `halo-thunder`): character skins
+
+| Moon | Water | Sun | Thunder |
+|---|---|---|---|
+| ![Moon](renders/halo-moon/anim.gif) | ![Water](renders/halo-water/anim.gif) | ![Sun](renders/halo-sun/anim.gif) | ![Thunder](renders/halo-thunder/anim.gif) |
+
+Four rings of light that float behind a character's back, bobbing gently, as cosmetic skins. Each is a
+seamless 4 s loop, 30 fps, 128 x 124 px, pivot `[64, 106]` (the character's feet); the ring's centre is
+39 px above the feet. Original designs on four motifs:
+
+- **Moon** (`arcane/halo-moon`): a great pale crescent, two thin arcs of moonlight circling opposite ways
+  behind bright heads, two little moons showing their phases, stardust drifting down, sparkles twinkling.
+- **Water** (`arcane/halo-water`): a ring of flowing water that wobbles as waves run round it, white crests
+  curling off the top like a woodblock wave, two streams trailing and swaying like a scarf's ends, bubbles
+  wobbling up, drops falling into ripples, spray off the crest.
+- **Sun** (`arcane/halo-sun`): a golden ring with eight blades of light, long and short in turn, turning
+  slowly; flames lick along the ring, embers rise, it pulses with heat.
+- **Thunder** (`arcane/halo-thunder`): a ring of beads carrying five drums, each bearing a turning
+  mitsudomoe (three-comma crest), after the thunder god's drums; light chases round the beads, lightning leaps
+  between the drums and crackles off them.
+
+Most of each halo is drawn behind the character (`drawBack`), with sparkles, bubbles, embers and crackles in
+front (`draw`).
+
+- `effects/arcane/_halo.js` (shared) + the four effect files: copy to `src/fx/arcane/` in a pixelfx checkout.
+- `renders/halo-<name>/`: sprite sheet (120 frames, transparent, without the character) + JSON, contact
+  sheet, and a GIF with the stock character.
+
+Options: `palette` (dark to bright) and `seed` on each.

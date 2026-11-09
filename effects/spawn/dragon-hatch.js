@@ -11,15 +11,15 @@ import { Doll, drawDragon } from "./_dragon-rig.js";
 const ROCKS = [[0.5, 0.25, 0.35], [1.1, 0.35, 0.5], [1.55, 0.45, 0.6], [1.95, 0.5, 0.95]]; // [time, length, strength]
 const CRACK1 = 2.35, CRACK2 = 2.75, POP = 3.2;
 const GRIP = 5.1, OUT = 6.05, TOPPLE = 6.35, LAND = 6.75, INHALE = 8.05, BREATH = 8.55, BREATH_END = 9.15, COUGH = 9.28, JOY = 9.45, FLY = 10.1, D = 11.2;
-const EH = 32, ERX = 13, RIM = -17;
-const GRIP_N = [11, -18], GRIP_F = [-9, -18.5];
+const EH = 40, ERX = 16, RIM = -22;
+const GRIP_N = [14, -23], GRIP_F = [-11, -23.5];
 
 export const meta = {
   name: "Dragon hatch",
   desc: "A fire dragon egg cracks open; a baby dragon grips the rim with its claws, hauls itself out, tumbles to the ground, blinks, puffs a little jet of fire, then flutters away.",
   tags: ["spawn", "dragon", "egg", "hatch", "fire", "baby", "pet", "summon", "cute", "ground", "one-shot"],
-  size: [240, 156],
-  origin: [96, 132],
+  size: [288, 196],
+  origin: [108, 170],
   duration: D,
   loop: false,
   fps: 30,
@@ -33,8 +33,8 @@ export const meta = {
 
 // the dragon's pose through the hatching: [time, the values that change]; everything eases between keys
 const KEYS = [
-  [3.25, { x: -2, y: 18, tilt: 0.25, head: 0.45, eye: 0, look: 0, jaw: 0, puff: 0, squash: 1, wing: 0, tail: 0, lift: 0, gN: 0, gF: 0 }],
-  [3.65, { y: 3, head: 0.2 }],
+  [3.25, { x: -2, y: 34, tilt: 0.25, head: 0.45, eye: 0, look: 0, jaw: 0, puff: 0, squash: 1, wing: 0, tail: 0, lift: 0, gN: 0, gF: 0 }],
+  [3.65, { y: 13, head: 0.2 }],
   [3.95, { head: 0, eye: 0 }],
   [4.15, { eye: 1 }],
   [4.3, { look: -1, head: -0.12 }],
@@ -43,16 +43,16 @@ const KEYS = [
   [4.72, { eye: 0.05 }],
   [4.8, { eye: 1 }],
   [4.85, { gN: 0, gF: 0, tilt: 0.1 }],
-  [GRIP, { gN: 1, gF: 1, y: 3, tilt: 0.2 }],
-  [5.6, { y: -7, tilt: 0.3, head: 0.15 }],
-  [5.85, { y: -12, tilt: 0.38, lift: 1 }],
-  [OUT, { y: -18, x: 2, tilt: 0.15, lift: 0, gN: 0.5, gF: 0.5, head: 0 }],
-  [6.2, { gN: 0, gF: 0, x: 3, tilt: 0.05, wing: 0.3 }],
-  [TOPPLE, { x: 5, y: -18.5, tilt: 0.5, eye: 1, wing: 0.6 }],
-  [6.55, { x: 19, y: -22, tilt: 0.95, eye: 0.05, wing: 1 }],
-  [LAND, { x: 33, y: 0, tilt: 0, squash: 0.72, wing: 0.2 }],
+  [GRIP, { gN: 1, gF: 1, y: 10, tilt: 0.2 }],
+  [5.6, { y: -6, tilt: 0.3, head: 0.15 }],
+  [5.85, { y: -15, tilt: 0.38, lift: 1 }],
+  [OUT, { y: -23, x: 2, tilt: 0.15, lift: 0, gN: 0.5, gF: 0.5, head: 0 }],
+  [6.2, { gN: 0, gF: 0, x: 3, tilt: 0.05, wing: 0.55 }],
+  [TOPPLE, { x: 5, y: -23.5, tilt: 0.5, eye: 1, wing: 0.75 }],
+  [6.55, { x: 22, y: -30, tilt: 0.95, eye: 0.05, wing: 1 }],
+  [LAND, { x: 42, y: 0, tilt: 0, squash: 0.72, wing: 0.35 }],
   [6.9, { squash: 1.08 }],
-  [7.02, { squash: 1, eye: 0.45, head: 0.2 }],
+  [7.02, { squash: 1, eye: 0.45, head: 0.2, wing: 0.5 }],
   [7.5, { eye: 0.45, head: 0 }],
   [7.58, { eye: 1, look: 0 }],
   [7.7, { eye: 1 }],
@@ -69,8 +69,8 @@ const KEYS = [
   [9.3, { jaw: 0.55, head: 0.25 }],
   [9.4, { jaw: 0, head: 0, eye: -1 }],
   [FLY, { eye: -1, y: 0 }],
-  [10.3, { eye: 1, y: -6, x: 35, tilt: 0.15, wing: 1 }],
-  [D - 0.15, { x: 200, y: -150 }],
+  [10.3, { eye: 1, y: -8, x: 44, tilt: 0.15, wing: 1 }],
+  [D - 0.15, { x: 240, y: -210 }],
 ];
 const PARAMS = Object.keys(KEYS[0][1]);
 function pose(t) {
@@ -93,8 +93,8 @@ function pose(t) {
   // the fall: a real arc, not an ease
   if (t > TOPPLE && t < LAND) {
     const u = (t - TOPPLE) / (LAND - TOPPLE);
-    out.x = 5 + 28 * u;
-    out.y = -18.5 + 18.5 * u * u - 10 * Math.sin(Math.PI * u) * (1 - u);
+    out.x = 5 + 37 * u;
+    out.y = -23.5 + 23.5 * u * u - 12 * Math.sin(Math.PI * u) * (1 - u);
   }
   // shaking its dizzy head, wagging and flapping when it's happy, flapping hard as it flies
   if (t > 7.02 && t < 7.55) out.head += Math.sin((t - 7.02) * 30) * 0.22 * (1 - (t - 7.02) / 0.53);
@@ -109,20 +109,20 @@ function pose(t) {
 
 // the egg's half width at height v (0 at the base, -EH at the top): rounder below, a narrower top
 const halfW = (v) => {
-  const c = -13.5, r = v < c ? EH + c : -c;
+  const c = -17, r = v < c ? EH + c : -c;
   return ERX * Math.sqrt(Math.max(0, 1 - ((v - c) / r) ** 2));
 };
 // the crack line round the egg: a zigzag a little above its middle
-const crackY = (u) => -17.3 + 1.8 * Math.abs(((u / 3.2) % 2 + 2) % 2 - 1) * 2 - 1.8;
+const crackY = (u) => -22.3 + 1.8 * Math.abs(((u / 3.2) % 2 + 2) % 2 - 1) * 2 - 1.8;
 
 export function create(o) {
   const F = fit(o.palette, 8).map(hex), SH = fit(o.shell, 5).map(hex), R = new Rng(o.seed), S = o.seed;
   const ps = new Particles({ rng: R, ground: () => 0, sparks: [WHITE, F[6], F[5], F[4]] });
   const bits = new Bits({ ground: () => 0 }), lights = new Lights(), doll = new Doll(), arms = new Doll();
-  const top = { x: 0, y: -18, vx: -40, vy: -150, a: 0, va: -7, rest: false };
+  const top = { x: 0, y: -24, vx: -40, vy: -150, a: 0, va: -7, rest: false };
   const embers = Array.from({ length: 12 }, (_, i) => {
     const a = (i / 12) * TAU + R.range(-0.2, 0.2);
-    return { x: Math.cos(a) * R.range(15, 20), y: Math.sin(a) * 3, r: R.range(1.8, 3), ph: R.range(0, TAU), back: Math.sin(a) < 0 };
+    return { x: Math.cos(a) * R.range(19, 25), y: Math.sin(a) * 3, r: R.range(1.8, 3), ph: R.range(0, TAU), back: Math.sin(a) < 0 };
   });
   const done = new Set();
   let t = 0, cur = null;
@@ -153,32 +153,32 @@ export function create(o) {
     return q;
   };
   const lerp2 = (a, b, k) => [a[0] + (b[0] - a[0]) * k, a[1] + (b[1] - a[1]) * k];
-  const restN = (q) => [8 + Math.sin(q.tilt) * 8, -7 - (q.squash - 1) * 4];
-  const restF = (q) => [4 + Math.sin(q.tilt) * 8, -8];
+  const restN = (q) => [11 + Math.sin(q.tilt) * 14, -15];
+  const restF = (q) => [7 + Math.sin(q.tilt) * 14, -16];
 
   return {
     update(dt) {
       t += dt;
       const f = Math.min(1, dt * 120);
       cur = dragon();
-      if (t < D - 1.6 && R.chance(0.08 * f)) ps.spawn(P.EMBER, R.range(-17, 17), -R.range(0, 3), R.range(-6, 6), -R.range(18, 40), R.range(0.6, 1.1), 0, 1);
-      for (const [t0] of ROCKS) if (once("rock" + t0, t0)) for (let i = 0; i < 4; i++) ps.spawn(P.SPARK, R.range(-8, 8), -R.range(4, 22), R.range(-60, 60), -R.range(40, 100), R.range(0.15, 0.3));
+      if (t < D - 1.6 && R.chance(0.08 * f)) ps.spawn(P.EMBER, R.range(-22, 22), -R.range(0, 3), R.range(-6, 6), -R.range(18, 40), R.range(0.6, 1.1), 0, 1);
+      for (const [t0] of ROCKS) if (once("rock" + t0, t0)) for (let i = 0; i < 4; i++) ps.spawn(P.SPARK, R.range(-11, 11), -R.range(5, 30), R.range(-60, 60), -R.range(40, 100), R.range(0.15, 0.3));
       if (once("c1", CRACK1) || once("c2", CRACK2)) {
-        lights.add(0, -16, 40, F[5], 0.7, 0.2);
-        for (let i = 0; i < 8; i++) ps.spawn(P.SPARK, R.range(-10, 10), -16, R.range(-80, 80), -R.range(60, 140), R.range(0.15, 0.3));
+        lights.add(0, -22, 46, F[5], 0.7, 0.2);
+        for (let i = 0; i < 8; i++) ps.spawn(P.SPARK, R.range(-13, 13), -22, R.range(-80, 80), -R.range(60, 140), R.range(0.15, 0.3));
       }
       if (once("pop", POP)) {
-        lights.add(0, -18, 80, F[5], 0.9, 0.4);
-        lights.add(0, -18, 20, WHITE, 0.9, 0.06);
+        lights.add(0, -24, 90, F[5], 0.9, 0.4);
+        lights.add(0, -24, 24, WHITE, 0.9, 0.06);
         for (let i = 0; i < 24; i++) {
           const a = R.range(-Math.PI, 0), sp = R.range(60, 170);
-          ps.spawn(i % 2 ? P.SPARK : P.EMBER, R.range(-6, 6), -18, Math.cos(a) * sp, Math.sin(a) * sp, R.range(0.3, 0.6), 0, 1);
+          ps.spawn(i % 2 ? P.SPARK : P.EMBER, R.range(-8, 8), -24, Math.cos(a) * sp, Math.sin(a) * sp, R.range(0.3, 0.6), 0, 1);
         }
         for (let i = 0; i < 8; i++) {
           const a = R.range(-Math.PI, 0), sp = R.range(50, 120);
-          bits.add({ kind: B.CHUNK, x: R.range(-6, 6), y: -18, vx: Math.cos(a) * sp, vy: Math.sin(a) * sp, a: R.range(0, TAU), va: R.range(-12, 12), s: R.range(1, 1.8), ramp: [o.shell[0], o.shell[1], o.shell[2], o.shell[3], o.shell[4]], bounce: 0.3, life: D - POP - 0.6 });
+          bits.add({ kind: B.CHUNK, x: R.range(-8, 8), y: -24, vx: Math.cos(a) * sp, vy: Math.sin(a) * sp, a: R.range(0, TAU), va: R.range(-12, 12), s: R.range(1, 1.8), ramp: [o.shell[0], o.shell[1], o.shell[2], o.shell[3], o.shell[4]], bounce: 0.3, life: D - POP - 0.6 });
         }
-        for (let i = 0; i < 4; i++) ps.spawn(P.SMOKE, R.range(-5, 5), -20, R.range(-10, 10), -R.range(15, 30), R.range(0.8, 1.2), 0, R.range(3, 4.5));
+        for (let i = 0; i < 4; i++) ps.spawn(P.SMOKE, R.range(-6, 6), -26, R.range(-10, 10), -R.range(15, 30), R.range(0.8, 1.2), 0, R.range(3, 4.5));
       }
       // the top of the shell: thrown up and off, tumbling, landing on the nest
       if (t > POP && !top.rest) {
@@ -194,8 +194,8 @@ export function create(o) {
       // crumbs knocked off the rim as it hauls itself up
       if (t > GRIP && t < OUT && R.chance(0.12 * f)) bits.add({ kind: B.CHUNK, x: R.pick([GRIP_N[0], GRIP_F[0]]) + R.range(-2, 2), y: RIM, vx: R.range(-20, 20), vy: R.range(-20, 0), a: R.range(0, TAU), va: R.range(-10, 10), s: R.range(0.6, 1), ramp: [o.shell[0], o.shell[1], o.shell[2], o.shell[3], o.shell[4]], bounce: 0.2, life: D - t - 0.6 });
       if (cur && once("land", LAND)) {
-        for (let i = 0; i < 7; i++) ps.spawn(P.DUST, cur.x + R.range(-8, 8), -1, R.sign() * R.range(12, 34), -R.range(4, 12), R.range(0.4, 0.7), SH[3], R.range(1.6, 2.8));
-        for (let i = 0; i < 3; i++) ps.spawn(P.STAR, cur.x + R.range(-6, 10), -32 + R.range(-3, 3), 0, -6, 0.5, F[6], 1, 0.3 + i * 0.1);
+        for (let i = 0; i < 7; i++) ps.spawn(P.DUST, cur.x + R.range(-11, 11), -1, R.sign() * R.range(12, 34), -R.range(4, 12), R.range(0.4, 0.7), SH[3], R.range(1.6, 2.8));
+        for (let i = 0; i < 3; i++) ps.spawn(P.STAR, cur.x + R.range(-6, 14), -60 + R.range(-3, 3), 0, -6, 0.5, F[6], 1, 0.3 + i * 0.1);
       }
       const m = cur ? mouthAt(cur) : null;
       // breathing in: sparks drawn into its mouth
@@ -210,16 +210,16 @@ export function create(o) {
         if (R.chance(0.4)) ps.spawn(P.SPARK, m[0] + 2, m[1], R.range(120, 200), R.range(-50, 10), R.range(0.12, 0.25));
       }
       if (m && once("cough", COUGH)) for (let i = 0; i < 3; i++) ps.spawn(P.SMOKE, m[0] + 2, m[1], R.range(20, 40), -R.range(5, 15), R.range(0.6, 0.9), 0, R.range(1.6, 2.4), i * 0.06);
-      if (cur && once("joy", JOY)) for (let i = 0; i < 6; i++) ps.spawn(P.STAR, cur.x + R.range(-12, 12), cur.y - 36 + R.range(-4, 6), 0, -10, R.range(0.3, 0.5), R.pick([F[6], WHITE]), 1.2);
-      if (cur && t > FLY && R.chance(0.35 * f)) ps.spawn(P.EMBER, cur.x - 4, cur.y - 4, R.range(-10, 10), R.range(5, 20), Math.min(R.range(0.3, 0.6), D - 0.05 - t), 0, 1);
+      if (cur && once("joy", JOY)) for (let i = 0; i < 6; i++) ps.spawn(P.STAR, cur.x + R.range(-14, 18), cur.y - 60 + R.range(-4, 6), 0, -10, R.range(0.3, 0.5), R.pick([F[6], WHITE]), 1.2);
+      if (cur && t > FLY && R.chance(0.35 * f)) ps.spawn(P.EMBER, cur.x - 6, cur.y - 6, R.range(-10, 10), R.range(5, 20), Math.min(R.range(0.3, 0.6), D - 0.05 - t), 0, 1);
       ps.update(dt);
       bits.update(dt);
       lights.update(dt);
     },
     drawBack(p0) {
       const p = clip(p0, meta), fade = 1 - smooth(D - 1.6, D - 0.3, t);
-      p.glow(0, -2, 42, F[3], 0.35 * fade);
-      p.ellipse(0, 0, 21, 3.8, F[0], fade);
+      p.glow(0, -2, 52, F[3], 0.35 * fade);
+      p.ellipse(0, 0, 27, 4.4, F[0], fade);
       for (const e of embers) if (e.back) ember(p, e, t, F, fade);
     },
     draw(p0) {
@@ -233,7 +233,7 @@ export function create(o) {
           out.a = fade;
           if (Math.abs(u) > w - 0.4) return SH[0];
           // the cracks: white-hot lines racing round, then the rim glowing where it broke
-          const cy = crackY(u), c1 = clamp((t - CRACK1) / 0.18) * 13, c2 = clamp((t - CRACK2) / 0.18) * 13;
+          const cy = crackY(u), c1 = clamp((t - CRACK1) / 0.18) * 17, c2 = clamp((t - CRACK2) / 0.18) * 17;
           if (Math.abs(v - cy) < 0.75 && ((u < 0 && -u < c1) || (u >= 0 && u < c2))) return t < POP ? WHITE : F[5];
           if (!whole && v - cy < 1.5) {
             out.k = 0.4 * fade;
@@ -243,8 +243,8 @@ export function create(o) {
           return t > CRACK1 && t < POP && c === F[5] ? F[6] : c;
         });
       // inside the burst egg: dark, glowing deep orange at the bottom
-      if (!whole) p.ellipse(0, -16, 9, 2.2, F[1], fade);
-      const inside = q && q.y > -15 && t < TOPPLE;
+      if (!whole) p.ellipse(0, -21, 12, 2.6, F[1], fade);
+      const inside = q && q.y > -20 && t < TOPPLE;
       if (inside) {
         // its body behind the front of the shell, its hands over the rim in front of it
         doll.clear();
@@ -252,19 +252,19 @@ export function create(o) {
         doll.blit(p, q.x, q.y, RIM + 1.5);
       }
       egg();
-      if (whole && t > ROCKS[0][0]) p.glow(0, -14, 20, F[4], 0.2 + 0.25 * smooth(ROCKS[0][0], POP, t));
+      if (whole && t > ROCKS[0][0]) p.glow(0, -18, 26, F[4], 0.2 + 0.25 * smooth(ROCKS[0][0], POP, t));
       if (inside) {
         arms.clear();
         drawDragon(arms, q, "arms");
         arms.blit(p, q.x, q.y, q.gN > 0.35 ? Infinity : RIM + 1.5);
       }
       const k = (t - POP) / 0.35;
-      if (k > 0 && k < 1) flare(p, 0, -20, 28 * (1 - k) + 4, 1 - k, F);
+      if (k > 0 && k < 1) flare(p, 0, -26, 28 * (1 - k) + 4, 1 - k, F);
       // the top of the shell, tumbling away and lying on the nest
       if (t > POP) {
         const ca = Math.cos(-top.a), sa = Math.sin(-top.a);
-        p.shade(top.x - 16, top.y - 16, top.x + 16, top.y + 16, (x, y, out) => {
-          const lx = x - top.x, ly = y - top.y, u = lx * ca - ly * sa, v = lx * sa + ly * ca - 18;
+        p.shade(top.x - 22, top.y - 22, top.x + 22, top.y + 22, (x, y, out) => {
+          const lx = x - top.x, ly = y - top.y, u = lx * ca - ly * sa, v = lx * sa + ly * ca - 24;
           const w = halfW(v);
           if (v < -EH || Math.abs(u) > w + 0.4 || v > crackY(u)) return;
           out.a = fade;
@@ -280,7 +280,7 @@ export function create(o) {
         doll.blit(p, q.x, q.y);
         // breathing in, its chest glows; breathing fire, a white-hot core at its mouth
         const m = mouthAt(q);
-        if (q.puff > 0.05) p.glow(q.x + 2, q.y - 12, 9, F[5], 0.45 * q.puff);
+        if (q.puff > 0.05) p.glow(q.x + 4, q.y - 17, 12, F[5], 0.45 * q.puff);
         if (t > BREATH + 0.04 && t < BREATH_END) {
           const kk = clamp((t - BREATH - 0.04) / 0.08) * (1 - clamp((t - BREATH_END + 0.12) / 0.12));
           for (let s = 0; s < 16 * kk; s++) {
@@ -289,7 +289,7 @@ export function create(o) {
           }
           p.glow(m[0] + 8, m[1], 20, F[5], 0.6 * kk);
         }
-        if (t > JOY && t < JOY + 0.5) sparkle(p, q.x - 6, q.y - 34, 2 + 2 * Math.sin((t - JOY) * 20) ** 2, WHITE, F[6], 0.8);
+        if (t > JOY && t < JOY + 0.5) sparkle(p, q.x - 8, q.y - 58, 2 + 2 * Math.sin((t - JOY) * 20) ** 2, WHITE, F[6], 0.8);
       }
       bits.draw(p);
       ps.draw(p);

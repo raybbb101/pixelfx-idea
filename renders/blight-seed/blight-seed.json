@@ -1,0 +1,6133 @@
+{
+ "frames": [
+  {
+   "filename": "blight-seed 0",
+   "frame": {
+    "x": 0,
+    "y": 0,
+    "w": 272,
+    "h": 236
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 272,
+    "h": 236
+   },
+   "sourceSize": {
+    "w": 272,
+    "h": 236
+   },
+   "duration": 33
+  },
+  {
+   "filename": "blight-seed 1",
+   "frame": {
+    "x": 272,
+    "y": 0,
+    "w": 272,
+    "h": 236
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 272,
+    "h": 236
+   },
+   "sourceSize": {
+    "w": 272,
+    "h": 236
+   },
+   "duration": 33
+  },
+  {
+   "filename": "blight-seed 2",
+   "frame": {
+    "x": 544,
+    "y": 0,
+    "w": 272,
+    "h": 236
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 272,
+    "h": 236
+   },
+   "sourceSize": {
+    "w": 272,
+    "h": 236
+   },
+   "duration": 33
+  },
+  {
+   "filename": "blight-seed 3",
+   "frame": {
+    "x": 816,
+    "y": 0,
+    "w": 272,
+    "h": 236
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 272,
+    "h": 236
+   },
+   "sourceSize": {
+    "w": 272,
+    "h": 236
+   },
+   "duration": 33
+  },
+  {
+   "filename": "blight-seed 4",
+   "frame": {
+    "x": 1088,
+    "y": 0,
+    "w": 272,
+    "h": 236
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 272,
+    "h": 236
+   },
+   "sourceSize": {
+    "w": 272,
+    "h": 236
+   },
+   "duration": 33
+  },
+  {
+   "filename": "blight-seed 5",
+   "frame": {
+    "x": 1360,
+    "y": 0,
+    "w": 272,
+    "h": 236
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 272,
+    "h": 236
+   },
+   "sourceSize": {
+    "w": 272,
+    "h": 236
+   },
+   "duration": 33
+  },
+  {
+   "filename": "blight-seed 6",
+   "frame": {
+    "x": 1632,
+    "y": 0,
+    "w": 272,
+    "h": 236
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 272,
+    "h": 236
+   },
+   "sourceSize": {
+    "w": 272,
+    "h": 236
+   },
+   "duration": 33
+  },
+  {
+   "filename": "blight-seed 7",
+   "frame": {
+    "x": 1904,
+    "y": 0,
+    "w": 272,
+    "h": 236
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 272,
+    "h": 236
+   },
+   "sourceSize": {
+    "w": 272,
+    "h": 236
+   },
+   "duration": 33
+  },
+  {
+   "filename": "blight-seed 8",
+   "frame": {
+    "x": 2176,
+    "y": 0,
+    "w": 272,
+    "h": 236
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 272,
+    "h": 236
+   },
+   "sourceSize": {
+    "w": 272,
+    "h": 236
+   },
+   "duration": 33
+  },
+  {
+   "filename": "blight-seed 9",
+   "frame": {
+    "x": 2448,
+    "y": 0,
+    "w": 272,
+    "h": 236
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 272,
+    "h": 236
+   },
+   "sourceSize": {
+    "w": 272,
+    "h": 236
+   },
+   "duration": 33
+  },
+  {
+   "filename": "blight-seed 10",
+   "frame": {
+    "x": 2720,
+    "y": 0,
+    "w": 272,
+    "h": 236
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 272,
+    "h": 236
+   },
+   "sourceSize": {
+    "w": 272,
+    "h": 236
+   },
+   "duration": 33
+  },
+  {
+   "filename": "blight-seed 11",
+   "frame": {
+    "x": 2992,
+    "y": 0,
+    "w": 272,
+    "h": 236
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 272,
+    "h": 236
+   },
+   "sourceSize": {
+    "w": 272,
+    "h": 236
+   },
+   "duration": 33
+  },
+  {
+   "filename": "blight-seed 12",
+   "frame": {
+    "x": 3264,
+    "y": 0,
+    "w": 272,
+    "h": 236
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 272,
+    "h": 236
+   },
+   "sourceSize": {
+    "w": 272,
+    "h": 236
+   },
+   "duration": 33
+  },
+  {
+   "filename": "blight-seed 13",
+   "frame": {
+    "x": 3536,
+    "y": 0,
+    "w": 272,
+    "h": 236
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 272,
+    "h": 236
+   },
+   "sourceSize": {
+    "w": 272,
+    "h": 236
+   },
+   "duration": 33
+  },
+  {
+   "filename": "blight-seed 14",
+   "frame": {
+    "x": 3808,
+    "y": 0,
+    "w": 272,
+    "h": 236
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 272,
+    "h": 236
+   },
+   "sourceSize": {
+    "w": 272,
+    "h": 236
+   },
+   "duration": 33
+  },
+  {
+   "filename": "blight-seed 15",
+   "frame": {
+    "x": 4080,
+    "y": 0,
+    "w": 272,
+    "h": 236
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 272,
+    "h": 236
+   },
+   "sourceSize": {
+    "w": 272,
+    "h": 236
+   },
+   "duration": 33
+  },
+  {
+   "filename": "blight-seed 16",
+   "frame": {
+    "x": 0,
+    "y": 236,
+    "w": 272,
+    "h": 236
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 272,
+    "h": 236
+   },
+   "sourceSize": {
+    "w": 272,
+    "h": 236
+   },
+   "duration": 33
+  },
+  {
+   "filename": "blight-seed 17",
+   "frame": {
+    "x": 272,
+    "y": 236,
+    "w": 272,
+    "h": 236
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 272,
+    "h": 236
+   },
+   "sourceSize": {
+    "w": 272,
+    "h": 236
+   },
+   "duration": 33
+  },
+  {
+   "filename": "blight-seed 18",
+   "frame": {
+    "x": 544,
+    "y": 236,
+    "w": 272,
+    "h": 236
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 272,
+    "h": 236
+   },
+   "sourceSize": {
+    "w": 272,
+    "h": 236
+   },
+   "duration": 33
+  },
+  {
+   "filename": "blight-seed 19",
+   "frame": {
+    "x": 816,
+    "y": 236,
+    "w": 272,
+    "h": 236
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 272,
+    "h": 236
+   },
+   "sourceSize": {
+    "w": 272,
+    "h": 236
+   },
+   "duration": 33
+  },
+  {
+   "filename": "blight-seed 20",
+   "frame": {
+    "x": 1088,
+    "y": 236,
+    "w": 272,
+    "h": 236
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 272,
+    "h": 236
+   },
+   "sourceSize": {
+    "w": 272,
+    "h": 236
+   },
+   "duration": 33
+  },
+  {
+   "filename": "blight-seed 21",
+   "frame": {
+    "x": 1360,
+    "y": 236,
+    "w": 272,
+    "h": 236
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 272,
+    "h": 236
+   },
+   "sourceSize": {
+    "w": 272,
+    "h": 236
+   },
+   "duration": 33
+  },
+  {
+   "filename": "blight-seed 22",
+   "frame": {
+    "x": 1632,
+    "y": 236,
+    "w": 272,
+    "h": 236
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 272,
+    "h": 236
+   },
+   "sourceSize": {
+    "w": 272,
+    "h": 236
+   },
+   "duration": 33
+  },
+  {
+   "filename": "blight-seed 23",
+   "frame": {
+    "x": 1904,
+    "y": 236,
+    "w": 272,
+    "h": 236
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 272,
+    "h": 236
+   },
+   "sourceSize": {
+    "w": 272,
+    "h": 236
+   },
+   "duration": 33
+  },
+  {
+   "filename": "blight-seed 24",
+   "frame": {
+    "x": 2176,
+    "y": 236,
+    "w": 272,
+    "h": 236
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 272,
+    "h": 236
+   },
+   "sourceSize": {
+    "w": 272,
+    "h": 236
+   },
+   "duration": 33
+  },
+  {
+   "filename": "blight-seed 25",
+   "frame": {
+    "x": 2448,
+    "y": 236,
+    "w": 272,
+    "h": 236
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 272,
+    "h": 236
+   },
+   "sourceSize": {
+    "w": 272,
+    "h": 236
+   },
+   "duration": 33
+  },
+  {
+   "filename": "blight-seed 26",
+   "frame": {
+    "x": 2720,
+    "y": 236,
+    "w": 272,
+    "h": 236
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 272,
+    "h": 236
+   },
+   "sourceSize": {
+    "w": 272,
+    "h": 236
+   },
+   "duration": 33
+  },
+  {
+   "filename": "blight-seed 27",
+   "frame": {
+    "x": 2992,
+    "y": 236,
+    "w": 272,
+    "h": 236
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 272,
+    "h": 236
+   },
+   "sourceSize": {
+    "w": 272,
+    "h": 236
+   },
+   "duration": 33
+  },
+  {
+   "filename": "blight-seed 28",
+   "frame": {
+    "x": 3264,
+    "y": 236,
+    "w": 272,
+    "h": 236
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 272,
+    "h": 236
+   },
+   "sourceSize": {
+    "w": 272,
+    "h": 236
+   },
+   "duration": 33
+  },
+  {
+   "filename": "blight-seed 29",
+   "frame": {
+    "x": 3536,
+    "y": 236,
+    "w": 272,
+    "h": 236
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 272,
+    "h": 236
+   },
+   "sourceSize": {
+    "w": 272,
+    "h": 236
+   },
+   "duration": 33
+  },
+  {
+   "filename": "blight-seed 30",
+   "frame": {
+    "x": 3808,
+    "y": 236,
+    "w": 272,
+    "h": 236
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 272,
+    "h": 236
+   },
+   "sourceSize": {
+    "w": 272,
+    "h": 236
+   },
+   "duration": 33
+  },
+  {
+   "filename": "blight-seed 31",
+   "frame": {
+    "x": 4080,
+    "y": 236,
+    "w": 272,
+    "h": 236
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 272,
+    "h": 236
+   },
+   "sourceSize": {
+    "w": 272,
+    "h": 236
+   },
+   "duration": 33
+  },
+  {
+   "filename": "blight-seed 32",
+   "frame": {
+    "x": 0,
+    "y": 472,
+    "w": 272,
+    "h": 236
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 272,
+    "h": 236
+   },
+   "sourceSize": {
+    "w": 272,
+    "h": 236
+   },
+   "duration": 33
+  },
+  {
+   "filename": "blight-seed 33",
+   "frame": {
+    "x": 272,
+    "y": 472,
+    "w": 272,
+    "h": 236
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 272,
+    "h": 236
+   },
+   "sourceSize": {
+    "w": 272,
+    "h": 236
+   },
+   "duration": 33
+  },
+  {
+   "filename": "blight-seed 34",
+   "frame": {
+    "x": 544,
+    "y": 472,
+    "w": 272,
+    "h": 236
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 272,
+    "h": 236
+   },
+   "sourceSize": {
+    "w": 272,
+    "h": 236
+   },
+   "duration": 33
+  },
+  {
+   "filename": "blight-seed 35",
+   "frame": {
+    "x": 816,
+    "y": 472,
+    "w": 272,
+    "h": 236
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 272,
+    "h": 236
+   },
+   "sourceSize": {
+    "w": 272,
+    "h": 236
+   },
+   "duration": 33
+  },
+  {
+   "filename": "blight-seed 36",
+   "frame": {
+    "x": 1088,
+    "y": 472,
+    "w": 272,
+    "h": 236
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 272,
+    "h": 236
+   },
+   "sourceSize": {
+    "w": 272,
+    "h": 236
+   },
+   "duration": 33
+  },
+  {
+   "filename": "blight-seed 37",
+   "frame": {
+    "x": 1360,
+    "y": 472,
+    "w": 272,
+    "h": 236
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 272,
+    "h": 236
+   },
+   "sourceSize": {
+    "w": 272,
+    "h": 236
+   },
+   "duration": 33
+  },
+  {
+   "filename": "blight-seed 38",
+   "frame": {
+    "x": 1632,
+    "y": 472,
+    "w": 272,
+    "h": 236
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 272,
+    "h": 236
+   },
+   "sourceSize": {
+    "w": 272,
+    "h": 236
+   },
+   "duration": 33
+  },
+  {
+   "filename": "blight-seed 39",
+   "frame": {
+    "x": 1904,
+    "y": 472,
+    "w": 272,
+    "h": 236
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 272,
+    "h": 236
+   },
+   "sourceSize": {
+    "w": 272,
+    "h": 236
+   },
+   "duration": 33
+  },
+  {
+   "filename": "blight-seed 40",
+   "frame": {
+    "x": 2176,
+    "y": 472,
+    "w": 272,
+    "h": 236
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 272,
+    "h": 236
+   },
+   "sourceSize": {
+    "w": 272,
+    "h": 236
+   },
+   "duration": 33
+  },
+  {
+   "filename": "blight-seed 41",
+   "frame": {
+    "x": 2448,
+    "y": 472,
+    "w": 272,
+    "h": 236
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 272,
+    "h": 236
+   },
+   "sourceSize": {
+    "w": 272,
+    "h": 236
+   },
+   "duration": 33
+  },
+  {
+   "filename": "blight-seed 42",
+   "frame": {
+    "x": 2720,
+    "y": 472,
+    "w": 272,
+    "h": 236
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 272,
+    "h": 236
+   },
+   "sourceSize": {
+    "w": 272,
+    "h": 236
+   },
+   "duration": 33
+  },
+  {
+   "filename": "blight-seed 43",
+   "frame": {
+    "x": 2992,
+    "y": 472,
+    "w": 272,
+    "h": 236
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 272,
+    "h": 236
+   },
+   "sourceSize": {
+    "w": 272,
+    "h": 236
+   },
+   "duration": 33
+  },
+  {
+   "filename": "blight-seed 44",
+   "frame": {
+    "x": 3264,
+    "y": 472,
+    "w": 272,
+    "h": 236
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 272,
+    "h": 236
+   },
+   "sourceSize": {
+    "w": 272,
+    "h": 236
+   },
+   "duration": 33
+  },
+  {
+   "filename": "blight-seed 45",
+   "frame": {
+    "x": 3536,
+    "y": 472,
+    "w": 272,
+    "h": 236
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 272,
+    "h": 236
+   },
+   "sourceSize": {
+    "w": 272,
+    "h": 236
+   },
+   "duration": 33
+  },
+  {
+   "filename": "blight-seed 46",
+   "frame": {
+    "x": 3808,
+    "y": 472,
+    "w": 272,
+    "h": 236
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 272,
+    "h": 236
+   },
+   "sourceSize": {
+    "w": 272,
+    "h": 236
+   },
+   "duration": 33
+  },
+  {
+   "filename": "blight-seed 47",
+   "frame": {
+    "x": 4080,
+    "y": 472,
+    "w": 272,
+    "h": 236
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 272,
+    "h": 236
+   },
+   "sourceSize": {
+    "w": 272,
+    "h": 236
+   },
+   "duration": 33
+  },
+  {
+   "filename": "blight-seed 48",
+   "frame": {
+    "x": 0,
+    "y": 708,
+    "w": 272,
+    "h": 236
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 272,
+    "h": 236
+   },
+   "sourceSize": {
+    "w": 272,
+    "h": 236
+   },
+   "duration": 33
+  },
+  {
+   "filename": "blight-seed 49",
+   "frame": {
+    "x": 272,
+    "y": 708,
+    "w": 272,
+    "h": 236
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 272,
+    "h": 236
+   },
+   "sourceSize": {
+    "w": 272,
+    "h": 236
+   },
+   "duration": 33
+  },
+  {
+   "filename": "blight-seed 50",
+   "frame": {
+    "x": 544,
+    "y": 708,
+    "w": 272,
+    "h": 236
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 272,
+    "h": 236
+   },
+   "sourceSize": {
+    "w": 272,
+    "h": 236
+   },
+   "duration": 33
+  },
+  {
+   "filename": "blight-seed 51",
+   "frame": {
+    "x": 816,
+    "y": 708,
+    "w": 272,
+    "h": 236
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 272,
+    "h": 236
+   },
+   "sourceSize": {
+    "w": 272,
+    "h": 236
+   },
+   "duration": 33
+  },
+  {
+   "filename": "blight-seed 52",
+   "frame": {
+    "x": 1088,
+    "y": 708,
+    "w": 272,
+    "h": 236
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 272,
+    "h": 236
+   },
+   "sourceSize": {
+    "w": 272,
+    "h": 236
+   },
+   "duration": 33
+  },
+  {
+   "filename": "blight-seed 53",
+   "frame": {
+    "x": 1360,
+    "y": 708,
+    "w": 272,
+    "h": 236
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 272,
+    "h": 236
+   },
+   "sourceSize": {
+    "w": 272,
+    "h": 236
+   },
+   "duration": 33
+  },
+  {
+   "filename": "blight-seed 54",
+   "frame": {
+    "x": 1632,
+    "y": 708,
+    "w": 272,
+    "h": 236
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 272,
+    "h": 236
+   },
+   "sourceSize": {
+    "w": 272,
+    "h": 236
+   },
+   "duration": 33
+  },
+  {
+   "filename": "blight-seed 55",
+   "frame": {
+    "x": 1904,
+    "y": 708,
+    "w": 272,
+    "h": 236
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 272,
+    "h": 236
+   },
+   "sourceSize": {
+    "w": 272,
+    "h": 236
+   },
+   "duration": 33
+  },
+  {
+   "filename": "blight-seed 56",
+   "frame": {
+    "x": 2176,
+    "y": 708,
+    "w": 272,
+    "h": 236
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 272,
+    "h": 236
+   },
+   "sourceSize": {
+    "w": 272,
+    "h": 236
+   },
+   "duration": 33
+  },
+  {
+   "filename": "blight-seed 57",
+   "frame": {
+    "x": 2448,
+    "y": 708,
+    "w": 272,
+    "h": 236
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 272,
+    "h": 236
+   },
+   "sourceSize": {
+    "w": 272,
+    "h": 236
+   },
+   "duration": 33
+  },
+  {
+   "filename": "blight-seed 58",
+   "frame": {
+    "x": 2720,
+    "y": 708,
+    "w": 272,
+    "h": 236
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 272,
+    "h": 236
+   },
+   "sourceSize": {
+    "w": 272,
+    "h": 236
+   },
+   "duration": 33
+  },
+  {
+   "filename": "blight-seed 59",
+   "frame": {
+    "x": 2992,
+    "y": 708,
+    "w": 272,
+    "h": 236
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 272,
+    "h": 236
+   },
+   "sourceSize": {
+    "w": 272,
+    "h": 236
+   },
+   "duration": 33
+  },
+  {
+   "filename": "blight-seed 60",
+   "frame": {
+    "x": 3264,
+    "y": 708,
+    "w": 272,
+    "h": 236
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 272,
+    "h": 236
+   },
+   "sourceSize": {
+    "w": 272,
+    "h": 236
+   },
+   "duration": 33
+  },
+  {
+   "filename": "blight-seed 61",
+   "frame": {
+    "x": 3536,
+    "y": 708,
+    "w": 272,
+    "h": 236
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 272,
+    "h": 236
+   },
+   "sourceSize": {
+    "w": 272,
+    "h": 236
+   },
+   "duration": 33
+  },
+  {
+   "filename": "blight-seed 62",
+   "frame": {
+    "x": 3808,
+    "y": 708,
+    "w": 272,
+    "h": 236
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 272,
+    "h": 236
+   },
+   "sourceSize": {
+    "w": 272,
+    "h": 236
+   },
+   "duration": 33
+  },
+  {
+   "filename": "blight-seed 63",
+   "frame": {
+    "x": 4080,
+    "y": 708,
+    "w": 272,
+    "h": 236
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 272,
+    "h": 236
+   },
+   "sourceSize": {
+    "w": 272,
+    "h": 236
+   },
+   "duration": 33
+  },
+  {
+   "filename": "blight-seed 64",
+   "frame": {
+    "x": 0,
+    "y": 944,
+    "w": 272,
+    "h": 236
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 272,
+    "h": 236
+   },
+   "sourceSize": {
+    "w": 272,
+    "h": 236
+   },
+   "duration": 33
+  },
+  {
+   "filename": "blight-seed 65",
+   "frame": {
+    "x": 272,
+    "y": 944,
+    "w": 272,
+    "h": 236
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 272,
+    "h": 236
+   },
+   "sourceSize": {
+    "w": 272,
+    "h": 236
+   },
+   "duration": 33
+  },
+  {
+   "filename": "blight-seed 66",
+   "frame": {
+    "x": 544,
+    "y": 944,
+    "w": 272,
+    "h": 236
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 272,
+    "h": 236
+   },
+   "sourceSize": {
+    "w": 272,
+    "h": 236
+   },
+   "duration": 33
+  },
+  {
+   "filename": "blight-seed 67",
+   "frame": {
+    "x": 816,
+    "y": 944,
+    "w": 272,
+    "h": 236
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 272,
+    "h": 236
+   },
+   "sourceSize": {
+    "w": 272,
+    "h": 236
+   },
+   "duration": 33
+  },
+  {
+   "filename": "blight-seed 68",
+   "frame": {
+    "x": 1088,
+    "y": 944,
+    "w": 272,
+    "h": 236
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 272,
+    "h": 236
+   },
+   "sourceSize": {
+    "w": 272,
+    "h": 236
+   },
+   "duration": 33
+  },
+  {
+   "filename": "blight-seed 69",
+   "frame": {
+    "x": 1360,
+    "y": 944,
+    "w": 272,
+    "h": 236
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 272,
+    "h": 236
+   },
+   "sourceSize": {
+    "w": 272,
+    "h": 236
+   },
+   "duration": 33
+  },
+  {
+   "filename": "blight-seed 70",
+   "frame": {
+    "x": 1632,
+    "y": 944,
+    "w": 272,
+    "h": 236
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 272,
+    "h": 236
+   },
+   "sourceSize": {
+    "w": 272,
+    "h": 236
+   },
+   "duration": 33
+  },
+  {
+   "filename": "blight-seed 71",
+   "frame": {
+    "x": 1904,
+    "y": 944,
+    "w": 272,
+    "h": 236
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 272,
+    "h": 236
+   },
+   "sourceSize": {
+    "w": 272,
+    "h": 236
+   },
+   "duration": 33
+  },
+  {
+   "filename": "blight-seed 72",
+   "frame": {
+    "x": 2176,
+    "y": 944,
+    "w": 272,
+    "h": 236
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 272,
+    "h": 236
+   },
+   "sourceSize": {
+    "w": 272,
+    "h": 236
+   },
+   "duration": 33
+  },
+  {
+   "filename": "blight-seed 73",
+   "frame": {
+    "x": 2448,
+    "y": 944,
+    "w": 272,
+    "h": 236
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 272,
+    "h": 236
+   },
+   "sourceSize": {
+    "w": 272,
+    "h": 236
+   },
+   "duration": 33
+  },
+  {
+   "filename": "blight-seed 74",
+   "frame": {
+    "x": 2720,
+    "y": 944,
+    "w": 272,
+    "h": 236
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 272,
+    "h": 236
+   },
+   "sourceSize": {
+    "w": 272,
+    "h": 236
+   },
+   "duration": 33
+  },
+  {
+   "filename": "blight-seed 75",
+   "frame": {
+    "x": 2992,
+    "y": 944,
+    "w": 272,
+    "h": 236
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 272,
+    "h": 236
+   },
+   "sourceSize": {
+    "w": 272,
+    "h": 236
+   },
+   "duration": 33
+  },
+  {
+   "filename": "blight-seed 76",
+   "frame": {
+    "x": 3264,
+    "y": 944,
+    "w": 272,
+    "h": 236
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 272,
+    "h": 236
+   },
+   "sourceSize": {
+    "w": 272,
+    "h": 236
+   },
+   "duration": 33
+  },
+  {
+   "filename": "blight-seed 77",
+   "frame": {
+    "x": 3536,
+    "y": 944,
+    "w": 272,
+    "h": 236
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 272,
+    "h": 236
+   },
+   "sourceSize": {
+    "w": 272,
+    "h": 236
+   },
+   "duration": 33
+  },
+  {
+   "filename": "blight-seed 78",
+   "frame": {
+    "x": 3808,
+    "y": 944,
+    "w": 272,
+    "h": 236
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 272,
+    "h": 236
+   },
+   "sourceSize": {
+    "w": 272,
+    "h": 236
+   },
+   "duration": 33
+  },
+  {
+   "filename": "blight-seed 79",
+   "frame": {
+    "x": 4080,
+    "y": 944,
+    "w": 272,
+    "h": 236
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 272,
+    "h": 236
+   },
+   "sourceSize": {
+    "w": 272,
+    "h": 236
+   },
+   "duration": 33
+  },
+  {
+   "filename": "blight-seed 80",
+   "frame": {
+    "x": 0,
+    "y": 1180,
+    "w": 272,
+    "h": 236
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 272,
+    "h": 236
+   },
+   "sourceSize": {
+    "w": 272,
+    "h": 236
+   },
+   "duration": 33
+  },
+  {
+   "filename": "blight-seed 81",
+   "frame": {
+    "x": 272,
+    "y": 1180,
+    "w": 272,
+    "h": 236
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 272,
+    "h": 236
+   },
+   "sourceSize": {
+    "w": 272,
+    "h": 236
+   },
+   "duration": 33
+  },
+  {
+   "filename": "blight-seed 82",
+   "frame": {
+    "x": 544,
+    "y": 1180,
+    "w": 272,
+    "h": 236
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 272,
+    "h": 236
+   },
+   "sourceSize": {
+    "w": 272,
+    "h": 236
+   },
+   "duration": 33
+  },
+  {
+   "filename": "blight-seed 83",
+   "frame": {
+    "x": 816,
+    "y": 1180,
+    "w": 272,
+    "h": 236
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 272,
+    "h": 236
+   },
+   "sourceSize": {
+    "w": 272,
+    "h": 236
+   },
+   "duration": 33
+  },
+  {
+   "filename": "blight-seed 84",
+   "frame": {
+    "x": 1088,
+    "y": 1180,
+    "w": 272,
+    "h": 236
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 272,
+    "h": 236
+   },
+   "sourceSize": {
+    "w": 272,
+    "h": 236
+   },
+   "duration": 33
+  },
+  {
+   "filename": "blight-seed 85",
+   "frame": {
+    "x": 1360,
+    "y": 1180,
+    "w": 272,
+    "h": 236
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 272,
+    "h": 236
+   },
+   "sourceSize": {
+    "w": 272,
+    "h": 236
+   },
+   "duration": 33
+  },
+  {
+   "filename": "blight-seed 86",
+   "frame": {
+    "x": 1632,
+    "y": 1180,
+    "w": 272,
+    "h": 236
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 272,
+    "h": 236
+   },
+   "sourceSize": {
+    "w": 272,
+    "h": 236
+   },
+   "duration": 33
+  },
+  {
+   "filename": "blight-seed 87",
+   "frame": {
+    "x": 1904,
+    "y": 1180,
+    "w": 272,
+    "h": 236
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 272,
+    "h": 236
+   },
+   "sourceSize": {
+    "w": 272,
+    "h": 236
+   },
+   "duration": 33
+  },
+  {
+   "filename": "blight-seed 88",
+   "frame": {
+    "x": 2176,
+    "y": 1180,
+    "w": 272,
+    "h": 236
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 272,
+    "h": 236
+   },
+   "sourceSize": {
+    "w": 272,
+    "h": 236
+   },
+   "duration": 33
+  },
+  {
+   "filename": "blight-seed 89",
+   "frame": {
+    "x": 2448,
+    "y": 1180,
+    "w": 272,
+    "h": 236
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 272,
+    "h": 236
+   },
+   "sourceSize": {
+    "w": 272,
+    "h": 236
+   },
+   "duration": 33
+  },
+  {
+   "filename": "blight-seed 90",
+   "frame": {
+    "x": 2720,
+    "y": 1180,
+    "w": 272,
+    "h": 236
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 272,
+    "h": 236
+   },
+   "sourceSize": {
+    "w": 272,
+    "h": 236
+   },
+   "duration": 33
+  },
+  {
+   "filename": "blight-seed 91",
+   "frame": {
+    "x": 2992,
+    "y": 1180,
+    "w": 272,
+    "h": 236
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 272,
+    "h": 236
+   },
+   "sourceSize": {
+    "w": 272,
+    "h": 236
+   },
+   "duration": 33
+  },
+  {
+   "filename": "blight-seed 92",
+   "frame": {
+    "x": 3264,
+    "y": 1180,
+    "w": 272,
+    "h": 236
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 272,
+    "h": 236
+   },
+   "sourceSize": {
+    "w": 272,
+    "h": 236
+   },
+   "duration": 33
+  },
+  {
+   "filename": "blight-seed 93",
+   "frame": {
+    "x": 3536,
+    "y": 1180,
+    "w": 272,
+    "h": 236
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 272,
+    "h": 236
+   },
+   "sourceSize": {
+    "w": 272,
+    "h": 236
+   },
+   "duration": 33
+  },
+  {
+   "filename": "blight-seed 94",
+   "frame": {
+    "x": 3808,
+    "y": 1180,
+    "w": 272,
+    "h": 236
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 272,
+    "h": 236
+   },
+   "sourceSize": {
+    "w": 272,
+    "h": 236
+   },
+   "duration": 33
+  },
+  {
+   "filename": "blight-seed 95",
+   "frame": {
+    "x": 4080,
+    "y": 1180,
+    "w": 272,
+    "h": 236
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 272,
+    "h": 236
+   },
+   "sourceSize": {
+    "w": 272,
+    "h": 236
+   },
+   "duration": 33
+  },
+  {
+   "filename": "blight-seed 96",
+   "frame": {
+    "x": 0,
+    "y": 1416,
+    "w": 272,
+    "h": 236
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 272,
+    "h": 236
+   },
+   "sourceSize": {
+    "w": 272,
+    "h": 236
+   },
+   "duration": 33
+  },
+  {
+   "filename": "blight-seed 97",
+   "frame": {
+    "x": 272,
+    "y": 1416,
+    "w": 272,
+    "h": 236
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 272,
+    "h": 236
+   },
+   "sourceSize": {
+    "w": 272,
+    "h": 236
+   },
+   "duration": 33
+  },
+  {
+   "filename": "blight-seed 98",
+   "frame": {
+    "x": 544,
+    "y": 1416,
+    "w": 272,
+    "h": 236
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 272,
+    "h": 236
+   },
+   "sourceSize": {
+    "w": 272,
+    "h": 236
+   },
+   "duration": 33
+  },
+  {
+   "filename": "blight-seed 99",
+   "frame": {
+    "x": 816,
+    "y": 1416,
+    "w": 272,
+    "h": 236
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 272,
+    "h": 236
+   },
+   "sourceSize": {
+    "w": 272,
+    "h": 236
+   },
+   "duration": 33
+  },
+  {
+   "filename": "blight-seed 100",
+   "frame": {
+    "x": 1088,
+    "y": 1416,
+    "w": 272,
+    "h": 236
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 272,
+    "h": 236
+   },
+   "sourceSize": {
+    "w": 272,
+    "h": 236
+   },
+   "duration": 33
+  },
+  {
+   "filename": "blight-seed 101",
+   "frame": {
+    "x": 1360,
+    "y": 1416,
+    "w": 272,
+    "h": 236
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 272,
+    "h": 236
+   },
+   "sourceSize": {
+    "w": 272,
+    "h": 236
+   },
+   "duration": 33
+  },
+  {
+   "filename": "blight-seed 102",
+   "frame": {
+    "x": 1632,
+    "y": 1416,
+    "w": 272,
+    "h": 236
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 272,
+    "h": 236
+   },
+   "sourceSize": {
+    "w": 272,
+    "h": 236
+   },
+   "duration": 33
+  },
+  {
+   "filename": "blight-seed 103",
+   "frame": {
+    "x": 1904,
+    "y": 1416,
+    "w": 272,
+    "h": 236
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 272,
+    "h": 236
+   },
+   "sourceSize": {
+    "w": 272,
+    "h": 236
+   },
+   "duration": 33
+  },
+  {
+   "filename": "blight-seed 104",
+   "frame": {
+    "x": 2176,
+    "y": 1416,
+    "w": 272,
+    "h": 236
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 272,
+    "h": 236
+   },
+   "sourceSize": {
+    "w": 272,
+    "h": 236
+   },
+   "duration": 33
+  },
+  {
+   "filename": "blight-seed 105",
+   "frame": {
+    "x": 2448,
+    "y": 1416,
+    "w": 272,
+    "h": 236
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 272,
+    "h": 236
+   },
+   "sourceSize": {
+    "w": 272,
+    "h": 236
+   },
+   "duration": 33
+  },
+  {
+   "filename": "blight-seed 106",
+   "frame": {
+    "x": 2720,
+    "y": 1416,
+    "w": 272,
+    "h": 236
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 272,
+    "h": 236
+   },
+   "sourceSize": {
+    "w": 272,
+    "h": 236
+   },
+   "duration": 33
+  },
+  {
+   "filename": "blight-seed 107",
+   "frame": {
+    "x": 2992,
+    "y": 1416,
+    "w": 272,
+    "h": 236
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 272,
+    "h": 236
+   },
+   "sourceSize": {
+    "w": 272,
+    "h": 236
+   },
+   "duration": 33
+  },
+  {
+   "filename": "blight-seed 108",
+   "frame": {
+    "x": 3264,
+    "y": 1416,
+    "w": 272,
+    "h": 236
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 272,
+    "h": 236
+   },
+   "sourceSize": {
+    "w": 272,
+    "h": 236
+   },
+   "duration": 33
+  },
+  {
+   "filename": "blight-seed 109",
+   "frame": {
+    "x": 3536,
+    "y": 1416,
+    "w": 272,
+    "h": 236
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 272,
+    "h": 236
+   },
+   "sourceSize": {
+    "w": 272,
+    "h": 236
+   },
+   "duration": 33
+  },
+  {
+   "filename": "blight-seed 110",
+   "frame": {
+    "x": 3808,
+    "y": 1416,
+    "w": 272,
+    "h": 236
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 272,
+    "h": 236
+   },
+   "sourceSize": {
+    "w": 272,
+    "h": 236
+   },
+   "duration": 33
+  },
+  {
+   "filename": "blight-seed 111",
+   "frame": {
+    "x": 4080,
+    "y": 1416,
+    "w": 272,
+    "h": 236
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 272,
+    "h": 236
+   },
+   "sourceSize": {
+    "w": 272,
+    "h": 236
+   },
+   "duration": 33
+  },
+  {
+   "filename": "blight-seed 112",
+   "frame": {
+    "x": 0,
+    "y": 1652,
+    "w": 272,
+    "h": 236
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 272,
+    "h": 236
+   },
+   "sourceSize": {
+    "w": 272,
+    "h": 236
+   },
+   "duration": 33
+  },
+  {
+   "filename": "blight-seed 113",
+   "frame": {
+    "x": 272,
+    "y": 1652,
+    "w": 272,
+    "h": 236
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 272,
+    "h": 236
+   },
+   "sourceSize": {
+    "w": 272,
+    "h": 236
+   },
+   "duration": 33
+  },
+  {
+   "filename": "blight-seed 114",
+   "frame": {
+    "x": 544,
+    "y": 1652,
+    "w": 272,
+    "h": 236
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 272,
+    "h": 236
+   },
+   "sourceSize": {
+    "w": 272,
+    "h": 236
+   },
+   "duration": 33
+  },
+  {
+   "filename": "blight-seed 115",
+   "frame": {
+    "x": 816,
+    "y": 1652,
+    "w": 272,
+    "h": 236
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 272,
+    "h": 236
+   },
+   "sourceSize": {
+    "w": 272,
+    "h": 236
+   },
+   "duration": 33
+  },
+  {
+   "filename": "blight-seed 116",
+   "frame": {
+    "x": 1088,
+    "y": 1652,
+    "w": 272,
+    "h": 236
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 272,
+    "h": 236
+   },
+   "sourceSize": {
+    "w": 272,
+    "h": 236
+   },
+   "duration": 33
+  },
+  {
+   "filename": "blight-seed 117",
+   "frame": {
+    "x": 1360,
+    "y": 1652,
+    "w": 272,
+    "h": 236
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 272,
+    "h": 236
+   },
+   "sourceSize": {
+    "w": 272,
+    "h": 236
+   },
+   "duration": 33
+  },
+  {
+   "filename": "blight-seed 118",
+   "frame": {
+    "x": 1632,
+    "y": 1652,
+    "w": 272,
+    "h": 236
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 272,
+    "h": 236
+   },
+   "sourceSize": {
+    "w": 272,
+    "h": 236
+   },
+   "duration": 33
+  },
+  {
+   "filename": "blight-seed 119",
+   "frame": {
+    "x": 1904,
+    "y": 1652,
+    "w": 272,
+    "h": 236
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 272,
+    "h": 236
+   },
+   "sourceSize": {
+    "w": 272,
+    "h": 236
+   },
+   "duration": 33
+  },
+  {
+   "filename": "blight-seed 120",
+   "frame": {
+    "x": 2176,
+    "y": 1652,
+    "w": 272,
+    "h": 236
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 272,
+    "h": 236
+   },
+   "sourceSize": {
+    "w": 272,
+    "h": 236
+   },
+   "duration": 33
+  },
+  {
+   "filename": "blight-seed 121",
+   "frame": {
+    "x": 2448,
+    "y": 1652,
+    "w": 272,
+    "h": 236
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 272,
+    "h": 236
+   },
+   "sourceSize": {
+    "w": 272,
+    "h": 236
+   },
+   "duration": 33
+  },
+  {
+   "filename": "blight-seed 122",
+   "frame": {
+    "x": 2720,
+    "y": 1652,
+    "w": 272,
+    "h": 236
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 272,
+    "h": 236
+   },
+   "sourceSize": {
+    "w": 272,
+    "h": 236
+   },
+   "duration": 33
+  },
+  {
+   "filename": "blight-seed 123",
+   "frame": {
+    "x": 2992,
+    "y": 1652,
+    "w": 272,
+    "h": 236
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 272,
+    "h": 236
+   },
+   "sourceSize": {
+    "w": 272,
+    "h": 236
+   },
+   "duration": 33
+  },
+  {
+   "filename": "blight-seed 124",
+   "frame": {
+    "x": 3264,
+    "y": 1652,
+    "w": 272,
+    "h": 236
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 272,
+    "h": 236
+   },
+   "sourceSize": {
+    "w": 272,
+    "h": 236
+   },
+   "duration": 33
+  },
+  {
+   "filename": "blight-seed 125",
+   "frame": {
+    "x": 3536,
+    "y": 1652,
+    "w": 272,
+    "h": 236
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 272,
+    "h": 236
+   },
+   "sourceSize": {
+    "w": 272,
+    "h": 236
+   },
+   "duration": 33
+  },
+  {
+   "filename": "blight-seed 126",
+   "frame": {
+    "x": 3808,
+    "y": 1652,
+    "w": 272,
+    "h": 236
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 272,
+    "h": 236
+   },
+   "sourceSize": {
+    "w": 272,
+    "h": 236
+   },
+   "duration": 33
+  },
+  {
+   "filename": "blight-seed 127",
+   "frame": {
+    "x": 4080,
+    "y": 1652,
+    "w": 272,
+    "h": 236
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 272,
+    "h": 236
+   },
+   "sourceSize": {
+    "w": 272,
+    "h": 236
+   },
+   "duration": 33
+  },
+  {
+   "filename": "blight-seed 128",
+   "frame": {
+    "x": 0,
+    "y": 1888,
+    "w": 272,
+    "h": 236
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 272,
+    "h": 236
+   },
+   "sourceSize": {
+    "w": 272,
+    "h": 236
+   },
+   "duration": 33
+  },
+  {
+   "filename": "blight-seed 129",
+   "frame": {
+    "x": 272,
+    "y": 1888,
+    "w": 272,
+    "h": 236
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 272,
+    "h": 236
+   },
+   "sourceSize": {
+    "w": 272,
+    "h": 236
+   },
+   "duration": 33
+  },
+  {
+   "filename": "blight-seed 130",
+   "frame": {
+    "x": 544,
+    "y": 1888,
+    "w": 272,
+    "h": 236
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 272,
+    "h": 236
+   },
+   "sourceSize": {
+    "w": 272,
+    "h": 236
+   },
+   "duration": 33
+  },
+  {
+   "filename": "blight-seed 131",
+   "frame": {
+    "x": 816,
+    "y": 1888,
+    "w": 272,
+    "h": 236
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 272,
+    "h": 236
+   },
+   "sourceSize": {
+    "w": 272,
+    "h": 236
+   },
+   "duration": 33
+  },
+  {
+   "filename": "blight-seed 132",
+   "frame": {
+    "x": 1088,
+    "y": 1888,
+    "w": 272,
+    "h": 236
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 272,
+    "h": 236
+   },
+   "sourceSize": {
+    "w": 272,
+    "h": 236
+   },
+   "duration": 33
+  },
+  {
+   "filename": "blight-seed 133",
+   "frame": {
+    "x": 1360,
+    "y": 1888,
+    "w": 272,
+    "h": 236
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 272,
+    "h": 236
+   },
+   "sourceSize": {
+    "w": 272,
+    "h": 236
+   },
+   "duration": 33
+  },
+  {
+   "filename": "blight-seed 134",
+   "frame": {
+    "x": 1632,
+    "y": 1888,
+    "w": 272,
+    "h": 236
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 272,
+    "h": 236
+   },
+   "sourceSize": {
+    "w": 272,
+    "h": 236
+   },
+   "duration": 33
+  },
+  {
+   "filename": "blight-seed 135",
+   "frame": {
+    "x": 1904,
+    "y": 1888,
+    "w": 272,
+    "h": 236
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 272,
+    "h": 236
+   },
+   "sourceSize": {
+    "w": 272,
+    "h": 236
+   },
+   "duration": 33
+  },
+  {
+   "filename": "blight-seed 136",
+   "frame": {
+    "x": 2176,
+    "y": 1888,
+    "w": 272,
+    "h": 236
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 272,
+    "h": 236
+   },
+   "sourceSize": {
+    "w": 272,
+    "h": 236
+   },
+   "duration": 33
+  },
+  {
+   "filename": "blight-seed 137",
+   "frame": {
+    "x": 2448,
+    "y": 1888,
+    "w": 272,
+    "h": 236
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 272,
+    "h": 236
+   },
+   "sourceSize": {
+    "w": 272,
+    "h": 236
+   },
+   "duration": 33
+  },
+  {
+   "filename": "blight-seed 138",
+   "frame": {
+    "x": 2720,
+    "y": 1888,
+    "w": 272,
+    "h": 236
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 272,
+    "h": 236
+   },
+   "sourceSize": {
+    "w": 272,
+    "h": 236
+   },
+   "duration": 33
+  },
+  {
+   "filename": "blight-seed 139",
+   "frame": {
+    "x": 2992,
+    "y": 1888,
+    "w": 272,
+    "h": 236
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 272,
+    "h": 236
+   },
+   "sourceSize": {
+    "w": 272,
+    "h": 236
+   },
+   "duration": 33
+  },
+  {
+   "filename": "blight-seed 140",
+   "frame": {
+    "x": 3264,
+    "y": 1888,
+    "w": 272,
+    "h": 236
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 272,
+    "h": 236
+   },
+   "sourceSize": {
+    "w": 272,
+    "h": 236
+   },
+   "duration": 33
+  },
+  {
+   "filename": "blight-seed 141",
+   "frame": {
+    "x": 3536,
+    "y": 1888,
+    "w": 272,
+    "h": 236
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 272,
+    "h": 236
+   },
+   "sourceSize": {
+    "w": 272,
+    "h": 236
+   },
+   "duration": 33
+  },
+  {
+   "filename": "blight-seed 142",
+   "frame": {
+    "x": 3808,
+    "y": 1888,
+    "w": 272,
+    "h": 236
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 272,
+    "h": 236
+   },
+   "sourceSize": {
+    "w": 272,
+    "h": 236
+   },
+   "duration": 33
+  },
+  {
+   "filename": "blight-seed 143",
+   "frame": {
+    "x": 4080,
+    "y": 1888,
+    "w": 272,
+    "h": 236
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 272,
+    "h": 236
+   },
+   "sourceSize": {
+    "w": 272,
+    "h": 236
+   },
+   "duration": 33
+  },
+  {
+   "filename": "blight-seed 144",
+   "frame": {
+    "x": 0,
+    "y": 2124,
+    "w": 272,
+    "h": 236
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 272,
+    "h": 236
+   },
+   "sourceSize": {
+    "w": 272,
+    "h": 236
+   },
+   "duration": 33
+  },
+  {
+   "filename": "blight-seed 145",
+   "frame": {
+    "x": 272,
+    "y": 2124,
+    "w": 272,
+    "h": 236
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 272,
+    "h": 236
+   },
+   "sourceSize": {
+    "w": 272,
+    "h": 236
+   },
+   "duration": 33
+  },
+  {
+   "filename": "blight-seed 146",
+   "frame": {
+    "x": 544,
+    "y": 2124,
+    "w": 272,
+    "h": 236
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 272,
+    "h": 236
+   },
+   "sourceSize": {
+    "w": 272,
+    "h": 236
+   },
+   "duration": 33
+  },
+  {
+   "filename": "blight-seed 147",
+   "frame": {
+    "x": 816,
+    "y": 2124,
+    "w": 272,
+    "h": 236
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 272,
+    "h": 236
+   },
+   "sourceSize": {
+    "w": 272,
+    "h": 236
+   },
+   "duration": 33
+  },
+  {
+   "filename": "blight-seed 148",
+   "frame": {
+    "x": 1088,
+    "y": 2124,
+    "w": 272,
+    "h": 236
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 272,
+    "h": 236
+   },
+   "sourceSize": {
+    "w": 272,
+    "h": 236
+   },
+   "duration": 33
+  },
+  {
+   "filename": "blight-seed 149",
+   "frame": {
+    "x": 1360,
+    "y": 2124,
+    "w": 272,
+    "h": 236
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 272,
+    "h": 236
+   },
+   "sourceSize": {
+    "w": 272,
+    "h": 236
+   },
+   "duration": 33
+  },
+  {
+   "filename": "blight-seed 150",
+   "frame": {
+    "x": 1632,
+    "y": 2124,
+    "w": 272,
+    "h": 236
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 272,
+    "h": 236
+   },
+   "sourceSize": {
+    "w": 272,
+    "h": 236
+   },
+   "duration": 33
+  },
+  {
+   "filename": "blight-seed 151",
+   "frame": {
+    "x": 1904,
+    "y": 2124,
+    "w": 272,
+    "h": 236
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 272,
+    "h": 236
+   },
+   "sourceSize": {
+    "w": 272,
+    "h": 236
+   },
+   "duration": 33
+  },
+  {
+   "filename": "blight-seed 152",
+   "frame": {
+    "x": 2176,
+    "y": 2124,
+    "w": 272,
+    "h": 236
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 272,
+    "h": 236
+   },
+   "sourceSize": {
+    "w": 272,
+    "h": 236
+   },
+   "duration": 33
+  },
+  {
+   "filename": "blight-seed 153",
+   "frame": {
+    "x": 2448,
+    "y": 2124,
+    "w": 272,
+    "h": 236
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 272,
+    "h": 236
+   },
+   "sourceSize": {
+    "w": 272,
+    "h": 236
+   },
+   "duration": 33
+  },
+  {
+   "filename": "blight-seed 154",
+   "frame": {
+    "x": 2720,
+    "y": 2124,
+    "w": 272,
+    "h": 236
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 272,
+    "h": 236
+   },
+   "sourceSize": {
+    "w": 272,
+    "h": 236
+   },
+   "duration": 33
+  },
+  {
+   "filename": "blight-seed 155",
+   "frame": {
+    "x": 2992,
+    "y": 2124,
+    "w": 272,
+    "h": 236
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 272,
+    "h": 236
+   },
+   "sourceSize": {
+    "w": 272,
+    "h": 236
+   },
+   "duration": 33
+  },
+  {
+   "filename": "blight-seed 156",
+   "frame": {
+    "x": 3264,
+    "y": 2124,
+    "w": 272,
+    "h": 236
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 272,
+    "h": 236
+   },
+   "sourceSize": {
+    "w": 272,
+    "h": 236
+   },
+   "duration": 33
+  },
+  {
+   "filename": "blight-seed 157",
+   "frame": {
+    "x": 3536,
+    "y": 2124,
+    "w": 272,
+    "h": 236
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 272,
+    "h": 236
+   },
+   "sourceSize": {
+    "w": 272,
+    "h": 236
+   },
+   "duration": 33
+  },
+  {
+   "filename": "blight-seed 158",
+   "frame": {
+    "x": 3808,
+    "y": 2124,
+    "w": 272,
+    "h": 236
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 272,
+    "h": 236
+   },
+   "sourceSize": {
+    "w": 272,
+    "h": 236
+   },
+   "duration": 33
+  },
+  {
+   "filename": "blight-seed 159",
+   "frame": {
+    "x": 4080,
+    "y": 2124,
+    "w": 272,
+    "h": 236
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 272,
+    "h": 236
+   },
+   "sourceSize": {
+    "w": 272,
+    "h": 236
+   },
+   "duration": 33
+  },
+  {
+   "filename": "blight-seed 160",
+   "frame": {
+    "x": 0,
+    "y": 2360,
+    "w": 272,
+    "h": 236
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 272,
+    "h": 236
+   },
+   "sourceSize": {
+    "w": 272,
+    "h": 236
+   },
+   "duration": 33
+  },
+  {
+   "filename": "blight-seed 161",
+   "frame": {
+    "x": 272,
+    "y": 2360,
+    "w": 272,
+    "h": 236
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 272,
+    "h": 236
+   },
+   "sourceSize": {
+    "w": 272,
+    "h": 236
+   },
+   "duration": 33
+  },
+  {
+   "filename": "blight-seed 162",
+   "frame": {
+    "x": 544,
+    "y": 2360,
+    "w": 272,
+    "h": 236
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 272,
+    "h": 236
+   },
+   "sourceSize": {
+    "w": 272,
+    "h": 236
+   },
+   "duration": 33
+  },
+  {
+   "filename": "blight-seed 163",
+   "frame": {
+    "x": 816,
+    "y": 2360,
+    "w": 272,
+    "h": 236
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 272,
+    "h": 236
+   },
+   "sourceSize": {
+    "w": 272,
+    "h": 236
+   },
+   "duration": 33
+  },
+  {
+   "filename": "blight-seed 164",
+   "frame": {
+    "x": 1088,
+    "y": 2360,
+    "w": 272,
+    "h": 236
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 272,
+    "h": 236
+   },
+   "sourceSize": {
+    "w": 272,
+    "h": 236
+   },
+   "duration": 33
+  },
+  {
+   "filename": "blight-seed 165",
+   "frame": {
+    "x": 1360,
+    "y": 2360,
+    "w": 272,
+    "h": 236
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 272,
+    "h": 236
+   },
+   "sourceSize": {
+    "w": 272,
+    "h": 236
+   },
+   "duration": 33
+  },
+  {
+   "filename": "blight-seed 166",
+   "frame": {
+    "x": 1632,
+    "y": 2360,
+    "w": 272,
+    "h": 236
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 272,
+    "h": 236
+   },
+   "sourceSize": {
+    "w": 272,
+    "h": 236
+   },
+   "duration": 33
+  },
+  {
+   "filename": "blight-seed 167",
+   "frame": {
+    "x": 1904,
+    "y": 2360,
+    "w": 272,
+    "h": 236
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 272,
+    "h": 236
+   },
+   "sourceSize": {
+    "w": 272,
+    "h": 236
+   },
+   "duration": 33
+  },
+  {
+   "filename": "blight-seed 168",
+   "frame": {
+    "x": 2176,
+    "y": 2360,
+    "w": 272,
+    "h": 236
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 272,
+    "h": 236
+   },
+   "sourceSize": {
+    "w": 272,
+    "h": 236
+   },
+   "duration": 33
+  },
+  {
+   "filename": "blight-seed 169",
+   "frame": {
+    "x": 2448,
+    "y": 2360,
+    "w": 272,
+    "h": 236
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 272,
+    "h": 236
+   },
+   "sourceSize": {
+    "w": 272,
+    "h": 236
+   },
+   "duration": 33
+  },
+  {
+   "filename": "blight-seed 170",
+   "frame": {
+    "x": 2720,
+    "y": 2360,
+    "w": 272,
+    "h": 236
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 272,
+    "h": 236
+   },
+   "sourceSize": {
+    "w": 272,
+    "h": 236
+   },
+   "duration": 33
+  },
+  {
+   "filename": "blight-seed 171",
+   "frame": {
+    "x": 2992,
+    "y": 2360,
+    "w": 272,
+    "h": 236
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 272,
+    "h": 236
+   },
+   "sourceSize": {
+    "w": 272,
+    "h": 236
+   },
+   "duration": 33
+  },
+  {
+   "filename": "blight-seed 172",
+   "frame": {
+    "x": 3264,
+    "y": 2360,
+    "w": 272,
+    "h": 236
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 272,
+    "h": 236
+   },
+   "sourceSize": {
+    "w": 272,
+    "h": 236
+   },
+   "duration": 33
+  },
+  {
+   "filename": "blight-seed 173",
+   "frame": {
+    "x": 3536,
+    "y": 2360,
+    "w": 272,
+    "h": 236
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 272,
+    "h": 236
+   },
+   "sourceSize": {
+    "w": 272,
+    "h": 236
+   },
+   "duration": 33
+  },
+  {
+   "filename": "blight-seed 174",
+   "frame": {
+    "x": 3808,
+    "y": 2360,
+    "w": 272,
+    "h": 236
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 272,
+    "h": 236
+   },
+   "sourceSize": {
+    "w": 272,
+    "h": 236
+   },
+   "duration": 33
+  },
+  {
+   "filename": "blight-seed 175",
+   "frame": {
+    "x": 4080,
+    "y": 2360,
+    "w": 272,
+    "h": 236
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 272,
+    "h": 236
+   },
+   "sourceSize": {
+    "w": 272,
+    "h": 236
+   },
+   "duration": 33
+  },
+  {
+   "filename": "blight-seed 176",
+   "frame": {
+    "x": 0,
+    "y": 2596,
+    "w": 272,
+    "h": 236
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 272,
+    "h": 236
+   },
+   "sourceSize": {
+    "w": 272,
+    "h": 236
+   },
+   "duration": 33
+  },
+  {
+   "filename": "blight-seed 177",
+   "frame": {
+    "x": 272,
+    "y": 2596,
+    "w": 272,
+    "h": 236
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 272,
+    "h": 236
+   },
+   "sourceSize": {
+    "w": 272,
+    "h": 236
+   },
+   "duration": 33
+  },
+  {
+   "filename": "blight-seed 178",
+   "frame": {
+    "x": 544,
+    "y": 2596,
+    "w": 272,
+    "h": 236
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 272,
+    "h": 236
+   },
+   "sourceSize": {
+    "w": 272,
+    "h": 236
+   },
+   "duration": 33
+  },
+  {
+   "filename": "blight-seed 179",
+   "frame": {
+    "x": 816,
+    "y": 2596,
+    "w": 272,
+    "h": 236
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 272,
+    "h": 236
+   },
+   "sourceSize": {
+    "w": 272,
+    "h": 236
+   },
+   "duration": 33
+  },
+  {
+   "filename": "blight-seed 180",
+   "frame": {
+    "x": 1088,
+    "y": 2596,
+    "w": 272,
+    "h": 236
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 272,
+    "h": 236
+   },
+   "sourceSize": {
+    "w": 272,
+    "h": 236
+   },
+   "duration": 33
+  },
+  {
+   "filename": "blight-seed 181",
+   "frame": {
+    "x": 1360,
+    "y": 2596,
+    "w": 272,
+    "h": 236
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 272,
+    "h": 236
+   },
+   "sourceSize": {
+    "w": 272,
+    "h": 236
+   },
+   "duration": 33
+  },
+  {
+   "filename": "blight-seed 182",
+   "frame": {
+    "x": 1632,
+    "y": 2596,
+    "w": 272,
+    "h": 236
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 272,
+    "h": 236
+   },
+   "sourceSize": {
+    "w": 272,
+    "h": 236
+   },
+   "duration": 33
+  },
+  {
+   "filename": "blight-seed 183",
+   "frame": {
+    "x": 1904,
+    "y": 2596,
+    "w": 272,
+    "h": 236
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 272,
+    "h": 236
+   },
+   "sourceSize": {
+    "w": 272,
+    "h": 236
+   },
+   "duration": 33
+  },
+  {
+   "filename": "blight-seed 184",
+   "frame": {
+    "x": 2176,
+    "y": 2596,
+    "w": 272,
+    "h": 236
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 272,
+    "h": 236
+   },
+   "sourceSize": {
+    "w": 272,
+    "h": 236
+   },
+   "duration": 33
+  },
+  {
+   "filename": "blight-seed 185",
+   "frame": {
+    "x": 2448,
+    "y": 2596,
+    "w": 272,
+    "h": 236
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 272,
+    "h": 236
+   },
+   "sourceSize": {
+    "w": 272,
+    "h": 236
+   },
+   "duration": 33
+  },
+  {
+   "filename": "blight-seed 186",
+   "frame": {
+    "x": 2720,
+    "y": 2596,
+    "w": 272,
+    "h": 236
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 272,
+    "h": 236
+   },
+   "sourceSize": {
+    "w": 272,
+    "h": 236
+   },
+   "duration": 33
+  },
+  {
+   "filename": "blight-seed 187",
+   "frame": {
+    "x": 2992,
+    "y": 2596,
+    "w": 272,
+    "h": 236
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 272,
+    "h": 236
+   },
+   "sourceSize": {
+    "w": 272,
+    "h": 236
+   },
+   "duration": 33
+  },
+  {
+   "filename": "blight-seed 188",
+   "frame": {
+    "x": 3264,
+    "y": 2596,
+    "w": 272,
+    "h": 236
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 272,
+    "h": 236
+   },
+   "sourceSize": {
+    "w": 272,
+    "h": 236
+   },
+   "duration": 33
+  },
+  {
+   "filename": "blight-seed 189",
+   "frame": {
+    "x": 3536,
+    "y": 2596,
+    "w": 272,
+    "h": 236
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 272,
+    "h": 236
+   },
+   "sourceSize": {
+    "w": 272,
+    "h": 236
+   },
+   "duration": 33
+  },
+  {
+   "filename": "blight-seed 190",
+   "frame": {
+    "x": 3808,
+    "y": 2596,
+    "w": 272,
+    "h": 236
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 272,
+    "h": 236
+   },
+   "sourceSize": {
+    "w": 272,
+    "h": 236
+   },
+   "duration": 33
+  },
+  {
+   "filename": "blight-seed 191",
+   "frame": {
+    "x": 4080,
+    "y": 2596,
+    "w": 272,
+    "h": 236
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 272,
+    "h": 236
+   },
+   "sourceSize": {
+    "w": 272,
+    "h": 236
+   },
+   "duration": 33
+  },
+  {
+   "filename": "blight-seed 192",
+   "frame": {
+    "x": 0,
+    "y": 2832,
+    "w": 272,
+    "h": 236
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 272,
+    "h": 236
+   },
+   "sourceSize": {
+    "w": 272,
+    "h": 236
+   },
+   "duration": 33
+  },
+  {
+   "filename": "blight-seed 193",
+   "frame": {
+    "x": 272,
+    "y": 2832,
+    "w": 272,
+    "h": 236
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 272,
+    "h": 236
+   },
+   "sourceSize": {
+    "w": 272,
+    "h": 236
+   },
+   "duration": 33
+  },
+  {
+   "filename": "blight-seed 194",
+   "frame": {
+    "x": 544,
+    "y": 2832,
+    "w": 272,
+    "h": 236
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 272,
+    "h": 236
+   },
+   "sourceSize": {
+    "w": 272,
+    "h": 236
+   },
+   "duration": 33
+  },
+  {
+   "filename": "blight-seed 195",
+   "frame": {
+    "x": 816,
+    "y": 2832,
+    "w": 272,
+    "h": 236
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 272,
+    "h": 236
+   },
+   "sourceSize": {
+    "w": 272,
+    "h": 236
+   },
+   "duration": 33
+  },
+  {
+   "filename": "blight-seed 196",
+   "frame": {
+    "x": 1088,
+    "y": 2832,
+    "w": 272,
+    "h": 236
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 272,
+    "h": 236
+   },
+   "sourceSize": {
+    "w": 272,
+    "h": 236
+   },
+   "duration": 33
+  },
+  {
+   "filename": "blight-seed 197",
+   "frame": {
+    "x": 1360,
+    "y": 2832,
+    "w": 272,
+    "h": 236
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 272,
+    "h": 236
+   },
+   "sourceSize": {
+    "w": 272,
+    "h": 236
+   },
+   "duration": 33
+  },
+  {
+   "filename": "blight-seed 198",
+   "frame": {
+    "x": 1632,
+    "y": 2832,
+    "w": 272,
+    "h": 236
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 272,
+    "h": 236
+   },
+   "sourceSize": {
+    "w": 272,
+    "h": 236
+   },
+   "duration": 33
+  },
+  {
+   "filename": "blight-seed 199",
+   "frame": {
+    "x": 1904,
+    "y": 2832,
+    "w": 272,
+    "h": 236
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 272,
+    "h": 236
+   },
+   "sourceSize": {
+    "w": 272,
+    "h": 236
+   },
+   "duration": 33
+  },
+  {
+   "filename": "blight-seed 200",
+   "frame": {
+    "x": 2176,
+    "y": 2832,
+    "w": 272,
+    "h": 236
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 272,
+    "h": 236
+   },
+   "sourceSize": {
+    "w": 272,
+    "h": 236
+   },
+   "duration": 33
+  },
+  {
+   "filename": "blight-seed 201",
+   "frame": {
+    "x": 2448,
+    "y": 2832,
+    "w": 272,
+    "h": 236
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 272,
+    "h": 236
+   },
+   "sourceSize": {
+    "w": 272,
+    "h": 236
+   },
+   "duration": 33
+  },
+  {
+   "filename": "blight-seed 202",
+   "frame": {
+    "x": 2720,
+    "y": 2832,
+    "w": 272,
+    "h": 236
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 272,
+    "h": 236
+   },
+   "sourceSize": {
+    "w": 272,
+    "h": 236
+   },
+   "duration": 33
+  },
+  {
+   "filename": "blight-seed 203",
+   "frame": {
+    "x": 2992,
+    "y": 2832,
+    "w": 272,
+    "h": 236
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 272,
+    "h": 236
+   },
+   "sourceSize": {
+    "w": 272,
+    "h": 236
+   },
+   "duration": 33
+  },
+  {
+   "filename": "blight-seed 204",
+   "frame": {
+    "x": 3264,
+    "y": 2832,
+    "w": 272,
+    "h": 236
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 272,
+    "h": 236
+   },
+   "sourceSize": {
+    "w": 272,
+    "h": 236
+   },
+   "duration": 33
+  },
+  {
+   "filename": "blight-seed 205",
+   "frame": {
+    "x": 3536,
+    "y": 2832,
+    "w": 272,
+    "h": 236
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 272,
+    "h": 236
+   },
+   "sourceSize": {
+    "w": 272,
+    "h": 236
+   },
+   "duration": 33
+  },
+  {
+   "filename": "blight-seed 206",
+   "frame": {
+    "x": 3808,
+    "y": 2832,
+    "w": 272,
+    "h": 236
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 272,
+    "h": 236
+   },
+   "sourceSize": {
+    "w": 272,
+    "h": 236
+   },
+   "duration": 33
+  },
+  {
+   "filename": "blight-seed 207",
+   "frame": {
+    "x": 4080,
+    "y": 2832,
+    "w": 272,
+    "h": 236
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 272,
+    "h": 236
+   },
+   "sourceSize": {
+    "w": 272,
+    "h": 236
+   },
+   "duration": 33
+  },
+  {
+   "filename": "blight-seed 208",
+   "frame": {
+    "x": 0,
+    "y": 3068,
+    "w": 272,
+    "h": 236
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 272,
+    "h": 236
+   },
+   "sourceSize": {
+    "w": 272,
+    "h": 236
+   },
+   "duration": 33
+  },
+  {
+   "filename": "blight-seed 209",
+   "frame": {
+    "x": 272,
+    "y": 3068,
+    "w": 272,
+    "h": 236
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 272,
+    "h": 236
+   },
+   "sourceSize": {
+    "w": 272,
+    "h": 236
+   },
+   "duration": 33
+  },
+  {
+   "filename": "blight-seed 210",
+   "frame": {
+    "x": 544,
+    "y": 3068,
+    "w": 272,
+    "h": 236
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 272,
+    "h": 236
+   },
+   "sourceSize": {
+    "w": 272,
+    "h": 236
+   },
+   "duration": 33
+  },
+  {
+   "filename": "blight-seed 211",
+   "frame": {
+    "x": 816,
+    "y": 3068,
+    "w": 272,
+    "h": 236
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 272,
+    "h": 236
+   },
+   "sourceSize": {
+    "w": 272,
+    "h": 236
+   },
+   "duration": 33
+  },
+  {
+   "filename": "blight-seed 212",
+   "frame": {
+    "x": 1088,
+    "y": 3068,
+    "w": 272,
+    "h": 236
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 272,
+    "h": 236
+   },
+   "sourceSize": {
+    "w": 272,
+    "h": 236
+   },
+   "duration": 33
+  },
+  {
+   "filename": "blight-seed 213",
+   "frame": {
+    "x": 1360,
+    "y": 3068,
+    "w": 272,
+    "h": 236
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 272,
+    "h": 236
+   },
+   "sourceSize": {
+    "w": 272,
+    "h": 236
+   },
+   "duration": 33
+  },
+  {
+   "filename": "blight-seed 214",
+   "frame": {
+    "x": 1632,
+    "y": 3068,
+    "w": 272,
+    "h": 236
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 272,
+    "h": 236
+   },
+   "sourceSize": {
+    "w": 272,
+    "h": 236
+   },
+   "duration": 33
+  },
+  {
+   "filename": "blight-seed 215",
+   "frame": {
+    "x": 1904,
+    "y": 3068,
+    "w": 272,
+    "h": 236
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 272,
+    "h": 236
+   },
+   "sourceSize": {
+    "w": 272,
+    "h": 236
+   },
+   "duration": 33
+  },
+  {
+   "filename": "blight-seed 216",
+   "frame": {
+    "x": 2176,
+    "y": 3068,
+    "w": 272,
+    "h": 236
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 272,
+    "h": 236
+   },
+   "sourceSize": {
+    "w": 272,
+    "h": 236
+   },
+   "duration": 33
+  },
+  {
+   "filename": "blight-seed 217",
+   "frame": {
+    "x": 2448,
+    "y": 3068,
+    "w": 272,
+    "h": 236
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 272,
+    "h": 236
+   },
+   "sourceSize": {
+    "w": 272,
+    "h": 236
+   },
+   "duration": 33
+  },
+  {
+   "filename": "blight-seed 218",
+   "frame": {
+    "x": 2720,
+    "y": 3068,
+    "w": 272,
+    "h": 236
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 272,
+    "h": 236
+   },
+   "sourceSize": {
+    "w": 272,
+    "h": 236
+   },
+   "duration": 33
+  },
+  {
+   "filename": "blight-seed 219",
+   "frame": {
+    "x": 2992,
+    "y": 3068,
+    "w": 272,
+    "h": 236
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 272,
+    "h": 236
+   },
+   "sourceSize": {
+    "w": 272,
+    "h": 236
+   },
+   "duration": 33
+  },
+  {
+   "filename": "blight-seed 220",
+   "frame": {
+    "x": 3264,
+    "y": 3068,
+    "w": 272,
+    "h": 236
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 272,
+    "h": 236
+   },
+   "sourceSize": {
+    "w": 272,
+    "h": 236
+   },
+   "duration": 33
+  },
+  {
+   "filename": "blight-seed 221",
+   "frame": {
+    "x": 3536,
+    "y": 3068,
+    "w": 272,
+    "h": 236
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 272,
+    "h": 236
+   },
+   "sourceSize": {
+    "w": 272,
+    "h": 236
+   },
+   "duration": 33
+  },
+  {
+   "filename": "blight-seed 222",
+   "frame": {
+    "x": 3808,
+    "y": 3068,
+    "w": 272,
+    "h": 236
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 272,
+    "h": 236
+   },
+   "sourceSize": {
+    "w": 272,
+    "h": 236
+   },
+   "duration": 33
+  },
+  {
+   "filename": "blight-seed 223",
+   "frame": {
+    "x": 4080,
+    "y": 3068,
+    "w": 272,
+    "h": 236
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 272,
+    "h": 236
+   },
+   "sourceSize": {
+    "w": 272,
+    "h": 236
+   },
+   "duration": 33
+  },
+  {
+   "filename": "blight-seed 224",
+   "frame": {
+    "x": 0,
+    "y": 3304,
+    "w": 272,
+    "h": 236
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 272,
+    "h": 236
+   },
+   "sourceSize": {
+    "w": 272,
+    "h": 236
+   },
+   "duration": 33
+  },
+  {
+   "filename": "blight-seed 225",
+   "frame": {
+    "x": 272,
+    "y": 3304,
+    "w": 272,
+    "h": 236
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 272,
+    "h": 236
+   },
+   "sourceSize": {
+    "w": 272,
+    "h": 236
+   },
+   "duration": 33
+  },
+  {
+   "filename": "blight-seed 226",
+   "frame": {
+    "x": 544,
+    "y": 3304,
+    "w": 272,
+    "h": 236
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 272,
+    "h": 236
+   },
+   "sourceSize": {
+    "w": 272,
+    "h": 236
+   },
+   "duration": 33
+  },
+  {
+   "filename": "blight-seed 227",
+   "frame": {
+    "x": 816,
+    "y": 3304,
+    "w": 272,
+    "h": 236
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 272,
+    "h": 236
+   },
+   "sourceSize": {
+    "w": 272,
+    "h": 236
+   },
+   "duration": 33
+  },
+  {
+   "filename": "blight-seed 228",
+   "frame": {
+    "x": 1088,
+    "y": 3304,
+    "w": 272,
+    "h": 236
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 272,
+    "h": 236
+   },
+   "sourceSize": {
+    "w": 272,
+    "h": 236
+   },
+   "duration": 33
+  },
+  {
+   "filename": "blight-seed 229",
+   "frame": {
+    "x": 1360,
+    "y": 3304,
+    "w": 272,
+    "h": 236
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 272,
+    "h": 236
+   },
+   "sourceSize": {
+    "w": 272,
+    "h": 236
+   },
+   "duration": 33
+  },
+  {
+   "filename": "blight-seed 230",
+   "frame": {
+    "x": 1632,
+    "y": 3304,
+    "w": 272,
+    "h": 236
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 272,
+    "h": 236
+   },
+   "sourceSize": {
+    "w": 272,
+    "h": 236
+   },
+   "duration": 33
+  },
+  {
+   "filename": "blight-seed 231",
+   "frame": {
+    "x": 1904,
+    "y": 3304,
+    "w": 272,
+    "h": 236
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 272,
+    "h": 236
+   },
+   "sourceSize": {
+    "w": 272,
+    "h": 236
+   },
+   "duration": 33
+  },
+  {
+   "filename": "blight-seed 232",
+   "frame": {
+    "x": 2176,
+    "y": 3304,
+    "w": 272,
+    "h": 236
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 272,
+    "h": 236
+   },
+   "sourceSize": {
+    "w": 272,
+    "h": 236
+   },
+   "duration": 33
+  },
+  {
+   "filename": "blight-seed 233",
+   "frame": {
+    "x": 2448,
+    "y": 3304,
+    "w": 272,
+    "h": 236
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 272,
+    "h": 236
+   },
+   "sourceSize": {
+    "w": 272,
+    "h": 236
+   },
+   "duration": 33
+  },
+  {
+   "filename": "blight-seed 234",
+   "frame": {
+    "x": 2720,
+    "y": 3304,
+    "w": 272,
+    "h": 236
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 272,
+    "h": 236
+   },
+   "sourceSize": {
+    "w": 272,
+    "h": 236
+   },
+   "duration": 33
+  },
+  {
+   "filename": "blight-seed 235",
+   "frame": {
+    "x": 2992,
+    "y": 3304,
+    "w": 272,
+    "h": 236
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 272,
+    "h": 236
+   },
+   "sourceSize": {
+    "w": 272,
+    "h": 236
+   },
+   "duration": 33
+  },
+  {
+   "filename": "blight-seed 236",
+   "frame": {
+    "x": 3264,
+    "y": 3304,
+    "w": 272,
+    "h": 236
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 272,
+    "h": 236
+   },
+   "sourceSize": {
+    "w": 272,
+    "h": 236
+   },
+   "duration": 33
+  },
+  {
+   "filename": "blight-seed 237",
+   "frame": {
+    "x": 3536,
+    "y": 3304,
+    "w": 272,
+    "h": 236
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 272,
+    "h": 236
+   },
+   "sourceSize": {
+    "w": 272,
+    "h": 236
+   },
+   "duration": 33
+  },
+  {
+   "filename": "blight-seed 238",
+   "frame": {
+    "x": 3808,
+    "y": 3304,
+    "w": 272,
+    "h": 236
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 272,
+    "h": 236
+   },
+   "sourceSize": {
+    "w": 272,
+    "h": 236
+   },
+   "duration": 33
+  },
+  {
+   "filename": "blight-seed 239",
+   "frame": {
+    "x": 4080,
+    "y": 3304,
+    "w": 272,
+    "h": 236
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 272,
+    "h": 236
+   },
+   "sourceSize": {
+    "w": 272,
+    "h": 236
+   },
+   "duration": 33
+  },
+  {
+   "filename": "blight-seed 240",
+   "frame": {
+    "x": 0,
+    "y": 3540,
+    "w": 272,
+    "h": 236
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 272,
+    "h": 236
+   },
+   "sourceSize": {
+    "w": 272,
+    "h": 236
+   },
+   "duration": 33
+  },
+  {
+   "filename": "blight-seed 241",
+   "frame": {
+    "x": 272,
+    "y": 3540,
+    "w": 272,
+    "h": 236
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 272,
+    "h": 236
+   },
+   "sourceSize": {
+    "w": 272,
+    "h": 236
+   },
+   "duration": 33
+  },
+  {
+   "filename": "blight-seed 242",
+   "frame": {
+    "x": 544,
+    "y": 3540,
+    "w": 272,
+    "h": 236
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 272,
+    "h": 236
+   },
+   "sourceSize": {
+    "w": 272,
+    "h": 236
+   },
+   "duration": 33
+  },
+  {
+   "filename": "blight-seed 243",
+   "frame": {
+    "x": 816,
+    "y": 3540,
+    "w": 272,
+    "h": 236
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 272,
+    "h": 236
+   },
+   "sourceSize": {
+    "w": 272,
+    "h": 236
+   },
+   "duration": 33
+  },
+  {
+   "filename": "blight-seed 244",
+   "frame": {
+    "x": 1088,
+    "y": 3540,
+    "w": 272,
+    "h": 236
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 272,
+    "h": 236
+   },
+   "sourceSize": {
+    "w": 272,
+    "h": 236
+   },
+   "duration": 33
+  },
+  {
+   "filename": "blight-seed 245",
+   "frame": {
+    "x": 1360,
+    "y": 3540,
+    "w": 272,
+    "h": 236
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 272,
+    "h": 236
+   },
+   "sourceSize": {
+    "w": 272,
+    "h": 236
+   },
+   "duration": 33
+  },
+  {
+   "filename": "blight-seed 246",
+   "frame": {
+    "x": 1632,
+    "y": 3540,
+    "w": 272,
+    "h": 236
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 272,
+    "h": 236
+   },
+   "sourceSize": {
+    "w": 272,
+    "h": 236
+   },
+   "duration": 33
+  },
+  {
+   "filename": "blight-seed 247",
+   "frame": {
+    "x": 1904,
+    "y": 3540,
+    "w": 272,
+    "h": 236
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 272,
+    "h": 236
+   },
+   "sourceSize": {
+    "w": 272,
+    "h": 236
+   },
+   "duration": 33
+  },
+  {
+   "filename": "blight-seed 248",
+   "frame": {
+    "x": 2176,
+    "y": 3540,
+    "w": 272,
+    "h": 236
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 272,
+    "h": 236
+   },
+   "sourceSize": {
+    "w": 272,
+    "h": 236
+   },
+   "duration": 33
+  },
+  {
+   "filename": "blight-seed 249",
+   "frame": {
+    "x": 2448,
+    "y": 3540,
+    "w": 272,
+    "h": 236
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 272,
+    "h": 236
+   },
+   "sourceSize": {
+    "w": 272,
+    "h": 236
+   },
+   "duration": 33
+  },
+  {
+   "filename": "blight-seed 250",
+   "frame": {
+    "x": 2720,
+    "y": 3540,
+    "w": 272,
+    "h": 236
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 272,
+    "h": 236
+   },
+   "sourceSize": {
+    "w": 272,
+    "h": 236
+   },
+   "duration": 33
+  },
+  {
+   "filename": "blight-seed 251",
+   "frame": {
+    "x": 2992,
+    "y": 3540,
+    "w": 272,
+    "h": 236
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 272,
+    "h": 236
+   },
+   "sourceSize": {
+    "w": 272,
+    "h": 236
+   },
+   "duration": 33
+  },
+  {
+   "filename": "blight-seed 252",
+   "frame": {
+    "x": 3264,
+    "y": 3540,
+    "w": 272,
+    "h": 236
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 272,
+    "h": 236
+   },
+   "sourceSize": {
+    "w": 272,
+    "h": 236
+   },
+   "duration": 33
+  },
+  {
+   "filename": "blight-seed 253",
+   "frame": {
+    "x": 3536,
+    "y": 3540,
+    "w": 272,
+    "h": 236
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 272,
+    "h": 236
+   },
+   "sourceSize": {
+    "w": 272,
+    "h": 236
+   },
+   "duration": 33
+  },
+  {
+   "filename": "blight-seed 254",
+   "frame": {
+    "x": 3808,
+    "y": 3540,
+    "w": 272,
+    "h": 236
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 272,
+    "h": 236
+   },
+   "sourceSize": {
+    "w": 272,
+    "h": 236
+   },
+   "duration": 33
+  },
+  {
+   "filename": "blight-seed 255",
+   "frame": {
+    "x": 4080,
+    "y": 3540,
+    "w": 272,
+    "h": 236
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 272,
+    "h": 236
+   },
+   "sourceSize": {
+    "w": 272,
+    "h": 236
+   },
+   "duration": 33
+  },
+  {
+   "filename": "blight-seed 256",
+   "frame": {
+    "x": 0,
+    "y": 3776,
+    "w": 272,
+    "h": 236
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 272,
+    "h": 236
+   },
+   "sourceSize": {
+    "w": 272,
+    "h": 236
+   },
+   "duration": 33
+  },
+  {
+   "filename": "blight-seed 257",
+   "frame": {
+    "x": 272,
+    "y": 3776,
+    "w": 272,
+    "h": 236
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 272,
+    "h": 236
+   },
+   "sourceSize": {
+    "w": 272,
+    "h": 236
+   },
+   "duration": 33
+  },
+  {
+   "filename": "blight-seed 258",
+   "frame": {
+    "x": 544,
+    "y": 3776,
+    "w": 272,
+    "h": 236
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 272,
+    "h": 236
+   },
+   "sourceSize": {
+    "w": 272,
+    "h": 236
+   },
+   "duration": 33
+  },
+  {
+   "filename": "blight-seed 259",
+   "frame": {
+    "x": 816,
+    "y": 3776,
+    "w": 272,
+    "h": 236
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 272,
+    "h": 236
+   },
+   "sourceSize": {
+    "w": 272,
+    "h": 236
+   },
+   "duration": 33
+  },
+  {
+   "filename": "blight-seed 260",
+   "frame": {
+    "x": 1088,
+    "y": 3776,
+    "w": 272,
+    "h": 236
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 272,
+    "h": 236
+   },
+   "sourceSize": {
+    "w": 272,
+    "h": 236
+   },
+   "duration": 33
+  },
+  {
+   "filename": "blight-seed 261",
+   "frame": {
+    "x": 1360,
+    "y": 3776,
+    "w": 272,
+    "h": 236
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 272,
+    "h": 236
+   },
+   "sourceSize": {
+    "w": 272,
+    "h": 236
+   },
+   "duration": 33
+  },
+  {
+   "filename": "blight-seed 262",
+   "frame": {
+    "x": 1632,
+    "y": 3776,
+    "w": 272,
+    "h": 236
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 272,
+    "h": 236
+   },
+   "sourceSize": {
+    "w": 272,
+    "h": 236
+   },
+   "duration": 33
+  },
+  {
+   "filename": "blight-seed 263",
+   "frame": {
+    "x": 1904,
+    "y": 3776,
+    "w": 272,
+    "h": 236
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 272,
+    "h": 236
+   },
+   "sourceSize": {
+    "w": 272,
+    "h": 236
+   },
+   "duration": 33
+  },
+  {
+   "filename": "blight-seed 264",
+   "frame": {
+    "x": 2176,
+    "y": 3776,
+    "w": 272,
+    "h": 236
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 272,
+    "h": 236
+   },
+   "sourceSize": {
+    "w": 272,
+    "h": 236
+   },
+   "duration": 33
+  },
+  {
+   "filename": "blight-seed 265",
+   "frame": {
+    "x": 2448,
+    "y": 3776,
+    "w": 272,
+    "h": 236
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 272,
+    "h": 236
+   },
+   "sourceSize": {
+    "w": 272,
+    "h": 236
+   },
+   "duration": 33
+  },
+  {
+   "filename": "blight-seed 266",
+   "frame": {
+    "x": 2720,
+    "y": 3776,
+    "w": 272,
+    "h": 236
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 272,
+    "h": 236
+   },
+   "sourceSize": {
+    "w": 272,
+    "h": 236
+   },
+   "duration": 33
+  },
+  {
+   "filename": "blight-seed 267",
+   "frame": {
+    "x": 2992,
+    "y": 3776,
+    "w": 272,
+    "h": 236
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 272,
+    "h": 236
+   },
+   "sourceSize": {
+    "w": 272,
+    "h": 236
+   },
+   "duration": 33
+  },
+  {
+   "filename": "blight-seed 268",
+   "frame": {
+    "x": 3264,
+    "y": 3776,
+    "w": 272,
+    "h": 236
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 272,
+    "h": 236
+   },
+   "sourceSize": {
+    "w": 272,
+    "h": 236
+   },
+   "duration": 33
+  },
+  {
+   "filename": "blight-seed 269",
+   "frame": {
+    "x": 3536,
+    "y": 3776,
+    "w": 272,
+    "h": 236
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 272,
+    "h": 236
+   },
+   "sourceSize": {
+    "w": 272,
+    "h": 236
+   },
+   "duration": 33
+  },
+  {
+   "filename": "blight-seed 270",
+   "frame": {
+    "x": 3808,
+    "y": 3776,
+    "w": 272,
+    "h": 236
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 272,
+    "h": 236
+   },
+   "sourceSize": {
+    "w": 272,
+    "h": 236
+   },
+   "duration": 33
+  },
+  {
+   "filename": "blight-seed 271",
+   "frame": {
+    "x": 4080,
+    "y": 3776,
+    "w": 272,
+    "h": 236
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 272,
+    "h": 236
+   },
+   "sourceSize": {
+    "w": 272,
+    "h": 236
+   },
+   "duration": 33
+  },
+  {
+   "filename": "blight-seed 272",
+   "frame": {
+    "x": 0,
+    "y": 4012,
+    "w": 272,
+    "h": 236
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 272,
+    "h": 236
+   },
+   "sourceSize": {
+    "w": 272,
+    "h": 236
+   },
+   "duration": 33
+  },
+  {
+   "filename": "blight-seed 273",
+   "frame": {
+    "x": 272,
+    "y": 4012,
+    "w": 272,
+    "h": 236
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 272,
+    "h": 236
+   },
+   "sourceSize": {
+    "w": 272,
+    "h": 236
+   },
+   "duration": 33
+  },
+  {
+   "filename": "blight-seed 274",
+   "frame": {
+    "x": 544,
+    "y": 4012,
+    "w": 272,
+    "h": 236
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 272,
+    "h": 236
+   },
+   "sourceSize": {
+    "w": 272,
+    "h": 236
+   },
+   "duration": 33
+  },
+  {
+   "filename": "blight-seed 275",
+   "frame": {
+    "x": 816,
+    "y": 4012,
+    "w": 272,
+    "h": 236
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 272,
+    "h": 236
+   },
+   "sourceSize": {
+    "w": 272,
+    "h": 236
+   },
+   "duration": 33
+  },
+  {
+   "filename": "blight-seed 276",
+   "frame": {
+    "x": 1088,
+    "y": 4012,
+    "w": 272,
+    "h": 236
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 272,
+    "h": 236
+   },
+   "sourceSize": {
+    "w": 272,
+    "h": 236
+   },
+   "duration": 33
+  }
+ ],
+ "meta": {
+  "app": "https://github.com/patch-gg/pixelfx",
+  "version": "1",
+  "image": "blight-seed.png",
+  "format": "RGBA8888",
+  "size": {
+   "w": 4352,
+   "h": 4248
+  },
+  "scale": "1",
+  "frameTags": [
+   {
+    "name": "blight-seed",
+    "from": 0,
+    "to": 276,
+    "direction": "forward"
+   }
+  ],
+  "pixelfx": {
+   "id": "nature/blight-seed",
+   "name": "Blight seed",
+   "fps": 30,
+   "loop": false,
+   "frames": 277,
+   "frameSize": [
+    272,
+    236
+   ],
+   "pivot": [
+    136,
+    206
+   ],
+   "columns": 16
+  }
+ }
+}

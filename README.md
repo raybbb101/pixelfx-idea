@@ -71,3 +71,25 @@ node tools/render.mjs arcane/tarot-draw --opts '{"card":"tower"}' --gif --sheet
 **Adding more cards:** each face in `_tarot.js` is a small function that returns a colour for each cell
 of the card's picture area (x 3..18, y 9..26 on a 22 x 34 card). Add one and its numeral to `NUM`.
 Other options: `palette` (the card back and magic, dark to bright), `gold` (the frames), `seed`.
+
+## Blight Seed (`nature/blight-seed`)
+
+![Blight Seed](renders/blight-seed/anim.gif)
+
+A trap spell in six beats, 9.2 s:
+
+1. **Rune (0–1.15 s):** a green rune circle draws itself in the sky, runes lighting one by one.
+2. **Seed (1.15–1.9 s):** it flashes and drops a glowing seed that lands with a pulse; a trap mark glows on the floor.
+3. **Growth (1.9–4.2 s):** a sprout unfurls, then grows into a full leafy tree.
+4. **Blight (4.4–5.9 s):** poison mist creeps in, the leaves wither to purple, the bark rots and cracks glow green.
+5. **Awakening (5.9–7.3 s):** eyes burn open, a fanged maw tears open, boughs swing out and curl into claws,
+   roots rip up out of the floor, and it roars (6.85 s) in a blast of mist.
+6. **Menace and sink (7.3–9.2 s):** it sways and writhes, then sinks away into the mist and is gone.
+
+One-shot, 30 fps, 272 x 236 px, pivot `[136, 206]` (the floor where the seed lands).
+
+- `effects/nature/blight-seed.js`: copy to `src/fx/nature/` in a pixelfx checkout (it uses that folder's `_lib.js`
+  and `arcane/_lib.js`).
+- `renders/blight-seed/`: sprite sheet (277 frames) + JSON, contact sheet, GIF.
+
+Options: `palette` (the poison magic), `leaf`, `blight` (withered leaves), `bark`, `rot` (rotten bark), `seed`.

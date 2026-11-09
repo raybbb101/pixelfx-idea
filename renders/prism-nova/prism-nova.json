@@ -1,0 +1,1975 @@
+{
+ "frames": [
+  {
+   "filename": "prism-nova 0",
+   "frame": {
+    "x": 0,
+    "y": 0,
+    "w": 280,
+    "h": 160
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 280,
+    "h": 160
+   },
+   "sourceSize": {
+    "w": 280,
+    "h": 160
+   },
+   "duration": 33
+  },
+  {
+   "filename": "prism-nova 1",
+   "frame": {
+    "x": 280,
+    "y": 0,
+    "w": 280,
+    "h": 160
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 280,
+    "h": 160
+   },
+   "sourceSize": {
+    "w": 280,
+    "h": 160
+   },
+   "duration": 33
+  },
+  {
+   "filename": "prism-nova 2",
+   "frame": {
+    "x": 560,
+    "y": 0,
+    "w": 280,
+    "h": 160
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 280,
+    "h": 160
+   },
+   "sourceSize": {
+    "w": 280,
+    "h": 160
+   },
+   "duration": 33
+  },
+  {
+   "filename": "prism-nova 3",
+   "frame": {
+    "x": 840,
+    "y": 0,
+    "w": 280,
+    "h": 160
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 280,
+    "h": 160
+   },
+   "sourceSize": {
+    "w": 280,
+    "h": 160
+   },
+   "duration": 33
+  },
+  {
+   "filename": "prism-nova 4",
+   "frame": {
+    "x": 1120,
+    "y": 0,
+    "w": 280,
+    "h": 160
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 280,
+    "h": 160
+   },
+   "sourceSize": {
+    "w": 280,
+    "h": 160
+   },
+   "duration": 33
+  },
+  {
+   "filename": "prism-nova 5",
+   "frame": {
+    "x": 1400,
+    "y": 0,
+    "w": 280,
+    "h": 160
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 280,
+    "h": 160
+   },
+   "sourceSize": {
+    "w": 280,
+    "h": 160
+   },
+   "duration": 33
+  },
+  {
+   "filename": "prism-nova 6",
+   "frame": {
+    "x": 1680,
+    "y": 0,
+    "w": 280,
+    "h": 160
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 280,
+    "h": 160
+   },
+   "sourceSize": {
+    "w": 280,
+    "h": 160
+   },
+   "duration": 33
+  },
+  {
+   "filename": "prism-nova 7",
+   "frame": {
+    "x": 1960,
+    "y": 0,
+    "w": 280,
+    "h": 160
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 280,
+    "h": 160
+   },
+   "sourceSize": {
+    "w": 280,
+    "h": 160
+   },
+   "duration": 33
+  },
+  {
+   "filename": "prism-nova 8",
+   "frame": {
+    "x": 0,
+    "y": 160,
+    "w": 280,
+    "h": 160
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 280,
+    "h": 160
+   },
+   "sourceSize": {
+    "w": 280,
+    "h": 160
+   },
+   "duration": 33
+  },
+  {
+   "filename": "prism-nova 9",
+   "frame": {
+    "x": 280,
+    "y": 160,
+    "w": 280,
+    "h": 160
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 280,
+    "h": 160
+   },
+   "sourceSize": {
+    "w": 280,
+    "h": 160
+   },
+   "duration": 33
+  },
+  {
+   "filename": "prism-nova 10",
+   "frame": {
+    "x": 560,
+    "y": 160,
+    "w": 280,
+    "h": 160
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 280,
+    "h": 160
+   },
+   "sourceSize": {
+    "w": 280,
+    "h": 160
+   },
+   "duration": 33
+  },
+  {
+   "filename": "prism-nova 11",
+   "frame": {
+    "x": 840,
+    "y": 160,
+    "w": 280,
+    "h": 160
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 280,
+    "h": 160
+   },
+   "sourceSize": {
+    "w": 280,
+    "h": 160
+   },
+   "duration": 33
+  },
+  {
+   "filename": "prism-nova 12",
+   "frame": {
+    "x": 1120,
+    "y": 160,
+    "w": 280,
+    "h": 160
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 280,
+    "h": 160
+   },
+   "sourceSize": {
+    "w": 280,
+    "h": 160
+   },
+   "duration": 33
+  },
+  {
+   "filename": "prism-nova 13",
+   "frame": {
+    "x": 1400,
+    "y": 160,
+    "w": 280,
+    "h": 160
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 280,
+    "h": 160
+   },
+   "sourceSize": {
+    "w": 280,
+    "h": 160
+   },
+   "duration": 33
+  },
+  {
+   "filename": "prism-nova 14",
+   "frame": {
+    "x": 1680,
+    "y": 160,
+    "w": 280,
+    "h": 160
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 280,
+    "h": 160
+   },
+   "sourceSize": {
+    "w": 280,
+    "h": 160
+   },
+   "duration": 33
+  },
+  {
+   "filename": "prism-nova 15",
+   "frame": {
+    "x": 1960,
+    "y": 160,
+    "w": 280,
+    "h": 160
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 280,
+    "h": 160
+   },
+   "sourceSize": {
+    "w": 280,
+    "h": 160
+   },
+   "duration": 33
+  },
+  {
+   "filename": "prism-nova 16",
+   "frame": {
+    "x": 0,
+    "y": 320,
+    "w": 280,
+    "h": 160
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 280,
+    "h": 160
+   },
+   "sourceSize": {
+    "w": 280,
+    "h": 160
+   },
+   "duration": 33
+  },
+  {
+   "filename": "prism-nova 17",
+   "frame": {
+    "x": 280,
+    "y": 320,
+    "w": 280,
+    "h": 160
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 280,
+    "h": 160
+   },
+   "sourceSize": {
+    "w": 280,
+    "h": 160
+   },
+   "duration": 33
+  },
+  {
+   "filename": "prism-nova 18",
+   "frame": {
+    "x": 560,
+    "y": 320,
+    "w": 280,
+    "h": 160
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 280,
+    "h": 160
+   },
+   "sourceSize": {
+    "w": 280,
+    "h": 160
+   },
+   "duration": 33
+  },
+  {
+   "filename": "prism-nova 19",
+   "frame": {
+    "x": 840,
+    "y": 320,
+    "w": 280,
+    "h": 160
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 280,
+    "h": 160
+   },
+   "sourceSize": {
+    "w": 280,
+    "h": 160
+   },
+   "duration": 33
+  },
+  {
+   "filename": "prism-nova 20",
+   "frame": {
+    "x": 1120,
+    "y": 320,
+    "w": 280,
+    "h": 160
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 280,
+    "h": 160
+   },
+   "sourceSize": {
+    "w": 280,
+    "h": 160
+   },
+   "duration": 33
+  },
+  {
+   "filename": "prism-nova 21",
+   "frame": {
+    "x": 1400,
+    "y": 320,
+    "w": 280,
+    "h": 160
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 280,
+    "h": 160
+   },
+   "sourceSize": {
+    "w": 280,
+    "h": 160
+   },
+   "duration": 33
+  },
+  {
+   "filename": "prism-nova 22",
+   "frame": {
+    "x": 1680,
+    "y": 320,
+    "w": 280,
+    "h": 160
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 280,
+    "h": 160
+   },
+   "sourceSize": {
+    "w": 280,
+    "h": 160
+   },
+   "duration": 33
+  },
+  {
+   "filename": "prism-nova 23",
+   "frame": {
+    "x": 1960,
+    "y": 320,
+    "w": 280,
+    "h": 160
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 280,
+    "h": 160
+   },
+   "sourceSize": {
+    "w": 280,
+    "h": 160
+   },
+   "duration": 33
+  },
+  {
+   "filename": "prism-nova 24",
+   "frame": {
+    "x": 0,
+    "y": 480,
+    "w": 280,
+    "h": 160
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 280,
+    "h": 160
+   },
+   "sourceSize": {
+    "w": 280,
+    "h": 160
+   },
+   "duration": 33
+  },
+  {
+   "filename": "prism-nova 25",
+   "frame": {
+    "x": 280,
+    "y": 480,
+    "w": 280,
+    "h": 160
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 280,
+    "h": 160
+   },
+   "sourceSize": {
+    "w": 280,
+    "h": 160
+   },
+   "duration": 33
+  },
+  {
+   "filename": "prism-nova 26",
+   "frame": {
+    "x": 560,
+    "y": 480,
+    "w": 280,
+    "h": 160
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 280,
+    "h": 160
+   },
+   "sourceSize": {
+    "w": 280,
+    "h": 160
+   },
+   "duration": 33
+  },
+  {
+   "filename": "prism-nova 27",
+   "frame": {
+    "x": 840,
+    "y": 480,
+    "w": 280,
+    "h": 160
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 280,
+    "h": 160
+   },
+   "sourceSize": {
+    "w": 280,
+    "h": 160
+   },
+   "duration": 33
+  },
+  {
+   "filename": "prism-nova 28",
+   "frame": {
+    "x": 1120,
+    "y": 480,
+    "w": 280,
+    "h": 160
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 280,
+    "h": 160
+   },
+   "sourceSize": {
+    "w": 280,
+    "h": 160
+   },
+   "duration": 33
+  },
+  {
+   "filename": "prism-nova 29",
+   "frame": {
+    "x": 1400,
+    "y": 480,
+    "w": 280,
+    "h": 160
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 280,
+    "h": 160
+   },
+   "sourceSize": {
+    "w": 280,
+    "h": 160
+   },
+   "duration": 33
+  },
+  {
+   "filename": "prism-nova 30",
+   "frame": {
+    "x": 1680,
+    "y": 480,
+    "w": 280,
+    "h": 160
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 280,
+    "h": 160
+   },
+   "sourceSize": {
+    "w": 280,
+    "h": 160
+   },
+   "duration": 33
+  },
+  {
+   "filename": "prism-nova 31",
+   "frame": {
+    "x": 1960,
+    "y": 480,
+    "w": 280,
+    "h": 160
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 280,
+    "h": 160
+   },
+   "sourceSize": {
+    "w": 280,
+    "h": 160
+   },
+   "duration": 33
+  },
+  {
+   "filename": "prism-nova 32",
+   "frame": {
+    "x": 0,
+    "y": 640,
+    "w": 280,
+    "h": 160
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 280,
+    "h": 160
+   },
+   "sourceSize": {
+    "w": 280,
+    "h": 160
+   },
+   "duration": 33
+  },
+  {
+   "filename": "prism-nova 33",
+   "frame": {
+    "x": 280,
+    "y": 640,
+    "w": 280,
+    "h": 160
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 280,
+    "h": 160
+   },
+   "sourceSize": {
+    "w": 280,
+    "h": 160
+   },
+   "duration": 33
+  },
+  {
+   "filename": "prism-nova 34",
+   "frame": {
+    "x": 560,
+    "y": 640,
+    "w": 280,
+    "h": 160
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 280,
+    "h": 160
+   },
+   "sourceSize": {
+    "w": 280,
+    "h": 160
+   },
+   "duration": 33
+  },
+  {
+   "filename": "prism-nova 35",
+   "frame": {
+    "x": 840,
+    "y": 640,
+    "w": 280,
+    "h": 160
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 280,
+    "h": 160
+   },
+   "sourceSize": {
+    "w": 280,
+    "h": 160
+   },
+   "duration": 33
+  },
+  {
+   "filename": "prism-nova 36",
+   "frame": {
+    "x": 1120,
+    "y": 640,
+    "w": 280,
+    "h": 160
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 280,
+    "h": 160
+   },
+   "sourceSize": {
+    "w": 280,
+    "h": 160
+   },
+   "duration": 33
+  },
+  {
+   "filename": "prism-nova 37",
+   "frame": {
+    "x": 1400,
+    "y": 640,
+    "w": 280,
+    "h": 160
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 280,
+    "h": 160
+   },
+   "sourceSize": {
+    "w": 280,
+    "h": 160
+   },
+   "duration": 33
+  },
+  {
+   "filename": "prism-nova 38",
+   "frame": {
+    "x": 1680,
+    "y": 640,
+    "w": 280,
+    "h": 160
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 280,
+    "h": 160
+   },
+   "sourceSize": {
+    "w": 280,
+    "h": 160
+   },
+   "duration": 33
+  },
+  {
+   "filename": "prism-nova 39",
+   "frame": {
+    "x": 1960,
+    "y": 640,
+    "w": 280,
+    "h": 160
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 280,
+    "h": 160
+   },
+   "sourceSize": {
+    "w": 280,
+    "h": 160
+   },
+   "duration": 33
+  },
+  {
+   "filename": "prism-nova 40",
+   "frame": {
+    "x": 0,
+    "y": 800,
+    "w": 280,
+    "h": 160
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 280,
+    "h": 160
+   },
+   "sourceSize": {
+    "w": 280,
+    "h": 160
+   },
+   "duration": 33
+  },
+  {
+   "filename": "prism-nova 41",
+   "frame": {
+    "x": 280,
+    "y": 800,
+    "w": 280,
+    "h": 160
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 280,
+    "h": 160
+   },
+   "sourceSize": {
+    "w": 280,
+    "h": 160
+   },
+   "duration": 33
+  },
+  {
+   "filename": "prism-nova 42",
+   "frame": {
+    "x": 560,
+    "y": 800,
+    "w": 280,
+    "h": 160
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 280,
+    "h": 160
+   },
+   "sourceSize": {
+    "w": 280,
+    "h": 160
+   },
+   "duration": 33
+  },
+  {
+   "filename": "prism-nova 43",
+   "frame": {
+    "x": 840,
+    "y": 800,
+    "w": 280,
+    "h": 160
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 280,
+    "h": 160
+   },
+   "sourceSize": {
+    "w": 280,
+    "h": 160
+   },
+   "duration": 33
+  },
+  {
+   "filename": "prism-nova 44",
+   "frame": {
+    "x": 1120,
+    "y": 800,
+    "w": 280,
+    "h": 160
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 280,
+    "h": 160
+   },
+   "sourceSize": {
+    "w": 280,
+    "h": 160
+   },
+   "duration": 33
+  },
+  {
+   "filename": "prism-nova 45",
+   "frame": {
+    "x": 1400,
+    "y": 800,
+    "w": 280,
+    "h": 160
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 280,
+    "h": 160
+   },
+   "sourceSize": {
+    "w": 280,
+    "h": 160
+   },
+   "duration": 33
+  },
+  {
+   "filename": "prism-nova 46",
+   "frame": {
+    "x": 1680,
+    "y": 800,
+    "w": 280,
+    "h": 160
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 280,
+    "h": 160
+   },
+   "sourceSize": {
+    "w": 280,
+    "h": 160
+   },
+   "duration": 33
+  },
+  {
+   "filename": "prism-nova 47",
+   "frame": {
+    "x": 1960,
+    "y": 800,
+    "w": 280,
+    "h": 160
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 280,
+    "h": 160
+   },
+   "sourceSize": {
+    "w": 280,
+    "h": 160
+   },
+   "duration": 33
+  },
+  {
+   "filename": "prism-nova 48",
+   "frame": {
+    "x": 0,
+    "y": 960,
+    "w": 280,
+    "h": 160
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 280,
+    "h": 160
+   },
+   "sourceSize": {
+    "w": 280,
+    "h": 160
+   },
+   "duration": 33
+  },
+  {
+   "filename": "prism-nova 49",
+   "frame": {
+    "x": 280,
+    "y": 960,
+    "w": 280,
+    "h": 160
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 280,
+    "h": 160
+   },
+   "sourceSize": {
+    "w": 280,
+    "h": 160
+   },
+   "duration": 33
+  },
+  {
+   "filename": "prism-nova 50",
+   "frame": {
+    "x": 560,
+    "y": 960,
+    "w": 280,
+    "h": 160
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 280,
+    "h": 160
+   },
+   "sourceSize": {
+    "w": 280,
+    "h": 160
+   },
+   "duration": 33
+  },
+  {
+   "filename": "prism-nova 51",
+   "frame": {
+    "x": 840,
+    "y": 960,
+    "w": 280,
+    "h": 160
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 280,
+    "h": 160
+   },
+   "sourceSize": {
+    "w": 280,
+    "h": 160
+   },
+   "duration": 33
+  },
+  {
+   "filename": "prism-nova 52",
+   "frame": {
+    "x": 1120,
+    "y": 960,
+    "w": 280,
+    "h": 160
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 280,
+    "h": 160
+   },
+   "sourceSize": {
+    "w": 280,
+    "h": 160
+   },
+   "duration": 33
+  },
+  {
+   "filename": "prism-nova 53",
+   "frame": {
+    "x": 1400,
+    "y": 960,
+    "w": 280,
+    "h": 160
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 280,
+    "h": 160
+   },
+   "sourceSize": {
+    "w": 280,
+    "h": 160
+   },
+   "duration": 33
+  },
+  {
+   "filename": "prism-nova 54",
+   "frame": {
+    "x": 1680,
+    "y": 960,
+    "w": 280,
+    "h": 160
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 280,
+    "h": 160
+   },
+   "sourceSize": {
+    "w": 280,
+    "h": 160
+   },
+   "duration": 33
+  },
+  {
+   "filename": "prism-nova 55",
+   "frame": {
+    "x": 1960,
+    "y": 960,
+    "w": 280,
+    "h": 160
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 280,
+    "h": 160
+   },
+   "sourceSize": {
+    "w": 280,
+    "h": 160
+   },
+   "duration": 33
+  },
+  {
+   "filename": "prism-nova 56",
+   "frame": {
+    "x": 0,
+    "y": 1120,
+    "w": 280,
+    "h": 160
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 280,
+    "h": 160
+   },
+   "sourceSize": {
+    "w": 280,
+    "h": 160
+   },
+   "duration": 33
+  },
+  {
+   "filename": "prism-nova 57",
+   "frame": {
+    "x": 280,
+    "y": 1120,
+    "w": 280,
+    "h": 160
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 280,
+    "h": 160
+   },
+   "sourceSize": {
+    "w": 280,
+    "h": 160
+   },
+   "duration": 33
+  },
+  {
+   "filename": "prism-nova 58",
+   "frame": {
+    "x": 560,
+    "y": 1120,
+    "w": 280,
+    "h": 160
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 280,
+    "h": 160
+   },
+   "sourceSize": {
+    "w": 280,
+    "h": 160
+   },
+   "duration": 33
+  },
+  {
+   "filename": "prism-nova 59",
+   "frame": {
+    "x": 840,
+    "y": 1120,
+    "w": 280,
+    "h": 160
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 280,
+    "h": 160
+   },
+   "sourceSize": {
+    "w": 280,
+    "h": 160
+   },
+   "duration": 33
+  },
+  {
+   "filename": "prism-nova 60",
+   "frame": {
+    "x": 1120,
+    "y": 1120,
+    "w": 280,
+    "h": 160
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 280,
+    "h": 160
+   },
+   "sourceSize": {
+    "w": 280,
+    "h": 160
+   },
+   "duration": 33
+  },
+  {
+   "filename": "prism-nova 61",
+   "frame": {
+    "x": 1400,
+    "y": 1120,
+    "w": 280,
+    "h": 160
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 280,
+    "h": 160
+   },
+   "sourceSize": {
+    "w": 280,
+    "h": 160
+   },
+   "duration": 33
+  },
+  {
+   "filename": "prism-nova 62",
+   "frame": {
+    "x": 1680,
+    "y": 1120,
+    "w": 280,
+    "h": 160
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 280,
+    "h": 160
+   },
+   "sourceSize": {
+    "w": 280,
+    "h": 160
+   },
+   "duration": 33
+  },
+  {
+   "filename": "prism-nova 63",
+   "frame": {
+    "x": 1960,
+    "y": 1120,
+    "w": 280,
+    "h": 160
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 280,
+    "h": 160
+   },
+   "sourceSize": {
+    "w": 280,
+    "h": 160
+   },
+   "duration": 33
+  },
+  {
+   "filename": "prism-nova 64",
+   "frame": {
+    "x": 0,
+    "y": 1280,
+    "w": 280,
+    "h": 160
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 280,
+    "h": 160
+   },
+   "sourceSize": {
+    "w": 280,
+    "h": 160
+   },
+   "duration": 33
+  },
+  {
+   "filename": "prism-nova 65",
+   "frame": {
+    "x": 280,
+    "y": 1280,
+    "w": 280,
+    "h": 160
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 280,
+    "h": 160
+   },
+   "sourceSize": {
+    "w": 280,
+    "h": 160
+   },
+   "duration": 33
+  },
+  {
+   "filename": "prism-nova 66",
+   "frame": {
+    "x": 560,
+    "y": 1280,
+    "w": 280,
+    "h": 160
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 280,
+    "h": 160
+   },
+   "sourceSize": {
+    "w": 280,
+    "h": 160
+   },
+   "duration": 33
+  },
+  {
+   "filename": "prism-nova 67",
+   "frame": {
+    "x": 840,
+    "y": 1280,
+    "w": 280,
+    "h": 160
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 280,
+    "h": 160
+   },
+   "sourceSize": {
+    "w": 280,
+    "h": 160
+   },
+   "duration": 33
+  },
+  {
+   "filename": "prism-nova 68",
+   "frame": {
+    "x": 1120,
+    "y": 1280,
+    "w": 280,
+    "h": 160
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 280,
+    "h": 160
+   },
+   "sourceSize": {
+    "w": 280,
+    "h": 160
+   },
+   "duration": 33
+  },
+  {
+   "filename": "prism-nova 69",
+   "frame": {
+    "x": 1400,
+    "y": 1280,
+    "w": 280,
+    "h": 160
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 280,
+    "h": 160
+   },
+   "sourceSize": {
+    "w": 280,
+    "h": 160
+   },
+   "duration": 33
+  },
+  {
+   "filename": "prism-nova 70",
+   "frame": {
+    "x": 1680,
+    "y": 1280,
+    "w": 280,
+    "h": 160
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 280,
+    "h": 160
+   },
+   "sourceSize": {
+    "w": 280,
+    "h": 160
+   },
+   "duration": 33
+  },
+  {
+   "filename": "prism-nova 71",
+   "frame": {
+    "x": 1960,
+    "y": 1280,
+    "w": 280,
+    "h": 160
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 280,
+    "h": 160
+   },
+   "sourceSize": {
+    "w": 280,
+    "h": 160
+   },
+   "duration": 33
+  },
+  {
+   "filename": "prism-nova 72",
+   "frame": {
+    "x": 0,
+    "y": 1440,
+    "w": 280,
+    "h": 160
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 280,
+    "h": 160
+   },
+   "sourceSize": {
+    "w": 280,
+    "h": 160
+   },
+   "duration": 33
+  },
+  {
+   "filename": "prism-nova 73",
+   "frame": {
+    "x": 280,
+    "y": 1440,
+    "w": 280,
+    "h": 160
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 280,
+    "h": 160
+   },
+   "sourceSize": {
+    "w": 280,
+    "h": 160
+   },
+   "duration": 33
+  },
+  {
+   "filename": "prism-nova 74",
+   "frame": {
+    "x": 560,
+    "y": 1440,
+    "w": 280,
+    "h": 160
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 280,
+    "h": 160
+   },
+   "sourceSize": {
+    "w": 280,
+    "h": 160
+   },
+   "duration": 33
+  },
+  {
+   "filename": "prism-nova 75",
+   "frame": {
+    "x": 840,
+    "y": 1440,
+    "w": 280,
+    "h": 160
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 280,
+    "h": 160
+   },
+   "sourceSize": {
+    "w": 280,
+    "h": 160
+   },
+   "duration": 33
+  },
+  {
+   "filename": "prism-nova 76",
+   "frame": {
+    "x": 1120,
+    "y": 1440,
+    "w": 280,
+    "h": 160
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 280,
+    "h": 160
+   },
+   "sourceSize": {
+    "w": 280,
+    "h": 160
+   },
+   "duration": 33
+  },
+  {
+   "filename": "prism-nova 77",
+   "frame": {
+    "x": 1400,
+    "y": 1440,
+    "w": 280,
+    "h": 160
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 280,
+    "h": 160
+   },
+   "sourceSize": {
+    "w": 280,
+    "h": 160
+   },
+   "duration": 33
+  },
+  {
+   "filename": "prism-nova 78",
+   "frame": {
+    "x": 1680,
+    "y": 1440,
+    "w": 280,
+    "h": 160
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 280,
+    "h": 160
+   },
+   "sourceSize": {
+    "w": 280,
+    "h": 160
+   },
+   "duration": 33
+  },
+  {
+   "filename": "prism-nova 79",
+   "frame": {
+    "x": 1960,
+    "y": 1440,
+    "w": 280,
+    "h": 160
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 280,
+    "h": 160
+   },
+   "sourceSize": {
+    "w": 280,
+    "h": 160
+   },
+   "duration": 33
+  },
+  {
+   "filename": "prism-nova 80",
+   "frame": {
+    "x": 0,
+    "y": 1600,
+    "w": 280,
+    "h": 160
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 280,
+    "h": 160
+   },
+   "sourceSize": {
+    "w": 280,
+    "h": 160
+   },
+   "duration": 33
+  },
+  {
+   "filename": "prism-nova 81",
+   "frame": {
+    "x": 280,
+    "y": 1600,
+    "w": 280,
+    "h": 160
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 280,
+    "h": 160
+   },
+   "sourceSize": {
+    "w": 280,
+    "h": 160
+   },
+   "duration": 33
+  },
+  {
+   "filename": "prism-nova 82",
+   "frame": {
+    "x": 560,
+    "y": 1600,
+    "w": 280,
+    "h": 160
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 280,
+    "h": 160
+   },
+   "sourceSize": {
+    "w": 280,
+    "h": 160
+   },
+   "duration": 33
+  },
+  {
+   "filename": "prism-nova 83",
+   "frame": {
+    "x": 840,
+    "y": 1600,
+    "w": 280,
+    "h": 160
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 280,
+    "h": 160
+   },
+   "sourceSize": {
+    "w": 280,
+    "h": 160
+   },
+   "duration": 33
+  },
+  {
+   "filename": "prism-nova 84",
+   "frame": {
+    "x": 1120,
+    "y": 1600,
+    "w": 280,
+    "h": 160
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 280,
+    "h": 160
+   },
+   "sourceSize": {
+    "w": 280,
+    "h": 160
+   },
+   "duration": 33
+  },
+  {
+   "filename": "prism-nova 85",
+   "frame": {
+    "x": 1400,
+    "y": 1600,
+    "w": 280,
+    "h": 160
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 280,
+    "h": 160
+   },
+   "sourceSize": {
+    "w": 280,
+    "h": 160
+   },
+   "duration": 33
+  },
+  {
+   "filename": "prism-nova 86",
+   "frame": {
+    "x": 1680,
+    "y": 1600,
+    "w": 280,
+    "h": 160
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 280,
+    "h": 160
+   },
+   "sourceSize": {
+    "w": 280,
+    "h": 160
+   },
+   "duration": 33
+  },
+  {
+   "filename": "prism-nova 87",
+   "frame": {
+    "x": 1960,
+    "y": 1600,
+    "w": 280,
+    "h": 160
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 280,
+    "h": 160
+   },
+   "sourceSize": {
+    "w": 280,
+    "h": 160
+   },
+   "duration": 33
+  }
+ ],
+ "meta": {
+  "app": "https://github.com/patch-gg/pixelfx",
+  "version": "1",
+  "image": "prism-nova.png",
+  "format": "RGBA8888",
+  "size": {
+   "w": 2240,
+   "h": 1760
+  },
+  "scale": "1",
+  "frameTags": [
+   {
+    "name": "prism-nova",
+    "from": 0,
+    "to": 87,
+    "direction": "forward"
+   }
+  ],
+  "pixelfx": {
+   "id": "arcane/prism-nova",
+   "name": "Prism nova",
+   "fps": 30,
+   "loop": false,
+   "frames": 88,
+   "frameSize": [
+    280,
+    160
+   ],
+   "pivot": [
+    112,
+    134
+   ],
+   "columns": 8
+  }
+ }
+}

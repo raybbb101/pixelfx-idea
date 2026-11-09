@@ -37,3 +37,25 @@ The screen is fully covered from about 1.1 s to 1.7 s, so swap your scene in tha
   picture shows through. Pivot `[0, 0]` (top-left), 30 fps, no loop.
 
 Options: `palette` (fire ramp, dark to bright), `color` (the cover, default near-black), `seed`.
+
+## Tarot Draw (`arcane/tarot-draw`)
+
+| The Sun (XIX) | The Moon (XVIII) | The Star (XVII) |
+|---|---|---|
+| ![Sun](renders/tarot-sun/anim.gif) | ![Moon](renders/tarot-moon/anim.gif) | ![Star](renders/tarot-star/anim.gif) |
+
+Seven tarot cards fan out and spin round in a tilted ring, backs to us, over a rune ring on the floor.
+The ring slows, one card floats up and grows while the rest pop into motes, and it flips to reveal its
+face in a burst of light, glows, then dissolves upward. One-shot, 3.7 s, 30 fps, 232 x 176 px,
+pivot `[116, 148]` (the floor under the ring).
+
+- `effects/arcane/tarot-draw.js`: the effect. Pick the card with the `card` option: `sun`, `moon` or `star`.
+- `renders/tarot-<card>/`: a sprite sheet + JSON, contact sheet and GIF for each sample.
+
+```sh
+node tools/render.mjs arcane/tarot-draw --opts '{"card":"moon"}' --gif --sheet
+```
+
+**Adding more cards:** each face is a small function in `FACES` that returns a colour for each cell of
+the card's picture area (x 3..18, y 9..26 on a 22 x 34 card). Add one (e.g. `tower`) and its numeral to `NUM`.
+Other options: `palette` (the card back and magic, dark to bright), `gold` (the frames), `seed`.

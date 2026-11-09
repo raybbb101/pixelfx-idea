@@ -38,7 +38,9 @@ The screen is fully covered from about 1.1 s to 1.7 s, so swap your scene in tha
 
 Options: `palette` (fire ramp, dark to bright), `color` (the cover, default near-black), `seed`.
 
-## Tarot Draw (`arcane/tarot-draw`)
+## Tarot Draw (`arcane/tarot-draw`): all 22 Major Arcana
+
+![The deck](renders/tarot-deck.png)
 
 | The Sun (XIX) | The Moon (XVIII) | The Star (XVII) |
 |---|---|---|
@@ -49,13 +51,23 @@ The ring slows, one card floats up and grows while the rest pop into motes, and 
 face in a burst of light, glows, then dissolves upward. One-shot, 3.7 s, 30 fps, 232 x 176 px,
 pivot `[116, 148]` (the floor under the ring).
 
-- `effects/arcane/tarot-draw.js`: the effect. Pick the card with the `card` option: `sun`, `moon` or `star`.
-- `renders/tarot-<card>/`: a sprite sheet + JSON, contact sheet and GIF for each sample.
+Pick the card with the `card` option:
+
+| | | | | | |
+|---|---|---|---|---|---|
+| 0 `fool` | I `magician` | II `priestess` | III `empress` | IV `emperor` | V `hierophant` |
+| VI `lovers` | VII `chariot` | VIII `strength` | IX `hermit` | X `wheel` | XI `justice` |
+| XII `hanged` | XIII `death` | XIV `temperance` | XV `devil` | XVI `tower` | XVII `star` |
+| XVIII `moon` | XIX `sun` | XX `judgement` | XXI `world` | | |
+
+- `effects/arcane/tarot-draw.js`: the effect. `effects/arcane/_tarot.js`: the 22 card faces.
+  Copy both to `src/fx/arcane/` in a pixelfx checkout.
+- `renders/tarot-<card>/`: a sprite sheet + JSON, contact sheet and GIF for every card.
 
 ```sh
-node tools/render.mjs arcane/tarot-draw --opts '{"card":"moon"}' --gif --sheet
+node tools/render.mjs arcane/tarot-draw --opts '{"card":"tower"}' --gif --sheet
 ```
 
-**Adding more cards:** each face is a small function in `FACES` that returns a colour for each cell of
-the card's picture area (x 3..18, y 9..26 on a 22 x 34 card). Add one (e.g. `tower`) and its numeral to `NUM`.
+**Adding more cards:** each face in `_tarot.js` is a small function that returns a colour for each cell
+of the card's picture area (x 3..18, y 9..26 on a 22 x 34 card). Add one and its numeral to `NUM`.
 Other options: `palette` (the card back and magic, dark to bright), `gold` (the frames), `seed`.

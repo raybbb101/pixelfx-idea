@@ -1,8 +1,9 @@
+import { FACES, NUM, CARDS } from "./_tarot.js";
 import { Particles, Lights, P, Rng, fit, hex, mix, flare, sparkle, clamp, smooth, ease, rand, TAU, WHITE } from "../../core/index.js";
 
 // Tarot cards fan out of a point and spin round it in a tilted ring, backs to us; the ring slows, one card
 // floats up and grows while the rest scatter into motes, and it flips to show its face in a burst of light,
-// glows, then dissolves upward. The face is an option: add a painter to FACES for a new card.
+// glows, then dissolves upward. The face is an option: the faces live in _tarot.js.
 const CY = -36, RX = 60, RY = 14, N = 7, FAN = 0.35, PICK = 1.6, UP = 2.05, FLIP = 2.1, SHOWN = 2.45, FADE = 3.15, TOP = -66;
 const S0 = 0.85, S1 = 1.8; // card scale in the ring, and once drawn (a card is 22 x 34 at scale 1)
 const CW = 22, CH = 34;
@@ -18,7 +19,7 @@ export const meta = {
   fps: 30,
   bg: "ground",
   options: {
-    card: "sun", // sun | moon | star
+    card: "sun", // any of the 22 Major Arcana: fool magician priestess empress emperor hierophant lovers chariot strength hermit wheel justice hanged death temperance devil tower star moon sun judgement world
     palette: ["#0c0820", "#1e1446", "#33207a", "#4c32a8", "#7454d8", "#a888f4", "#dcccff", "#ffffff"],
     gold: ["#2e1a06", "#6e4612", "#b67e22", "#e8b840", "#fff0a0"],
     seed: 5,
@@ -26,44 +27,6 @@ export const meta = {
 };
 
 const INK = hex("#140c18"), PAPER = hex("#eadcb4"), PAPER2 = hex("#c8b48a");
-const NUM = { sun: "XIX", moon: "XVIII", star: "XVII" };
-
-// ---- the faces: fn(x, y) for the field (x 3..18, y 9..26), centre (10.5, 17.5), returns a colour
-const H = (s) => hex(s);
-const FACES = {
-  sun(x, y, G) {
-    const dx = x + 0.5 - 10.5, dy = y + 0.5 - 16, d = Math.hypot(dx, dy), a = Math.atan2(dy, dx);
-    if (y >= 24) return (y === 24 && (x & 3) !== 1) || y === 25 ? H("#4f9a3c") : H("#2c6230");
-    if (d < 3.3) return d < 2 ? H("#fffbe0") : H("#fff2b0");
-    if (d < 4.6) return G[4];
-    if (d < 5.5) return H("#d0581c");
-    const ray = Math.floor(((a / TAU + 1) * 16 + 0.5)) % 2;
-    return ray ? (d < 9 ? G[3] : H("#f0a83a")) : y < 13 ? H("#f2843a") : H("#e8662e");
-  },
-  moon(x, y) {
-    const cx = x + 0.5, cy = y + 0.5;
-    if (y >= 23) {
-      // water, with the moon's broken reflection down the middle
-      if (Math.abs(cx - 10.5) < 2.2 - (y - 23) * 0.3 && (y & 1) === 0) return H("#d8e0f0");
-      return (x * 3 + y * 5) % 7 === 0 ? H("#5a86c8") : y < 25 ? H("#24467e") : H("#1a3466");
-    }
-    const d1 = Math.hypot(cx - 10.5, cy - 15.5), d2 = Math.hypot(cx - 12.6, cy - 14.2);
-    if (d1 < 5.6 && d2 >= 4.6) return d2 < 5.6 || d1 > 4.7 ? H("#c8c098") : H("#f8f2d4");
-    const st = [[5, 11], [16, 12], [6, 20], [15, 20], [8, 10]];
-    for (const [sx, sy] of st) if ((x === sx && Math.abs(y - sy) <= 1) || (y === sy && Math.abs(x - sx) <= 1)) return x === sx && y === sy ? WHITE : H("#8aa0e0");
-    return y < 15 ? H("#141c48") : H("#22306c");
-  },
-  star(x, y, G) {
-    const dx = x + 0.5 - 10.5, dy = y + 0.5 - 15.5, ax = Math.abs(dx), ay = Math.abs(dy);
-    if (y >= 24) return Math.abs(x + 0.5 - 10.5) < 4 - (y - 24) && y < 26 ? H("#4a3c9a") : H("#100a22");
-    if ((ax < 0.8 && ay < 7) || (ay < 0.8 && ax < 7)) return ax + ay < 2.2 ? WHITE : ax + ay < 4.5 ? G[4] : G[3];
-    if (Math.abs(ax - ay) < 0.8 && ax < 3.2) return G[3];
-    const st = [[5, 11], [16, 10], [4, 19], [17, 19], [7, 22], [14, 22], [10, 9]];
-    for (const [sx, sy] of st) if (x === sx && y === sy) return G[4];
-    return y < 14 ? H("#1a1040") : H("#2a1a5a");
-  },
-};
-
 // one card cell (x 0..21, y 0..33): the face or the back. Returns a colour or 0.
 function cell(x, y, face, kind, C, G) {
   if (x === 0 || x === 21 || y === 0 || y === 33) return INK;
@@ -216,7 +179,7 @@ export function create(o) {
       for (const [i, c] of order) {
         const s = S0 * clamp(0.3 + t / FAN), fade = 1 - smooth(PICK + 0.1, PICK + 0.4, t);
         // backs face out at the front, faces glimpsed on the far side
-        card(p, c.x, c.y, s, c.z, false, i % 2 ? "moon" : "star", C, G, fade, c.z < 0 ? 0.35 : 0);
+        card(p, c.x, c.y, s, c.z, false, CARDS[(i * 5 + o.seed * 3) % CARDS.length], C, G, fade, c.z < 0 ? 0.35 : 0);
         if (c.z > 0.6 && t < PICK) p.glow(c.x, c.y, 12, C[5], 0.12);
       }
       if (t < FAN) {

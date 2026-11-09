@@ -1,0 +1,2503 @@
+{
+ "frames": [
+  {
+   "filename": "tarot-draw 0",
+   "frame": {
+    "x": 0,
+    "y": 0,
+    "w": 232,
+    "h": 176
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 232,
+    "h": 176
+   },
+   "sourceSize": {
+    "w": 232,
+    "h": 176
+   },
+   "duration": 33
+  },
+  {
+   "filename": "tarot-draw 1",
+   "frame": {
+    "x": 232,
+    "y": 0,
+    "w": 232,
+    "h": 176
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 232,
+    "h": 176
+   },
+   "sourceSize": {
+    "w": 232,
+    "h": 176
+   },
+   "duration": 33
+  },
+  {
+   "filename": "tarot-draw 2",
+   "frame": {
+    "x": 464,
+    "y": 0,
+    "w": 232,
+    "h": 176
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 232,
+    "h": 176
+   },
+   "sourceSize": {
+    "w": 232,
+    "h": 176
+   },
+   "duration": 33
+  },
+  {
+   "filename": "tarot-draw 3",
+   "frame": {
+    "x": 696,
+    "y": 0,
+    "w": 232,
+    "h": 176
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 232,
+    "h": 176
+   },
+   "sourceSize": {
+    "w": 232,
+    "h": 176
+   },
+   "duration": 33
+  },
+  {
+   "filename": "tarot-draw 4",
+   "frame": {
+    "x": 928,
+    "y": 0,
+    "w": 232,
+    "h": 176
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 232,
+    "h": 176
+   },
+   "sourceSize": {
+    "w": 232,
+    "h": 176
+   },
+   "duration": 33
+  },
+  {
+   "filename": "tarot-draw 5",
+   "frame": {
+    "x": 1160,
+    "y": 0,
+    "w": 232,
+    "h": 176
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 232,
+    "h": 176
+   },
+   "sourceSize": {
+    "w": 232,
+    "h": 176
+   },
+   "duration": 33
+  },
+  {
+   "filename": "tarot-draw 6",
+   "frame": {
+    "x": 1392,
+    "y": 0,
+    "w": 232,
+    "h": 176
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 232,
+    "h": 176
+   },
+   "sourceSize": {
+    "w": 232,
+    "h": 176
+   },
+   "duration": 33
+  },
+  {
+   "filename": "tarot-draw 7",
+   "frame": {
+    "x": 1624,
+    "y": 0,
+    "w": 232,
+    "h": 176
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 232,
+    "h": 176
+   },
+   "sourceSize": {
+    "w": 232,
+    "h": 176
+   },
+   "duration": 33
+  },
+  {
+   "filename": "tarot-draw 8",
+   "frame": {
+    "x": 1856,
+    "y": 0,
+    "w": 232,
+    "h": 176
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 232,
+    "h": 176
+   },
+   "sourceSize": {
+    "w": 232,
+    "h": 176
+   },
+   "duration": 33
+  },
+  {
+   "filename": "tarot-draw 9",
+   "frame": {
+    "x": 2088,
+    "y": 0,
+    "w": 232,
+    "h": 176
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 232,
+    "h": 176
+   },
+   "sourceSize": {
+    "w": 232,
+    "h": 176
+   },
+   "duration": 33
+  },
+  {
+   "filename": "tarot-draw 10",
+   "frame": {
+    "x": 0,
+    "y": 176,
+    "w": 232,
+    "h": 176
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 232,
+    "h": 176
+   },
+   "sourceSize": {
+    "w": 232,
+    "h": 176
+   },
+   "duration": 33
+  },
+  {
+   "filename": "tarot-draw 11",
+   "frame": {
+    "x": 232,
+    "y": 176,
+    "w": 232,
+    "h": 176
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 232,
+    "h": 176
+   },
+   "sourceSize": {
+    "w": 232,
+    "h": 176
+   },
+   "duration": 33
+  },
+  {
+   "filename": "tarot-draw 12",
+   "frame": {
+    "x": 464,
+    "y": 176,
+    "w": 232,
+    "h": 176
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 232,
+    "h": 176
+   },
+   "sourceSize": {
+    "w": 232,
+    "h": 176
+   },
+   "duration": 33
+  },
+  {
+   "filename": "tarot-draw 13",
+   "frame": {
+    "x": 696,
+    "y": 176,
+    "w": 232,
+    "h": 176
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 232,
+    "h": 176
+   },
+   "sourceSize": {
+    "w": 232,
+    "h": 176
+   },
+   "duration": 33
+  },
+  {
+   "filename": "tarot-draw 14",
+   "frame": {
+    "x": 928,
+    "y": 176,
+    "w": 232,
+    "h": 176
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 232,
+    "h": 176
+   },
+   "sourceSize": {
+    "w": 232,
+    "h": 176
+   },
+   "duration": 33
+  },
+  {
+   "filename": "tarot-draw 15",
+   "frame": {
+    "x": 1160,
+    "y": 176,
+    "w": 232,
+    "h": 176
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 232,
+    "h": 176
+   },
+   "sourceSize": {
+    "w": 232,
+    "h": 176
+   },
+   "duration": 33
+  },
+  {
+   "filename": "tarot-draw 16",
+   "frame": {
+    "x": 1392,
+    "y": 176,
+    "w": 232,
+    "h": 176
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 232,
+    "h": 176
+   },
+   "sourceSize": {
+    "w": 232,
+    "h": 176
+   },
+   "duration": 33
+  },
+  {
+   "filename": "tarot-draw 17",
+   "frame": {
+    "x": 1624,
+    "y": 176,
+    "w": 232,
+    "h": 176
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 232,
+    "h": 176
+   },
+   "sourceSize": {
+    "w": 232,
+    "h": 176
+   },
+   "duration": 33
+  },
+  {
+   "filename": "tarot-draw 18",
+   "frame": {
+    "x": 1856,
+    "y": 176,
+    "w": 232,
+    "h": 176
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 232,
+    "h": 176
+   },
+   "sourceSize": {
+    "w": 232,
+    "h": 176
+   },
+   "duration": 33
+  },
+  {
+   "filename": "tarot-draw 19",
+   "frame": {
+    "x": 2088,
+    "y": 176,
+    "w": 232,
+    "h": 176
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 232,
+    "h": 176
+   },
+   "sourceSize": {
+    "w": 232,
+    "h": 176
+   },
+   "duration": 33
+  },
+  {
+   "filename": "tarot-draw 20",
+   "frame": {
+    "x": 0,
+    "y": 352,
+    "w": 232,
+    "h": 176
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 232,
+    "h": 176
+   },
+   "sourceSize": {
+    "w": 232,
+    "h": 176
+   },
+   "duration": 33
+  },
+  {
+   "filename": "tarot-draw 21",
+   "frame": {
+    "x": 232,
+    "y": 352,
+    "w": 232,
+    "h": 176
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 232,
+    "h": 176
+   },
+   "sourceSize": {
+    "w": 232,
+    "h": 176
+   },
+   "duration": 33
+  },
+  {
+   "filename": "tarot-draw 22",
+   "frame": {
+    "x": 464,
+    "y": 352,
+    "w": 232,
+    "h": 176
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 232,
+    "h": 176
+   },
+   "sourceSize": {
+    "w": 232,
+    "h": 176
+   },
+   "duration": 33
+  },
+  {
+   "filename": "tarot-draw 23",
+   "frame": {
+    "x": 696,
+    "y": 352,
+    "w": 232,
+    "h": 176
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 232,
+    "h": 176
+   },
+   "sourceSize": {
+    "w": 232,
+    "h": 176
+   },
+   "duration": 33
+  },
+  {
+   "filename": "tarot-draw 24",
+   "frame": {
+    "x": 928,
+    "y": 352,
+    "w": 232,
+    "h": 176
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 232,
+    "h": 176
+   },
+   "sourceSize": {
+    "w": 232,
+    "h": 176
+   },
+   "duration": 33
+  },
+  {
+   "filename": "tarot-draw 25",
+   "frame": {
+    "x": 1160,
+    "y": 352,
+    "w": 232,
+    "h": 176
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 232,
+    "h": 176
+   },
+   "sourceSize": {
+    "w": 232,
+    "h": 176
+   },
+   "duration": 33
+  },
+  {
+   "filename": "tarot-draw 26",
+   "frame": {
+    "x": 1392,
+    "y": 352,
+    "w": 232,
+    "h": 176
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 232,
+    "h": 176
+   },
+   "sourceSize": {
+    "w": 232,
+    "h": 176
+   },
+   "duration": 33
+  },
+  {
+   "filename": "tarot-draw 27",
+   "frame": {
+    "x": 1624,
+    "y": 352,
+    "w": 232,
+    "h": 176
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 232,
+    "h": 176
+   },
+   "sourceSize": {
+    "w": 232,
+    "h": 176
+   },
+   "duration": 33
+  },
+  {
+   "filename": "tarot-draw 28",
+   "frame": {
+    "x": 1856,
+    "y": 352,
+    "w": 232,
+    "h": 176
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 232,
+    "h": 176
+   },
+   "sourceSize": {
+    "w": 232,
+    "h": 176
+   },
+   "duration": 33
+  },
+  {
+   "filename": "tarot-draw 29",
+   "frame": {
+    "x": 2088,
+    "y": 352,
+    "w": 232,
+    "h": 176
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 232,
+    "h": 176
+   },
+   "sourceSize": {
+    "w": 232,
+    "h": 176
+   },
+   "duration": 33
+  },
+  {
+   "filename": "tarot-draw 30",
+   "frame": {
+    "x": 0,
+    "y": 528,
+    "w": 232,
+    "h": 176
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 232,
+    "h": 176
+   },
+   "sourceSize": {
+    "w": 232,
+    "h": 176
+   },
+   "duration": 33
+  },
+  {
+   "filename": "tarot-draw 31",
+   "frame": {
+    "x": 232,
+    "y": 528,
+    "w": 232,
+    "h": 176
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 232,
+    "h": 176
+   },
+   "sourceSize": {
+    "w": 232,
+    "h": 176
+   },
+   "duration": 33
+  },
+  {
+   "filename": "tarot-draw 32",
+   "frame": {
+    "x": 464,
+    "y": 528,
+    "w": 232,
+    "h": 176
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 232,
+    "h": 176
+   },
+   "sourceSize": {
+    "w": 232,
+    "h": 176
+   },
+   "duration": 33
+  },
+  {
+   "filename": "tarot-draw 33",
+   "frame": {
+    "x": 696,
+    "y": 528,
+    "w": 232,
+    "h": 176
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 232,
+    "h": 176
+   },
+   "sourceSize": {
+    "w": 232,
+    "h": 176
+   },
+   "duration": 33
+  },
+  {
+   "filename": "tarot-draw 34",
+   "frame": {
+    "x": 928,
+    "y": 528,
+    "w": 232,
+    "h": 176
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 232,
+    "h": 176
+   },
+   "sourceSize": {
+    "w": 232,
+    "h": 176
+   },
+   "duration": 33
+  },
+  {
+   "filename": "tarot-draw 35",
+   "frame": {
+    "x": 1160,
+    "y": 528,
+    "w": 232,
+    "h": 176
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 232,
+    "h": 176
+   },
+   "sourceSize": {
+    "w": 232,
+    "h": 176
+   },
+   "duration": 33
+  },
+  {
+   "filename": "tarot-draw 36",
+   "frame": {
+    "x": 1392,
+    "y": 528,
+    "w": 232,
+    "h": 176
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 232,
+    "h": 176
+   },
+   "sourceSize": {
+    "w": 232,
+    "h": 176
+   },
+   "duration": 33
+  },
+  {
+   "filename": "tarot-draw 37",
+   "frame": {
+    "x": 1624,
+    "y": 528,
+    "w": 232,
+    "h": 176
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 232,
+    "h": 176
+   },
+   "sourceSize": {
+    "w": 232,
+    "h": 176
+   },
+   "duration": 33
+  },
+  {
+   "filename": "tarot-draw 38",
+   "frame": {
+    "x": 1856,
+    "y": 528,
+    "w": 232,
+    "h": 176
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 232,
+    "h": 176
+   },
+   "sourceSize": {
+    "w": 232,
+    "h": 176
+   },
+   "duration": 33
+  },
+  {
+   "filename": "tarot-draw 39",
+   "frame": {
+    "x": 2088,
+    "y": 528,
+    "w": 232,
+    "h": 176
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 232,
+    "h": 176
+   },
+   "sourceSize": {
+    "w": 232,
+    "h": 176
+   },
+   "duration": 33
+  },
+  {
+   "filename": "tarot-draw 40",
+   "frame": {
+    "x": 0,
+    "y": 704,
+    "w": 232,
+    "h": 176
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 232,
+    "h": 176
+   },
+   "sourceSize": {
+    "w": 232,
+    "h": 176
+   },
+   "duration": 33
+  },
+  {
+   "filename": "tarot-draw 41",
+   "frame": {
+    "x": 232,
+    "y": 704,
+    "w": 232,
+    "h": 176
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 232,
+    "h": 176
+   },
+   "sourceSize": {
+    "w": 232,
+    "h": 176
+   },
+   "duration": 33
+  },
+  {
+   "filename": "tarot-draw 42",
+   "frame": {
+    "x": 464,
+    "y": 704,
+    "w": 232,
+    "h": 176
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 232,
+    "h": 176
+   },
+   "sourceSize": {
+    "w": 232,
+    "h": 176
+   },
+   "duration": 33
+  },
+  {
+   "filename": "tarot-draw 43",
+   "frame": {
+    "x": 696,
+    "y": 704,
+    "w": 232,
+    "h": 176
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 232,
+    "h": 176
+   },
+   "sourceSize": {
+    "w": 232,
+    "h": 176
+   },
+   "duration": 33
+  },
+  {
+   "filename": "tarot-draw 44",
+   "frame": {
+    "x": 928,
+    "y": 704,
+    "w": 232,
+    "h": 176
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 232,
+    "h": 176
+   },
+   "sourceSize": {
+    "w": 232,
+    "h": 176
+   },
+   "duration": 33
+  },
+  {
+   "filename": "tarot-draw 45",
+   "frame": {
+    "x": 1160,
+    "y": 704,
+    "w": 232,
+    "h": 176
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 232,
+    "h": 176
+   },
+   "sourceSize": {
+    "w": 232,
+    "h": 176
+   },
+   "duration": 33
+  },
+  {
+   "filename": "tarot-draw 46",
+   "frame": {
+    "x": 1392,
+    "y": 704,
+    "w": 232,
+    "h": 176
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 232,
+    "h": 176
+   },
+   "sourceSize": {
+    "w": 232,
+    "h": 176
+   },
+   "duration": 33
+  },
+  {
+   "filename": "tarot-draw 47",
+   "frame": {
+    "x": 1624,
+    "y": 704,
+    "w": 232,
+    "h": 176
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 232,
+    "h": 176
+   },
+   "sourceSize": {
+    "w": 232,
+    "h": 176
+   },
+   "duration": 33
+  },
+  {
+   "filename": "tarot-draw 48",
+   "frame": {
+    "x": 1856,
+    "y": 704,
+    "w": 232,
+    "h": 176
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 232,
+    "h": 176
+   },
+   "sourceSize": {
+    "w": 232,
+    "h": 176
+   },
+   "duration": 33
+  },
+  {
+   "filename": "tarot-draw 49",
+   "frame": {
+    "x": 2088,
+    "y": 704,
+    "w": 232,
+    "h": 176
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 232,
+    "h": 176
+   },
+   "sourceSize": {
+    "w": 232,
+    "h": 176
+   },
+   "duration": 33
+  },
+  {
+   "filename": "tarot-draw 50",
+   "frame": {
+    "x": 0,
+    "y": 880,
+    "w": 232,
+    "h": 176
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 232,
+    "h": 176
+   },
+   "sourceSize": {
+    "w": 232,
+    "h": 176
+   },
+   "duration": 33
+  },
+  {
+   "filename": "tarot-draw 51",
+   "frame": {
+    "x": 232,
+    "y": 880,
+    "w": 232,
+    "h": 176
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 232,
+    "h": 176
+   },
+   "sourceSize": {
+    "w": 232,
+    "h": 176
+   },
+   "duration": 33
+  },
+  {
+   "filename": "tarot-draw 52",
+   "frame": {
+    "x": 464,
+    "y": 880,
+    "w": 232,
+    "h": 176
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 232,
+    "h": 176
+   },
+   "sourceSize": {
+    "w": 232,
+    "h": 176
+   },
+   "duration": 33
+  },
+  {
+   "filename": "tarot-draw 53",
+   "frame": {
+    "x": 696,
+    "y": 880,
+    "w": 232,
+    "h": 176
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 232,
+    "h": 176
+   },
+   "sourceSize": {
+    "w": 232,
+    "h": 176
+   },
+   "duration": 33
+  },
+  {
+   "filename": "tarot-draw 54",
+   "frame": {
+    "x": 928,
+    "y": 880,
+    "w": 232,
+    "h": 176
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 232,
+    "h": 176
+   },
+   "sourceSize": {
+    "w": 232,
+    "h": 176
+   },
+   "duration": 33
+  },
+  {
+   "filename": "tarot-draw 55",
+   "frame": {
+    "x": 1160,
+    "y": 880,
+    "w": 232,
+    "h": 176
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 232,
+    "h": 176
+   },
+   "sourceSize": {
+    "w": 232,
+    "h": 176
+   },
+   "duration": 33
+  },
+  {
+   "filename": "tarot-draw 56",
+   "frame": {
+    "x": 1392,
+    "y": 880,
+    "w": 232,
+    "h": 176
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 232,
+    "h": 176
+   },
+   "sourceSize": {
+    "w": 232,
+    "h": 176
+   },
+   "duration": 33
+  },
+  {
+   "filename": "tarot-draw 57",
+   "frame": {
+    "x": 1624,
+    "y": 880,
+    "w": 232,
+    "h": 176
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 232,
+    "h": 176
+   },
+   "sourceSize": {
+    "w": 232,
+    "h": 176
+   },
+   "duration": 33
+  },
+  {
+   "filename": "tarot-draw 58",
+   "frame": {
+    "x": 1856,
+    "y": 880,
+    "w": 232,
+    "h": 176
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 232,
+    "h": 176
+   },
+   "sourceSize": {
+    "w": 232,
+    "h": 176
+   },
+   "duration": 33
+  },
+  {
+   "filename": "tarot-draw 59",
+   "frame": {
+    "x": 2088,
+    "y": 880,
+    "w": 232,
+    "h": 176
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 232,
+    "h": 176
+   },
+   "sourceSize": {
+    "w": 232,
+    "h": 176
+   },
+   "duration": 33
+  },
+  {
+   "filename": "tarot-draw 60",
+   "frame": {
+    "x": 0,
+    "y": 1056,
+    "w": 232,
+    "h": 176
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 232,
+    "h": 176
+   },
+   "sourceSize": {
+    "w": 232,
+    "h": 176
+   },
+   "duration": 33
+  },
+  {
+   "filename": "tarot-draw 61",
+   "frame": {
+    "x": 232,
+    "y": 1056,
+    "w": 232,
+    "h": 176
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 232,
+    "h": 176
+   },
+   "sourceSize": {
+    "w": 232,
+    "h": 176
+   },
+   "duration": 33
+  },
+  {
+   "filename": "tarot-draw 62",
+   "frame": {
+    "x": 464,
+    "y": 1056,
+    "w": 232,
+    "h": 176
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 232,
+    "h": 176
+   },
+   "sourceSize": {
+    "w": 232,
+    "h": 176
+   },
+   "duration": 33
+  },
+  {
+   "filename": "tarot-draw 63",
+   "frame": {
+    "x": 696,
+    "y": 1056,
+    "w": 232,
+    "h": 176
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 232,
+    "h": 176
+   },
+   "sourceSize": {
+    "w": 232,
+    "h": 176
+   },
+   "duration": 33
+  },
+  {
+   "filename": "tarot-draw 64",
+   "frame": {
+    "x": 928,
+    "y": 1056,
+    "w": 232,
+    "h": 176
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 232,
+    "h": 176
+   },
+   "sourceSize": {
+    "w": 232,
+    "h": 176
+   },
+   "duration": 33
+  },
+  {
+   "filename": "tarot-draw 65",
+   "frame": {
+    "x": 1160,
+    "y": 1056,
+    "w": 232,
+    "h": 176
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 232,
+    "h": 176
+   },
+   "sourceSize": {
+    "w": 232,
+    "h": 176
+   },
+   "duration": 33
+  },
+  {
+   "filename": "tarot-draw 66",
+   "frame": {
+    "x": 1392,
+    "y": 1056,
+    "w": 232,
+    "h": 176
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 232,
+    "h": 176
+   },
+   "sourceSize": {
+    "w": 232,
+    "h": 176
+   },
+   "duration": 33
+  },
+  {
+   "filename": "tarot-draw 67",
+   "frame": {
+    "x": 1624,
+    "y": 1056,
+    "w": 232,
+    "h": 176
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 232,
+    "h": 176
+   },
+   "sourceSize": {
+    "w": 232,
+    "h": 176
+   },
+   "duration": 33
+  },
+  {
+   "filename": "tarot-draw 68",
+   "frame": {
+    "x": 1856,
+    "y": 1056,
+    "w": 232,
+    "h": 176
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 232,
+    "h": 176
+   },
+   "sourceSize": {
+    "w": 232,
+    "h": 176
+   },
+   "duration": 33
+  },
+  {
+   "filename": "tarot-draw 69",
+   "frame": {
+    "x": 2088,
+    "y": 1056,
+    "w": 232,
+    "h": 176
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 232,
+    "h": 176
+   },
+   "sourceSize": {
+    "w": 232,
+    "h": 176
+   },
+   "duration": 33
+  },
+  {
+   "filename": "tarot-draw 70",
+   "frame": {
+    "x": 0,
+    "y": 1232,
+    "w": 232,
+    "h": 176
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 232,
+    "h": 176
+   },
+   "sourceSize": {
+    "w": 232,
+    "h": 176
+   },
+   "duration": 33
+  },
+  {
+   "filename": "tarot-draw 71",
+   "frame": {
+    "x": 232,
+    "y": 1232,
+    "w": 232,
+    "h": 176
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 232,
+    "h": 176
+   },
+   "sourceSize": {
+    "w": 232,
+    "h": 176
+   },
+   "duration": 33
+  },
+  {
+   "filename": "tarot-draw 72",
+   "frame": {
+    "x": 464,
+    "y": 1232,
+    "w": 232,
+    "h": 176
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 232,
+    "h": 176
+   },
+   "sourceSize": {
+    "w": 232,
+    "h": 176
+   },
+   "duration": 33
+  },
+  {
+   "filename": "tarot-draw 73",
+   "frame": {
+    "x": 696,
+    "y": 1232,
+    "w": 232,
+    "h": 176
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 232,
+    "h": 176
+   },
+   "sourceSize": {
+    "w": 232,
+    "h": 176
+   },
+   "duration": 33
+  },
+  {
+   "filename": "tarot-draw 74",
+   "frame": {
+    "x": 928,
+    "y": 1232,
+    "w": 232,
+    "h": 176
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 232,
+    "h": 176
+   },
+   "sourceSize": {
+    "w": 232,
+    "h": 176
+   },
+   "duration": 33
+  },
+  {
+   "filename": "tarot-draw 75",
+   "frame": {
+    "x": 1160,
+    "y": 1232,
+    "w": 232,
+    "h": 176
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 232,
+    "h": 176
+   },
+   "sourceSize": {
+    "w": 232,
+    "h": 176
+   },
+   "duration": 33
+  },
+  {
+   "filename": "tarot-draw 76",
+   "frame": {
+    "x": 1392,
+    "y": 1232,
+    "w": 232,
+    "h": 176
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 232,
+    "h": 176
+   },
+   "sourceSize": {
+    "w": 232,
+    "h": 176
+   },
+   "duration": 33
+  },
+  {
+   "filename": "tarot-draw 77",
+   "frame": {
+    "x": 1624,
+    "y": 1232,
+    "w": 232,
+    "h": 176
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 232,
+    "h": 176
+   },
+   "sourceSize": {
+    "w": 232,
+    "h": 176
+   },
+   "duration": 33
+  },
+  {
+   "filename": "tarot-draw 78",
+   "frame": {
+    "x": 1856,
+    "y": 1232,
+    "w": 232,
+    "h": 176
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 232,
+    "h": 176
+   },
+   "sourceSize": {
+    "w": 232,
+    "h": 176
+   },
+   "duration": 33
+  },
+  {
+   "filename": "tarot-draw 79",
+   "frame": {
+    "x": 2088,
+    "y": 1232,
+    "w": 232,
+    "h": 176
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 232,
+    "h": 176
+   },
+   "sourceSize": {
+    "w": 232,
+    "h": 176
+   },
+   "duration": 33
+  },
+  {
+   "filename": "tarot-draw 80",
+   "frame": {
+    "x": 0,
+    "y": 1408,
+    "w": 232,
+    "h": 176
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 232,
+    "h": 176
+   },
+   "sourceSize": {
+    "w": 232,
+    "h": 176
+   },
+   "duration": 33
+  },
+  {
+   "filename": "tarot-draw 81",
+   "frame": {
+    "x": 232,
+    "y": 1408,
+    "w": 232,
+    "h": 176
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 232,
+    "h": 176
+   },
+   "sourceSize": {
+    "w": 232,
+    "h": 176
+   },
+   "duration": 33
+  },
+  {
+   "filename": "tarot-draw 82",
+   "frame": {
+    "x": 464,
+    "y": 1408,
+    "w": 232,
+    "h": 176
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 232,
+    "h": 176
+   },
+   "sourceSize": {
+    "w": 232,
+    "h": 176
+   },
+   "duration": 33
+  },
+  {
+   "filename": "tarot-draw 83",
+   "frame": {
+    "x": 696,
+    "y": 1408,
+    "w": 232,
+    "h": 176
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 232,
+    "h": 176
+   },
+   "sourceSize": {
+    "w": 232,
+    "h": 176
+   },
+   "duration": 33
+  },
+  {
+   "filename": "tarot-draw 84",
+   "frame": {
+    "x": 928,
+    "y": 1408,
+    "w": 232,
+    "h": 176
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 232,
+    "h": 176
+   },
+   "sourceSize": {
+    "w": 232,
+    "h": 176
+   },
+   "duration": 33
+  },
+  {
+   "filename": "tarot-draw 85",
+   "frame": {
+    "x": 1160,
+    "y": 1408,
+    "w": 232,
+    "h": 176
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 232,
+    "h": 176
+   },
+   "sourceSize": {
+    "w": 232,
+    "h": 176
+   },
+   "duration": 33
+  },
+  {
+   "filename": "tarot-draw 86",
+   "frame": {
+    "x": 1392,
+    "y": 1408,
+    "w": 232,
+    "h": 176
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 232,
+    "h": 176
+   },
+   "sourceSize": {
+    "w": 232,
+    "h": 176
+   },
+   "duration": 33
+  },
+  {
+   "filename": "tarot-draw 87",
+   "frame": {
+    "x": 1624,
+    "y": 1408,
+    "w": 232,
+    "h": 176
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 232,
+    "h": 176
+   },
+   "sourceSize": {
+    "w": 232,
+    "h": 176
+   },
+   "duration": 33
+  },
+  {
+   "filename": "tarot-draw 88",
+   "frame": {
+    "x": 1856,
+    "y": 1408,
+    "w": 232,
+    "h": 176
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 232,
+    "h": 176
+   },
+   "sourceSize": {
+    "w": 232,
+    "h": 176
+   },
+   "duration": 33
+  },
+  {
+   "filename": "tarot-draw 89",
+   "frame": {
+    "x": 2088,
+    "y": 1408,
+    "w": 232,
+    "h": 176
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 232,
+    "h": 176
+   },
+   "sourceSize": {
+    "w": 232,
+    "h": 176
+   },
+   "duration": 33
+  },
+  {
+   "filename": "tarot-draw 90",
+   "frame": {
+    "x": 0,
+    "y": 1584,
+    "w": 232,
+    "h": 176
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 232,
+    "h": 176
+   },
+   "sourceSize": {
+    "w": 232,
+    "h": 176
+   },
+   "duration": 33
+  },
+  {
+   "filename": "tarot-draw 91",
+   "frame": {
+    "x": 232,
+    "y": 1584,
+    "w": 232,
+    "h": 176
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 232,
+    "h": 176
+   },
+   "sourceSize": {
+    "w": 232,
+    "h": 176
+   },
+   "duration": 33
+  },
+  {
+   "filename": "tarot-draw 92",
+   "frame": {
+    "x": 464,
+    "y": 1584,
+    "w": 232,
+    "h": 176
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 232,
+    "h": 176
+   },
+   "sourceSize": {
+    "w": 232,
+    "h": 176
+   },
+   "duration": 33
+  },
+  {
+   "filename": "tarot-draw 93",
+   "frame": {
+    "x": 696,
+    "y": 1584,
+    "w": 232,
+    "h": 176
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 232,
+    "h": 176
+   },
+   "sourceSize": {
+    "w": 232,
+    "h": 176
+   },
+   "duration": 33
+  },
+  {
+   "filename": "tarot-draw 94",
+   "frame": {
+    "x": 928,
+    "y": 1584,
+    "w": 232,
+    "h": 176
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 232,
+    "h": 176
+   },
+   "sourceSize": {
+    "w": 232,
+    "h": 176
+   },
+   "duration": 33
+  },
+  {
+   "filename": "tarot-draw 95",
+   "frame": {
+    "x": 1160,
+    "y": 1584,
+    "w": 232,
+    "h": 176
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 232,
+    "h": 176
+   },
+   "sourceSize": {
+    "w": 232,
+    "h": 176
+   },
+   "duration": 33
+  },
+  {
+   "filename": "tarot-draw 96",
+   "frame": {
+    "x": 1392,
+    "y": 1584,
+    "w": 232,
+    "h": 176
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 232,
+    "h": 176
+   },
+   "sourceSize": {
+    "w": 232,
+    "h": 176
+   },
+   "duration": 33
+  },
+  {
+   "filename": "tarot-draw 97",
+   "frame": {
+    "x": 1624,
+    "y": 1584,
+    "w": 232,
+    "h": 176
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 232,
+    "h": 176
+   },
+   "sourceSize": {
+    "w": 232,
+    "h": 176
+   },
+   "duration": 33
+  },
+  {
+   "filename": "tarot-draw 98",
+   "frame": {
+    "x": 1856,
+    "y": 1584,
+    "w": 232,
+    "h": 176
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 232,
+    "h": 176
+   },
+   "sourceSize": {
+    "w": 232,
+    "h": 176
+   },
+   "duration": 33
+  },
+  {
+   "filename": "tarot-draw 99",
+   "frame": {
+    "x": 2088,
+    "y": 1584,
+    "w": 232,
+    "h": 176
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 232,
+    "h": 176
+   },
+   "sourceSize": {
+    "w": 232,
+    "h": 176
+   },
+   "duration": 33
+  },
+  {
+   "filename": "tarot-draw 100",
+   "frame": {
+    "x": 0,
+    "y": 1760,
+    "w": 232,
+    "h": 176
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 232,
+    "h": 176
+   },
+   "sourceSize": {
+    "w": 232,
+    "h": 176
+   },
+   "duration": 33
+  },
+  {
+   "filename": "tarot-draw 101",
+   "frame": {
+    "x": 232,
+    "y": 1760,
+    "w": 232,
+    "h": 176
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 232,
+    "h": 176
+   },
+   "sourceSize": {
+    "w": 232,
+    "h": 176
+   },
+   "duration": 33
+  },
+  {
+   "filename": "tarot-draw 102",
+   "frame": {
+    "x": 464,
+    "y": 1760,
+    "w": 232,
+    "h": 176
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 232,
+    "h": 176
+   },
+   "sourceSize": {
+    "w": 232,
+    "h": 176
+   },
+   "duration": 33
+  },
+  {
+   "filename": "tarot-draw 103",
+   "frame": {
+    "x": 696,
+    "y": 1760,
+    "w": 232,
+    "h": 176
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 232,
+    "h": 176
+   },
+   "sourceSize": {
+    "w": 232,
+    "h": 176
+   },
+   "duration": 33
+  },
+  {
+   "filename": "tarot-draw 104",
+   "frame": {
+    "x": 928,
+    "y": 1760,
+    "w": 232,
+    "h": 176
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 232,
+    "h": 176
+   },
+   "sourceSize": {
+    "w": 232,
+    "h": 176
+   },
+   "duration": 33
+  },
+  {
+   "filename": "tarot-draw 105",
+   "frame": {
+    "x": 1160,
+    "y": 1760,
+    "w": 232,
+    "h": 176
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 232,
+    "h": 176
+   },
+   "sourceSize": {
+    "w": 232,
+    "h": 176
+   },
+   "duration": 33
+  },
+  {
+   "filename": "tarot-draw 106",
+   "frame": {
+    "x": 1392,
+    "y": 1760,
+    "w": 232,
+    "h": 176
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 232,
+    "h": 176
+   },
+   "sourceSize": {
+    "w": 232,
+    "h": 176
+   },
+   "duration": 33
+  },
+  {
+   "filename": "tarot-draw 107",
+   "frame": {
+    "x": 1624,
+    "y": 1760,
+    "w": 232,
+    "h": 176
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 232,
+    "h": 176
+   },
+   "sourceSize": {
+    "w": 232,
+    "h": 176
+   },
+   "duration": 33
+  },
+  {
+   "filename": "tarot-draw 108",
+   "frame": {
+    "x": 1856,
+    "y": 1760,
+    "w": 232,
+    "h": 176
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 232,
+    "h": 176
+   },
+   "sourceSize": {
+    "w": 232,
+    "h": 176
+   },
+   "duration": 33
+  },
+  {
+   "filename": "tarot-draw 109",
+   "frame": {
+    "x": 2088,
+    "y": 1760,
+    "w": 232,
+    "h": 176
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 232,
+    "h": 176
+   },
+   "sourceSize": {
+    "w": 232,
+    "h": 176
+   },
+   "duration": 33
+  },
+  {
+   "filename": "tarot-draw 110",
+   "frame": {
+    "x": 0,
+    "y": 1936,
+    "w": 232,
+    "h": 176
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 232,
+    "h": 176
+   },
+   "sourceSize": {
+    "w": 232,
+    "h": 176
+   },
+   "duration": 33
+  },
+  {
+   "filename": "tarot-draw 111",
+   "frame": {
+    "x": 232,
+    "y": 1936,
+    "w": 232,
+    "h": 176
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 232,
+    "h": 176
+   },
+   "sourceSize": {
+    "w": 232,
+    "h": 176
+   },
+   "duration": 33
+  }
+ ],
+ "meta": {
+  "app": "https://github.com/patch-gg/pixelfx",
+  "version": "1",
+  "image": "tarot-devil.png",
+  "format": "RGBA8888",
+  "size": {
+   "w": 2320,
+   "h": 2112
+  },
+  "scale": "1",
+  "frameTags": [
+   {
+    "name": "tarot-draw",
+    "from": 0,
+    "to": 111,
+    "direction": "forward"
+   }
+  ],
+  "pixelfx": {
+   "id": "arcane/tarot-draw",
+   "name": "Tarot draw",
+   "fps": 30,
+   "loop": false,
+   "frames": 112,
+   "frameSize": [
+    232,
+    176
+   ],
+   "pivot": [
+    116,
+    148
+   ],
+   "columns": 10
+  }
+ }
+}

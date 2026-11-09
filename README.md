@@ -183,3 +183,19 @@ The pull is the `stars` option, one letter per slot, left to right, top row firs
 ```sh
 node tools/render.mjs ui/gacha-star-rain --opts '{"stars":"WGWBWGPWGC"}' --gif --sheet
 ```
+
+## Matcha Pour (`water/matcha-pour`): background scene
+
+![Matcha Pour](renders/matcha-pour/anim.gif)
+
+A quiet full-screen (320 x 180) background, a seamless 6 s loop. Sun comes through shoji screens with
+bamboo-leaf shadows swaying on the paper and dust turning in the light. On a dark wooden table, a hand in an
+indigo kimono sleeve tilts a red clay kyusu and pours a bright rope of matcha into a dark raku bowl with a
+cream glaze drip. Light runs down the stream as it wobbles; it splashes and sends ripples across the frothy
+surface, and steam curls up. A bamboo chasen and a plate of pink sakura wagashi sit beside it.
+
+- `effects/water/matcha-pour.js`: copy to `src/fx/water/` in a pixelfx checkout (it uses `weather/_lib.js`).
+- `renders/matcha-pour/`: sprite sheet (180 frames) + JSON, contact sheet, GIF. Pivot `[160, 180]` (bottom centre).
+
+Options: `palette` (the matcha, deep to froth), `clay` (the teapot), `sleeve` (the kimono), `seed`.
+For hojicha, try a brown `palette`; for a black iron pot, a grey `clay`.
